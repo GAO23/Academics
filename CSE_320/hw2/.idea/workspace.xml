@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="HW2" targetName="HW2_Test" />
+      <config projectName="HW2" targetName="HW2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="491af447-cc08-4611-bbf7-db2eda321b7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rolo" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rolo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rolo_tests" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rolo_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/operations.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/operations.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/options.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/options.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/rolo.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/rolo.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/toolsdir/menu.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/toolsdir/menu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/update.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/update.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/menuaux.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/menuaux.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/operations.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/operations.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/options.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/options.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/rlist.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/rlist.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/rolo.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/rolo.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/search.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/search.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/update.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HW2.dir/src/update.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/HW2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/HW2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menuaux.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/menuaux.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/options.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/options.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rlist.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/rlist.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rolo.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/rolo.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/search.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/update.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/update.c" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1RgDl901IW5TDrPfsslcE4qixx0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.HW2">
+    <configuration name="HW2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="Fred Debbie" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HW2" TARGET_NAME="HW2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HW2" RUN_TARGET_NAME="HW2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2_Test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HW2" TARGET_NAME="HW2_Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HW2" RUN_TARGET_NAME="HW2_Test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.HW2" />
+      <item itemvalue="CMake Application.HW2_Test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="491af447-cc08-4611-bbf7-db2eda321b7d" name="Default Changelist" comment="" />
+      <created>1570079993449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570079993449</updated>
+      <workItem from="1570079996529" duration="3920000" />
+      <workItem from="1570083943536" duration="724000" />
+      <workItem from="1570084685838" duration="626000" />
+      <workItem from="1570085334622" duration="82000" />
+      <workItem from="1570085434067" duration="34000" />
+      <workItem from="1570085484567" duration="134000" />
+      <workItem from="1570085639078" duration="106000" />
+      <workItem from="1570138914024" duration="26248000" />
+      <workItem from="1570176479715" duration="2670000" />
+      <workItem from="1570211655482" duration="2031000" />
+      <workItem from="1570214093458" duration="4189000" />
+      <workItem from="1570223357992" duration="233000" />
+      <workItem from="1570223607087" duration="5371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/menuaux.c</url>
+          <line>61</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/toolsdir/menu.c</url>
+          <line>242</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/options.c</url>
+          <line>235</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

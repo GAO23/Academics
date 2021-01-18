@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g   CMakeFiles/HW4_Test.dir/tests/hw4_tests.c.o  -o HW4_Test /usr/lib/libcriterion.so 

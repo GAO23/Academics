@@ -1,0 +1,77 @@
+• Total number of tracks swept on each device.
+
+Demo: 10697 for device 0, 72 for device 1, 18 for device 2
+Mine: 1010 for device 0, 3 for device 1, 9 for device 2
+
+My strategy is much more effient than the demo's
+
+
+• Average number of tracks swept per I/O request.
+
+Demo: 7 for device 0, 2 for device 1, 1 for device 2
+Mine: 5 for device 0, 1 for device 1, 1 for device 2
+
+My strategy is obviously much more effient than the demo's
+
+• Average turnaround time for I/O requests.
+
+Demo: 848 for device 0, 216 for device 1, 789 for device 2
+Mine: 258 for device 0, 193 for device 1, 630 for device 2
+
+My strategy is obviously much more effient than the demo's
+
+• System throughput.
+
+Demo:
+  Device 0: Swap Device   (mount point: /vm/)
+	    Number of pages read = 1270
+	    Number of pages written = 280
+	    Average number of cylinders swept per disk access = 7
+	      Total number of cylinders swept = 10697
+	    Service time per I/O request: 848
+	    Device queue:
+		
+  Device 1: Disk   (mount point: /etc/go/)
+	    Number of pages read = 20
+	    Number of pages written = 25
+	    Average number of cylinders swept per disk access = 2
+	      Total number of cylinders swept = 72
+	    Service time per I/O request: 216
+	    Device queue:  Empty
+  Device 2: Disk   (mount point: /etc/)
+	    Number of pages read = 6
+	    Number of pages written = 8
+	    Average number of cylinders swept per disk access = 1
+	      Total number of cylinders swept = 18
+	    Service time per I/O request: 789
+	    Device queue:  Empty
+
+
+Mine:  
+  Device 0: Swap Device   (mount point: /vm/)
+	    Number of pages read = 183
+	    Number of pages written = 29
+	    Average number of cylinders swept per disk access = 5
+	      Total number of cylinders swept = 1010
+	    Service time per I/O request: 258
+	    Device queue:
+
+  Device 1: Disk   (mount point: /etc/go/)
+	    Number of pages read = 4
+	    Number of pages written = 2
+	    Average number of cylinders swept per disk access = 1
+	      Total number of cylinders swept = 3
+	    Service time per I/O request: 193
+	    Device queue:  Empty
+  Device 2: Disk   (mount point: /etc/)
+	    Number of pages read = 6
+	    Number of pages written = 3
+	    Average number of cylinders swept per disk access = 1
+	      Total number of cylinders swept = 9
+	    Service time per I/O request: 630
+	    Device queue:  Empty
+
+My strategy is obviously much more effient than the demo's
+
+
+

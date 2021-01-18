@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xgao/Documents/Clion_Projects/xiangsgao/hw3/include/sfmm.h
+stdbool.h
+-
+stdint.h
+-
+stdlib.h
+-
+
+/home/xgao/Documents/Clion_Projects/xiangsgao/hw3/src/main.c
+stdio.h
+-
+../include/sfmm.h
+/home/xgao/Documents/Clion_Projects/xiangsgao/hw3/include/sfmm.h
+

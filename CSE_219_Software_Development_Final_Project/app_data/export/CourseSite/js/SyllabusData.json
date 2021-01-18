@@ -1,0 +1,57 @@
+
+{
+    "description":"This course is for teaching you underwater basket weaving. ",
+    "topics":[
+        "Learn to dive underwater.",
+        "Learn to weave basket.",
+        "Learn to do absolutly nothing.",
+        "Learn to waste your tution money.",
+        "Learn to make stupid mistakes.",
+        "Learn to be proud of your mistakes.",
+        "Learn that college teaches nothing and is a waste of your life, including:<br /><ul><li>Speaking with mermeids</li><li>Escaping sharks</li><li>Eating Pizzas</li></ul>"
+    ],
+    "prerequisites":"You must know complicated tecniques like stretcing your arms and grab long and tiny things.</li></ul>",
+    "outcomes":[
+        "Ability to do nothing",
+        "Ability to waste time.",
+        "Ability to weave baskets.",
+        "Ability to become a virgin for life."
+    ],
+    "textbooks":[
+        {
+            "title":"How to weave basket",
+            "link":"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596008678",
+            "photo":"./images/HeadFirstOOAAD.jpg",
+            "authors":[
+                "Brett McLaughlin",
+                "Gary Pollice",
+                "David West"
+            ],
+            "publisher":"Evil Potatoe.",
+            "year":"Before big bang"
+        },
+        {
+            "title":"How to dive underwater",
+            "link":"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596007124",
+            "photo":"./images/HeadFirstDesignPatterns.gif",
+            "authors":[
+                "Eric T Freeman",
+                "Elisabeth Robson",
+                "Bert Bates",
+                "Kathy Sierra"
+            ],
+            "publisher":"Evil Tomato.",
+            "year":"After big crunch"
+        }
+    ],
+    "gradedComponents":[
+        {
+            "name":"Successfully sign up for this course",
+            "description":"Students simply need to enroll in this course to earn full credits and obtain A.",
+            "weight":"100"
+        }
+    ],
+    "gradingNote":"<strong>Note CEAS Policy:</strong> The Pass/No Credit (P/NC) option is not available for this course.",
+    "academicDishonesty":"No body cares. Cheat to your hearts content",
+    "specialAssistance":"If you have a physical, psychological, medical or learning disability that may impact on your ability to carry out assigned course work, you WILL be eaten by sharks"
+}

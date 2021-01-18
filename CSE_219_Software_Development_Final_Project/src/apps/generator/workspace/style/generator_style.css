@@ -1,0 +1,442 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 23, 2018, 9:15:28 PM
+    Author     : xgao
+*/
+.root{
+    /* 
+        FIRST WE'LL DEFINE OUR SWATCHES, i.e. THE COMPLEMENTARY
+        COLORS THAT WE'LL USE TOGETHER IN MULTIPLE PLACES THAT
+        TOGETHER WILL MAKE UP A GIVEN THEME
+    */
+    
+    /*  THE NEURAL SWATCH IS USED FOR THE BACKGROUNDS IN PLACES WHERE
+        THERE ARE NO OTHER CONTROLS*/
+    SWATCH_NEUTRAL:             #EBC944;
+    /*  THE COMPLEMENT SWATCH IS USED FOR BACKGROUND AREAS OF THINGS
+        LAYERED ON TOP OF THE BACKGROUND */
+    SWATCH_COMPLEMENT:          #FFFF00;
+    /*  THE ACCENT SWATCH IS USED FOR BORDERS OF THINGS LIKE TOOLBAR
+        THAT ARE USED FOR ORGANIZING GROUPS OF COMPONENTS */
+    SWATCH_ACCENT:              #66631b;
+    SWATCH_ACCENT_ALT:          #98954e;
+    /*  THIS BLEND SWATCH IS USED FOR GRADIENT TRANSITIONS */
+    SWATCH_BLEND:                #d2cd5e;
+    
+    GREY:                        #A9A9A9;
+    
+    -fx-font-family: "Roboto";
+}
+
+/* FIRST WE HAVE THE CONTROLS THAT THE DESKTOP JAVA FRAMEWORK USES */
+
+/* THE TOOLBAR RUNNING THE LENGTH OF THE TOP OF THE UI */
+.djf_top_toolbar {
+    -fx-background-color:   SWATCH_NEUTRAL;
+    -fx-border-color:       SWATCH_ACCENT;
+    -fx-border-width:       2;
+    -fx-border-radius:      15;
+}
+/* A TOOLBAR IN THE TOP TOOLBAR LIKELY WITH BUTTONS */
+.djf_toolbar_pane {
+    -fx-background-color:   SWATCH_COMPLEMENT;
+    -fx-border-color:       SWATCH_ACCENT;
+    -fx-border-width:       2;
+    -fx-border-radius:      15;
+    -fx-background-radius: 15;
+}
+/* A BUTTON WITH AN ICON PUT IN A TOP TOOLBAR */
+.djf_icon_button {
+    -fx-background-color:   transparent;
+    -fx-padding:            0;
+}
+.djf_icon_button:hover {
+    -fx-background-color: linear-gradient(SWATCH_COMPLEMENT, SWATCH_BLEND);    
+}
+.djf_welcome_banner {
+    -fx-border-color:transparent;
+    -fx-border-width:10;
+}
+.djf_welcome_header {
+    -fx-font-size: 32pt;
+    -fx-background-color: transparent;
+}
+.djf_welcome_recent_pane {
+    -fx-padding: 20 20 20 20;
+    -fx-background-color:transparent;
+}
+.djf_welcome_recent_button {
+    -fx-font-size: 14pt;
+    -fx-underline: true;
+    -fx-text-fill: SWATCH_ACCENT;
+    -fx-background-color:transparent;
+}
+.djf_welcome_recent_button:hover {
+    -fx-text-fill: SWATCH_ACCENT_ALT;
+}
+.djf_welcome_recent_button:pressed {
+    -fx-text-fill: SWATCH_NEUTRAL;
+}
+.djf_welcome_new_pane {
+    -fx-background-color:transparent;
+}
+.djf_welcome_new_button {
+    -fx-font-size:20pt;
+    -fx-background-color:transparent;
+    -fx-border-width:2px;
+    -fx-border-color:black;
+    -fx-border-radius:15px;
+}
+.djf_welcome_new_button:hover{
+    -fx-background-color: SWATCH_COMPLEMENT;
+}
+.djf-welcome_new_button:pressed{
+    -fx-background-color: SWATCH_NEUTRAL;
+}
+
+.oh_radio_box {
+    
+}
+
+.oh_radio_button {
+    -fx-padding: 0 0 0 30;
+    -fx-font-weight: bold;
+    -fx-font-size: 12pt;
+}
+
+.generator_expand_button {
+   
+}
+
+.oh_header_label {
+    -fx-padding: 0 20 0 20;
+    -fx-font-weight:bold;
+    -fx-font-size: 15pt;
+    
+}
+
+.oh_time_label{
+     -fx-font-size: 12pt;
+     -fx-font-weight:bold;
+}
+
+.oh_dialog_grid_pane{
+    -fx-background-color: SWATCH_NEUTRAL;
+    -fx-background-radius: 5.0;
+    -fx-background-insets: 10.0 10.0 10.0 10.0;
+    -fx-padding: 20;
+    -fx-hgap: 30;
+    -fx-vgap: 30;
+}
+.oh_dialog_header{
+    -fx-font-weight: bold;
+    -fx-font-size: 18pt
+}
+.oh_dialog_prompt{
+    -fx-font-weight: bold;
+    -fx-font-size: 14pt;
+}
+.oh_dialog_text_field{
+    -fx-min-width:450px;
+    -fx-max-width:450px;
+    -fx-min-height:50px;
+    -fx-max-height:50px;
+    -fx-font-weight:bold;
+    -fx-font-size:14pt;
+}
+.oh_dialog_radio_button{
+    -fx-font-size: 14pt;
+    -fx-font-weight: bold;
+}
+.oh_dialog_box{
+    
+}
+.oh_dialog_button{
+    -fx-min-width:100px;
+    -fx-max-width:100px;
+    -fx-min-height:50px;
+    -fx-max-height:50px;
+    -fx-font-weight: bold;
+    -fx-font-size: 16pt;
+}
+
+.oh_pane{
+    -fx-spacing: 5;
+    -fx-border-width: 3px;
+    -fx-border-color: SWATCH_BLEND;
+    -fx-padding: 5 20 5 20;
+    -fx-border-radius: 20;
+}
+
+.oh_header_hbox{
+-fx-padding: 5 10 5 10;
+-fx-spacing: 5;
+}
+
+.oh_time_label{
+    -fx-font-weight:bold;
+    -fx-padding: 0 5 0 5;
+}
+
+.oh_text_field, .oh_text_field_error {
+    -fx-font-size: 14pt;
+}
+.oh_text_field {
+    -fx-text-fill: black;
+}
+.oh_text_field_error {
+    -fx-text-fill: red;
+}
+
+.oh_button {
+    -fx-font-size: 14pt;
+    -fx-font-weight: bold;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;        
+}
+.oh_add_ta_pane{
+    -fx-padding: 5;
+    -fx-spacing: 15;
+}
+
+.oh_tab_box{
+    -fx-padding:10 5 10 5;
+    -fx-spacing: 10;
+}
+
+
+
+.site_vbox{
+ -fx-border-color: SWATCH_BLEND;
+ -fx-padding: 10 5 10 5;
+ -fx-border-radius: 30;
+ -fx-border-width: 3px;
+}
+
+.site_page_box{
+  -fx-border-color: SWATCH_BLEND; 
+ -fx-spacing: 20; 
+  -fx-border-radius: 20;
+  -fx-border-width: 3px;
+  -fx-padding: 10 20 10 20;
+}
+
+.site_subhbox{
+    -fx-spacing: 10;
+    -fx-padding: 10 20 10 20;
+   
+}
+
+.site_tab_box{
+    -fx-spacing: 10;
+    -fx-padding: 10 5 10 5;
+}
+
+.site_header_label{
+     -fx-font-weight: bold;
+     -fx-font-size: 15pt;
+     -fx-padding: 0 0 0 10;
+}
+
+.site_label{
+    -fx-font-weight:bold;
+}
+
+.site_text_button{
+    
+}
+
+.site_checkbox{
+    -fx-font-weight:bold;
+}
+
+.syllabus_tab_box{
+    -fx-spacing: 10;
+    -fx-padding: 10 5 10 5;
+}
+
+.syllabus_expand_hbox{
+    -fx-spacing: 20;
+}
+
+.syllabus_subbox{
+    -fx-border-color: SWATCH_BLEND; 
+ -fx-spacing: 10; 
+  -fx-border-radius: 20;
+  -fx-border-width: 3px;
+  -fx-padding: 10 20 10 20;
+     
+}
+
+.syllabus_expand_label{
+    -fx-font-weight:bold;
+    -fx-padding: 0 5 0 5;
+     -fx-font-size: 15pt;
+}
+
+.meeting_tab_box{
+    -fx-spacing: 10;
+    -fx-padding: 10 5 10 5;
+}
+
+.meeting_header_hbox{
+ -fx-spacing: 5;
+}
+
+.meeting_subbox{
+    -fx-spacing: 5;
+    -fx-border-width: 3px;
+    -fx-border-color: SWATCH_BLEND;
+    -fx-padding: 10 20 10 20;
+    -fx-border-radius: 20;
+}
+
+.generator_meeting_header_label{
+    -fx-font-weight:bold;
+    -fx-font-size: 15pt;
+}
+
+.schedule_tab_box{
+    -fx-padding:10 5 10 5;
+    -fx-spacing: 10;
+   
+}
+
+.schedule_subbox{
+    -fx-spacing: 20;
+    -fx-border-width: 3px;
+    -fx-border-color: SWATCH_BLEND;
+    -fx-padding: 10 20 10 20;
+    -fx-border-radius: 20;
+}
+
+.schedule_inner_subhbox{
+    -fx-spacing: 30;
+}
+
+.schedule_header_label{
+    -fx-font-weight:bold;
+    -fx-font-size: 15pt;
+}
+
+
+.oh_table_view .column-header{
+    -fx-background-color: SWATCH_NEUTRAL;
+    -fx-font-size: 14pt;
+}
+
+.oh_office_hours_table_view .column-header {
+    -fx-background-color: SWATCH_NEUTRAL;
+    -fx-font-size: 14pt;
+}
+.oh_time_column {
+    -fx-background-color:   SWATCH_ACCENT;
+    -fx-text-fill:         white;
+    -fx-font-size:          14pt;   
+    -fx-font-weight:        bold;
+    -fx-padding:            10 20 10 20;
+}
+.oh_day_of_week_column {
+    -fx-font-size:          14pt;   
+    -fx-font-weight:        bold;
+    -fx-padding:            10 20 10 20;
+}
+
+
+
+
+.generator_table_column{
+    -fx-font-size:          14pt;   
+    -fx-font-weight:        bold;
+    -fx-padding:            10 20 10 20;
+}
+
+.generator_table_view .column-header{
+    -fx-background-color: SWATCH_NEUTRAL;
+    -fx-font-size: 14pt;
+    -fx-border-color:       white;
+}
+
+
+
+
+.generator_expand_button{
+    -fx-pref-height: 5px;
+    -fx-pref-width: 50px;
+    -fx-background-radius: 5em;
+}
+
+.generator_minus_button{
+    -fx-pref-height: 5px;
+    -fx-pref-width: 50px;
+    -fx-background-radius: 5em;
+}
+
+.generator_other_button{
+    -fx-pref-height: 5px;
+    -fx-pref-width: 100px;
+    -fx-background-radius: 5em;
+}
+
+.site_image_icon{
+    -fx-background-color: transparent;
+}
+
+.site_export_label{
+     -fx-text-fill: red;
+     -fx-font-size: 10pt;
+}
+
+.site_tab{
+  -fx-font-family: Arial;
+  -fx-font-size: 18;
+  -fx-text-fill:         white;
+  -fx-focus-color: SWATCH_COMPLEMENT;
+  -fx-faint-focus-color: SWATCH_COMPLEMENT;
+    
+}
+
+.syllabus_tab{
+  -fx-font-family: Arial;
+  -fx-font-size: 18;
+  -fx-text-fill:         white;
+  -fx-focus-color: SWATCH_COMPLEMENT;
+  -fx-faint-focus-color: SWATCH_COMPLEMENT;
+}
+
+.meeting_tab{
+  -fx-font-family: Arial;
+  -fx-font-size: 18;
+  -fx-text-fill:         white;
+  -fx-focus-color: SWATCH_COMPLEMENT;
+  -fx-faint-focus-color: SWATCH_COMPLEMENT;
+}
+
+.schdule_tab{
+  -fx-font-family: Arial;
+  -fx-font-size: 18;
+  -fx-text-fill:         white;
+  -fx-focus-color: SWATCH_COMPLEMENT;
+  -fx-faint-focus-color: SWATCH_COMPLEMENT;
+}
+
+.oh_tab{
+  -fx-font-family: Arial;
+  -fx-font-size: 18;
+  -fx-text-fill:         white;
+  -fx-focus-color: SWATCH_COMPLEMENT;
+  -fx-faint-focus-color: SWATCH_COMPLEMENT;
+}
+
+.schedule_label{
+    
+}
+
+
+
+
+

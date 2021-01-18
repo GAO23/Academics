@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g   CMakeFiles/HW5.dir/src/client_registry.c.o CMakeFiles/HW5.dir/src/exchange.c.o CMakeFiles/HW5.dir/src/main.c.o CMakeFiles/HW5.dir/src/main_functions.c.o CMakeFiles/HW5.dir/src/protocol.c.o CMakeFiles/HW5.dir/src/server.c.o CMakeFiles/HW5.dir/src/trader.c.o CMakeFiles/HW5.dir/src/trader_exchange_struct.c.o  -o HW5 ../lib/bourse_debug.a -lpthread 

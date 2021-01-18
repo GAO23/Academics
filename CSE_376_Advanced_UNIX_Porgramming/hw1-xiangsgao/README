@@ -1,0 +1,40 @@
+1st major push:
+Finished argument parser, debugging print outs, password/input/output files handling, and ask for password functions.
+
+2nd major push:
+Finished the cryto library.
+
+3rd major push:
+Finished file encryption.
+
+# OUTSIDE SOURCES:
+Crypto library is implemented using code snippets from https://wiki.openssl.org/index.php/EVP_Symmetric_Encryption_and_Decryption.
+The code snippets used are:
+int encrypt(unsigned char *plaintext, int plaintext_len, unsigned char *ciphertext);
+AND
+int decrypt(unsigned char *ciphertext, int ciphertext_len,  unsigned char *plaintext);
+
+For both functions, I removed IV and Key parameters and all lines with references to these variable in favor of my own code.
+Code snippets that are copy and pasted are explicitly documented in the crypto.c file.
+All other codes are entirely my own without the aid of any outside sources except api documentation from the Linux man page.
+
+# MY IMPLEMENTATION
+My program uses the openssl, evp library. The cipher used is AES 256. First I wrote a parser to parse command line arguments.
+After arguments are parse and validated, I called the kernels to get the necessary file descriptor to the input and output files as well as the password file if -p is specify.
+Program then either ask the user for password or read from the password file descriptor if -p is provided.
+Next my program made a call to crypto_init which is a library I wrote for file encryption.
+The crypto library will generate a 256 bit key and a 128 bit IV from the password provided by user that is salted by an eight byte salt.
+Next the program allocate a buffer equal to the page size for reading file input another buffer for file output.
+It then keep reading input and write encrypted/decrypted bytes to output file until the entire file is read.
+
+The output file is stored in a temporary hidden file called .filesec_temp. This file can be overwritten if already exists.
+Upon successful encrypt or decrypt, this file will be rename to the output file. If output file already exists, it will be deleted before the renaming.
+This means the program can still encrypt/decrypt files if both input and output are the same. This also means the original file is untouched if the encryption or decryption fails.
+
+I am not going to bother checking the hashes of the key because the IV and key gen function of the openssl library does this for me. If keys are not correct, the ssl library will throw an error
+during the decryption stage which will be forwarded to the user and then abort.
+
+# NOTE
+you can ignore the test folder. This is just there to run tests. You can also ignore the CMakeLists.txt. It is there to recompile my project for clion. 
+
+You can use make test to test the application. Make clean will remove the binary only. It is up to you to clean any files that are produce by filesec.

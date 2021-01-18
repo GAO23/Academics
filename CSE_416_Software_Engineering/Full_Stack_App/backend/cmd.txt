@@ -1,0 +1,8 @@
+$ tmux a     // to get into the existing tmux session, or just tmux to get a new session
+
+$ gunicorn --reload -t 240 -w 4 -b 0.0.0.0:9000 app:app  // from within the backend folder
+
+--reload means gunicorn should reload for most source changes
+Ctrl-C to shut down the backend server (once within the tmux window)
+Ctrl-D to shut down the tmux window
+Ctrl-B D to exit the tmux window (without shutting it down)

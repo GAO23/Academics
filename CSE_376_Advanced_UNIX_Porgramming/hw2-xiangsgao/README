@@ -1,0 +1,31 @@
+THIRD PARTY CODE SNIPPET
+static char* getCurrentTime(); in LKmalloc.c make use of code snippet from https://stackoverflow.com/questions/5141960/get-the-current-time-in-c
+Besides this code snippet, every single lines of code are entirely my own without any outside sources.
+
+SUBMISSION FILES:
+Makefile contains three primary make commands.
+1) make driver which produces a driver executable for testing the LKmalloc library.
+2) make test which executes the test.sh which runs the driver program.
+3) make clean which cleans up all the files produce by the above two.
+
+test.sh is the testing script that executes the drive.
+include directory contains the header files.
+src directory includes all the source files.
+lib is where the static linked library of LKmalloc is located.
+obj contains all the object files produce by gcc.
+
+report is the log file produce by lkreport.
+
+WHAT I DID:
+For LKmalloc, I used a doubly linked list to store each allocated pointer, including their guardian address if any and their flags passed when invoked.
+The searching algorithm is the simple start from the beginning and loop until the end to search for the allocated pointer.
+This is O(N) time which I am okay with.
+My LKmalloc can successfully detect double malloc as well as invalid pointer passed. In all invalid cases, warnings are printed to stderr according to the flags passed.
+Also according the flag passed, LKmalloc will allocate guardian areas as well as zeroing out the buffer.
+
+For LKfree, my apporch is checking he pointer against what is stored in the doubly linked list. If the pointer falls under the guiardian zone, warnings are issue.
+If pointer in the doubly linked list is already marked free, it will warned with a double free. This works for bad free as well.
+
+For LKreport, I used a large buffer on heap to store all the records and only print records whose bits are set in the flags. These records are generated once for each LKmnalloc and LKfree calls.
+
+

@@ -1,0 +1,55 @@
+---
+- hosts: hw1
+  user: ubuntu
+  sudo: yes
+  tasks:
+        - name: install apache2
+          apt:
+                name: apache2
+                update_cache: yes
+        
+        - name: enable ufw
+          ufw:
+                state: enabled
+                policy: allow
+        
+        - name: making sure apache is STARTED
+          command: systemctl status apache2
+        
+        - name: Allow access to port 80
+          ufw:
+            rule: allow
+            port: 80
+            proto: tcp
+        
+        - name: Create web directory
+          file:
+            path: /var/www/my_website
+            state: directory
+        
+        - name: Clone git
+          git:
+            repo: https://github.com/GAOtheCodeMonkey/HW1.git
+            dest: /root/git
+            update: yes
+        
+        - name: move html
+          copy:
+            src: /root/git/HW0/index.html
+            dest: /var/www/my_website/hw0.html
+            remote_src: yes
+        
+        - name: Copy the conf file
+          copy:
+            src: /root/git/my_website.conf
+            dest: /etc/apache2/sites-available/my_website.conf
+            remote_src: yes
+        
+        - name: Disable default conf
+          command: a2dissite 000-default.conf
+        
+        - name: Enable my_website.conf
+          command: a2ensite my_website.conf
+        
+        - name: Restart apache
+          command: systemctl restart apache2

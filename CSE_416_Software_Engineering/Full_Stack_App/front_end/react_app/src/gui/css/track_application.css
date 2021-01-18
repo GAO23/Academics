@@ -1,0 +1,124 @@
+/****************************************************************************************** react css fixes *****************************************************************************/
+#plot-modal > div{
+    left:50%; top:50%;
+    transform:translate(-50%,-50%);
+    width: 50%;height: 50%;
+    /*position: fixed;*/
+}
+
+#plot-modal > div > div{
+    height: 100%;
+}
+#plot-modal-buttons{text-align: center;}
+
+/****************************************************************************************** react css fixes *****************************************************************************/
+
+
+
+/* filters */
+#filters-dropdown-content > table > tbody > tr:nth-child(1), #wrap-college-class > div{display: flex;}
+/* college class filter */
+#wrap-college-class{display: block;width: 50%;}
+#college-class-min, #college-class-max{width: 100px;height: 25px;}
+#college-class-min{margin-right: 5px;}
+#college-class-max{margin-left: 5px;}
+/* college class filter */
+/* application status filter */
+#wrap-application-status > b > div > table > tbody{
+    font-weight: normal;
+    border-color: gray;
+}
+#wrap-application-status > .wrap-filter > table > tbody > tr > td > div{margin-right: 10px;}
+/* application status filter */
+/* high school filter */
+#wrap-high-school > .wrap-filter{
+    outline: solid rgb(187, 186, 186) 1px;
+    max-height: 60px;
+    overflow: auto;
+    width: 95%;
+    display: grid;
+}
+#wrap-high-school > .wrap-filter > table > tbody{vertical-align: baseline;}
+#wrap-high-school > .wrap-filter > table > tbody > tr > td{width: 33%;}
+/* high school filter */
+.custom-checkbox label{font-weight: none;}
+/* filters */
+
+
+/* plot*/
+#plot-btn{
+    position: absolute;
+    right:0;
+}
+
+#plot-modal > div > div{
+    height: 100%;
+}
+/* plot*/
+
+/* summary */
+#summary{
+    background-color: rgb(248, 180, 180);
+    padding: 12px 20px 12px 20px;
+}
+#summary td{width: 25%;}
+#summary td b, .item-info td b{font-size: 20px;}
+/* summary */
+
+/* application result */
+/* application button */
+#application-list > .list-group-item > .username{
+    color: black;
+    width: 45%;
+}
+#application-list > .list-group-item > .high-school {
+    color: black;
+    text-align: end;
+    width: 55%;
+}
+/* application button */
+/* carousel */
+.carousel{
+    height: 200px;
+    background-color: #a4a7fcf7;
+    display: none;
+}
+.carousel-inner > .carousel-item:nth-child(1) >{
+    display: flex;
+    flex-direction: column;
+}
+.carousel-item b{
+    font-size: 20px;
+}
+.carousel-control-prev, .carousel-control-next{
+    width: 50px;
+}
+.act{
+    padding: 20px 50px 20px 50px;
+}
+.sat2, .personal{
+    padding: 20px 50px 20px 50px;
+}
+.personal > table{
+    display: block;
+}
+.personal > table > tbody{
+    vertical-align: bottom;
+}
+.personal > table > tbody > tr > td:nth-child(1){
+    width: 130px;
+}
+.personal > table > tbody > tr > td:nth-child(2){
+    width: 100px;
+}
+.personal > table > tbody > tr > td:nth-child(3){
+    width: 100px;
+}
+.personal > table > tbody > tr > td:nth-child(4){
+    width: fit-content;
+}
+.sat2 > table > tbody > tr > td > label, .act > table > tbody > tr > td > label{
+    margin-right: 30px;
+}
+/* carousel */
+/* application result */

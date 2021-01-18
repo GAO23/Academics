@@ -1,0 +1,17 @@
+
+
+upstream balancer_servers {
+	server grading.cse356.compas.cs.stonybrook.edu:9000;
+	server grading.cse356.compas.cs.stonybrook.edu:9001;
+	server grading.cse356.compas.cs.stonybrook.edu:9002;
+}
+
+server {
+	listen 80;
+
+	location / {
+		proxy_pass http://balancer_servers;
+
+		proxy_next_upstream error timeout http_403 http_500;
+	}
+}

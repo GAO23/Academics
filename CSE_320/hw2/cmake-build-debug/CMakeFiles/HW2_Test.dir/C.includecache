@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xgao/Documents/Clion_Projects/xiangsgao/hw2/tests/base_tests.c
+stdio.h
+-
+unistd.h
+-
+criterion/criterion.h
+-
+string.h
+-
+

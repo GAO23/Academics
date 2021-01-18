@@ -1,0 +1,60 @@
+
+{
+    "subject":"Teletubies",
+    "number":"219",
+    "semester":"Fall",
+    "year":"2019",
+    "title":"Course Site Generator Exported Site",
+    "logos":{
+        "favicon":{
+            "src":"./images/SBUShieldFavicon.ico"
+        },
+        "navbar":{
+            "src":"./images/SBUDarkRedShieldLogo.png"
+        },
+        "bottom_left":{
+            "src":"./images/SBUWhiteShieldLogo.jpg"
+        },
+        "bottom_right":{
+            "src":"./images/SBUCSLogo.png"
+        }
+    },
+    "instructor":{
+        "name":"Donald J. Trump",
+        "link":"https://prankcandles.com/",
+        "email":"IamRich@trump.com",
+        "room":"Wendy's restroom",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-6pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-9pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:50pm"
+            }
+        ]
+    },
+    "pages":[
+        {
+            "name":"Home",
+            "link":"index.html"
+        },
+        {
+            "name":"Syllabus",
+            "link":"syllabus.html"
+        },
+        {
+            "name":"Schedule",
+            "link":"schedule.html"
+        },
+        {
+            "name":"HWs",
+            "link":"hws.html"
+        }
+    ]
+}

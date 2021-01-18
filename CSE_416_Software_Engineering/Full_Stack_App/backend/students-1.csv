@@ -1,0 +1,1001 @@
+userid, password,residence_state, high_school_name, high_school_city, high_school_state,GPA, college_class,major_1,major_2, SAT_math, SAT_EBRW, ACT_English, ACT_math, ACT_reading, ACT_science, ACT_composite, SAT_literature, SAT_US_hist, SAT_world_hist, SAT_math_I, SAT_math_II, SAT_eco_bio, SAT_mol_bio, SAT_chemistry, SAT_physics,num_AP_passed
+jcool,joe$pass2,NY,Ward Melville High School,East Setauket,NY,3.7,2024,Physics,Mathematics,770,660,31,33,30,34,32,,,690,730,720,,,,740,4
+chuck,bob!pass1,NJ,Ridgewood High School,Ridegwood,NJ,3.5,2024,English,,670,750,35,28,33,32,32,740,680,690,,,,,,,3
+alice,user!DRAX1,OH,Madeira High School,Cincinnati,OH,3.5,2025,Audiology/Audiologist and Speech-Language Pathology/Pathologist,,650,690,27,24,25,23,25,,,,,,,,,,2
+bobby,user!DRAX2,CO,Fairview High School,Boulder,CO,3.5,2026,Mental Health Counseling/Counselor,,680,670,26,24,23,26,25,,,,,,,,,,1
+carol,user!DRAX3,MN,Eagan Senior High School,Eagan,MN,3.4,2024,Game and Interactive Media Design,,740,580,25,28,24,24,25,,,,,,,,,,2
+dave,user!DRAX4,WI,Whitefish Bay High School,Whitefish Bay,WI,3.7,2026,Pre-Medicine/Pre-Medical Studies,,680,590,27,21,23,26,24,,,,,,,,,,2
+evelyn,user!DRAX5,AL,Mt Brook High School,Mountain Brook,AL,3.4,2026,Speech Communication and Rhetoric,,680,640,23,26,23,25,24,,,,,,,,,,1
+frank,user!DRAX6,NH,Hanover High School,Hanover,NH,3.6,2025,Spanish Language and Literature,,690,620,26,22,26,18,23,,,,,,,,,,1
+grace,user!DRAX7,MA,Lexington High School,Lexington,MA,3.7,2027,Radiation Biology/Radiobiology,,680,640,27,24,30,24,26,,,,,,,,,,2
+heidi,user!DRAX8,CO,Fairview High School,Boulder,CO,3.6,2027,Computer Graphics,,680,610,25,24,24,26,25,,,,,,,,,,2
+ivan,user!DRAX9,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2027,Non-Profit/Public/Organizational Management,,520,590,24,23,28,26,25,,,,,,,,,,2
+judy,user!DRAX10,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.6,2025,"Parks, Recreation and Leisure Studies",,690,650,25,23,27,24,25,,,,,,,,,,1
+mallory,user!DRAX11,VA,McLean High School,McLean,VA,3.9,2024,Medical Radiologic Technology/Science - Radiation Therapist,,740,770,34,33,30,33,33,,,,,,,,,,4
+mike,user!DRAX12,WA,Bellevue High School,Bellevue,WA,3.7,2024,Agricultural Economics,,760,760,35,32,34,34,34,,,,,,,,,,3
+niaj,user!DRAX13,AR,Haas Hall Academy,Fayetteville,AR,4,2026,Human Services,,800,830,32,33,32,34,33,,,,,,,,,,4
+olivia,user!DRAX14,GA,Walton High School,Marietta,GA,3.8,2024,Health/Medical Preparatory Programs,,750,710,36,35,34,34,35,,,,,,,,,,4
+peggy,user!DRAX15,NH,Hanover High School,Hanover,NH,4,2024,English Literature,,770,740,32,33,32,32,32,,,,,,,,,,5
+rupert,user!DRAX16,KY,The Gatton Academy,Bowling Green,KY,2.8,2026,Cognitive Psychology and Psycholinguistics,,500,560,16,18,20,20,19,,,,,,,,,,0
+sybil,user!DRAX17,NC,North Carolina School of Science and Mathematics,Durham,NC,3.3,2026,Cell/Cellular Biology and Histology,,580,480,19,19,18,16,18,,,,,,,,,,0
+trudy,user!DRAX18,MO,Parkway Central High School,Chesterfield,MO,2.9,2025,"Business Administration, Management and Operations",,520,510,18,21,18,18,19,,,,,,,,,,0
+victor,user!DRAX19,WI,Whitefish Bay High School,Whitefish Bay,WI,3.2,2027,Education,,550,570,18,20,19,17,19,,,,,,,,,,0
+walter,user!DRAX20,MN,Eagan Senior High School,Eagan,MN,3,2024,Ethics,,560,520,18,19,17,20,19,,,,,,,,,,1
+user1,Password!1,MN,Eagan Senior High School,Eagan,MN,3.5,2027,Liberal Arts and Sciences/Liberal Studies,,650,620,21,22,29,24,24,,,,,,,,,,1
+user2,Password!2,WA,Bellevue High School,Bellevue,WA,3.5,2024,"Sales, Distribution, and Marketing Operations",,680,630,23,24,18,27,23,,,,,,,,,,1
+user3,Password!3,GA,Walton High School,Marietta,GA,3.4,2025,Army JROTC/ROTC,,740,520,21,26,26,29,26,,,,,,,,,,1
+user4,Password!4,GA,Walton High School,Marietta,GA,3.7,2026,Painting,,680,660,30,22,28,24,26,,,,,,,,,,2
+user5,Password!5,TX,Carroll Senior High School,Southlake,TX,3.4,2026,Agricultural Engineering,,680,520,23,24,27,27,25,,,,,,,,,,1
+user6,Password!6,MI,International Academy,Bloomfield Hills,MI,3.6,2024,Bible/Biblical Studies,,690,590,24,22,28,24,25,,,,,,,,,,1
+user7,Password!7,WI,Whitefish Bay High School,Whitefish Bay,WI,3.7,2025,Technology Teacher Education/Industrial Arts Teacher Education,,680,610,28,23,21,26,25,,,,,,,,,,2
+user8,Password!8,CO,Fairview High School,Boulder,CO,3.6,2024,Customer Service Management,,680,610,24,23,25,26,25,,,,,,,,,,1
+user9,Password!9,NM,Volcano Vista High School,Albuquerque,NM,3.5,2026,Substance Abuse/Addiction Counseling,,520,700,27,25,25,25,26,,,,,,,,,,1
+user10,Password!10,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.6,2026,Pre-Theology/Pre-Ministerial Studies,,690,700,24,28,24,25,25,,,,,,,,,,2
+user11,Password!11,MI,International Academy,Bloomfield Hills,MI,3.7,2025,Hotel/Motel Administration/Management,,610,650,21,29,24,26,25,,,,,,,,,,2
+user12,Password!12,NY,Brooklyn Technical High School,Brooklyn,NY,3.3,2025,Humanities/Humanistic Studies,,660,660,26,23,24,27,25,,,,,,,,,,2
+user13,Password!13,MN,Eagan Senior High School,Eagan,MN,3.3,2026,"Wildlife, Fish and Wildlands Science and Management",,580,700,24,24,23,24,24,,,,,,,,,,2
+user14,Password!14,PA,Radnor Senior High School,Radnor,PA,3.6,2026,Botany/Plant Biology,,680,680,28,25,27,27,27,,,,,,,,,,1
+user15,Password!15,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2027,Teaching English as a Second or Foreign Language/ESL Language Instructor,,640,600,27,20,23,24,24,,,,,,,,,,2
+user16,Password!16,KS,Blue Valley North High School,Overland Park,KS,3.4,2025,Clinical/Medical Laboratory Technician,,600,610,25,25,29,29,27,,,,,,,,,,2
+user17,Password!17,SC,Academic Magnet High School,North Charleston,SC,3.5,2024,Industrial Engineering,,640,610,23,24,24,30,25,,,,,,,,,,1
+user18,Password!18,KS,Blue Valley North High School,Overland Park,KS,3.4,2024,Astronomy and Astrophysics,,760,680,23,25,23,21,23,,,,,,,,,,2
+user19,Password!19,MA,Lexington High School,Lexington,MA,3.5,2024,Web/Multimedia Management and Webmaster,,690,710,25,26,20,24,24,,,,,,,,,,2
+user20,Password!20,MI,International Academy,Bloomfield Hills,MI,3.3,2025,Pastoral Studies/Counseling,,710,590,27,28,27,23,26,,,,,,,,,,2
+user21,Password!21,NH,Hanover High School,Hanover,NH,3.6,2026,Physical Therapy/Therapist,,730,690,23,25,21,26,24,,,,,,,,,,1
+user22,Password!22,TX,Carroll Senior High School,Southlake,TX,3.4,2027,Biology/Biological Sciences,,620,700,27,24,23,24,25,,,,,,,,,,1
+user23,Password!23,SC,Academic Magnet High School,North Charleston,SC,3.6,2027,Music,,660,680,20,20,22,24,22,,,,,,,,,,1
+user24,Password!24,CA,Canyon Crest Academy,San Diego,CA,3.4,2025,Ancient Studies/Civilization,,710,630,23,27,20,26,24,,,,,,,,,,2
+user25,Password!25,NM,Volcano Vista High School,Albuquerque,NM,3.6,2027,Anthropology,,660,680,24,30,24,22,25,,,,,,,,,,1
+user26,Password!26,MN,Eagan Senior High School,Eagan,MN,3.4,2024,Crisis/Emergency/Disaster Management,,640,610,23,29,25,26,26,,,,,,,,,,1
+user27,Password!27,MO,Parkway Central High School,Chesterfield,MO,3.5,2024,Artificial Intelligence,,630,590,21,24,22,24,23,,,,,,,,,,2
+user28,Password!28,VA,McLean High School,McLean,VA,3.6,2024,Medical Illustration/Medical Illustrator,,650,680,23,22,27,30,26,,,,,,,,,,2
+user29,Password!29,CA,Canyon Crest Academy,San Diego,CA,3.4,2024,Pre-Pharmacy Studies,,660,690,24,24,25,24,24,,,,,,,,,,2
+user30,Password!30,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.4,2025,Animal Behavior and Ethology,,660,630,23,24,26,24,24,,,,,,,,,,1
+user31,Password!31,CO,Fairview High School,Boulder,CO,3.4,2024,Advertising,,680,720,28,27,27,22,26,,,,,,,,,,1
+user32,Password!32,VA,McLean High School,McLean,VA,3.5,2026,Health and Physical Education/Fitness,,630,740,24,23,26,23,24,,,,,,,,,,1
+user33,Password!33,NC,North Carolina School of Science and Mathematics,Durham,NC,3.5,2024,Evolutionary Biology,,650,690,24,22,26,27,25,,,,,,,,,,2
+user34,Password!34,GA,Walton High School,Marietta,GA,3.5,2027,General Literature,,670,680,29,23,26,26,26,,,,,,,,,,2
+user35,Password!35,MN,Eagan Senior High School,Eagan,MN,3.6,2025,Robotics Technology/Technician,,670,700,26,24,27,24,25,,,,,,,,,,2
+user36,Password!36,AZ,BASIS Tucson North,Tucson,AZ,3.4,2025,Foreign Languages and Literatures,,690,680,30,23,23,24,25,,,,,,,,,,2
+user37,Password!37,PA,Radnor Senior High School,Radnor,PA,3.5,2027,Business Administration and Management,,670,690,18,22,24,29,23,,,,,,,,,,1
+user38,Password!38,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.5,2027,Religion/Religious Studies,,580,690,24,24,24,29,25,,,,,,,,,,2
+user39,Password!39,NH,Hanover High School,Hanover,NH,3.4,2025,Health Teacher Education,,590,690,22,23,26,20,23,,,,,,,,,,2
+user40,Password!40,NJ,Academy for Information Technology,Scotch Plains,NJ,3.8,2025,Diagnostic Medical Sonography/Sonographer and Ultrasound Technician,,640,630,26,21,27,26,25,,,,,,,,,,1
+user41,Password!41,MA,Lexington High School,Lexington,MA,3.6,2027,Divinity/Ministry,,620,690,24,27,27,26,26,,,,,,,,,,1
+user42,Password!42,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2026,Communication and Media Studies,,640,620,24,22,27,23,24,,,,,,,,,,1
+user43,Password!43,AR,Haas Hall Academy,Fayetteville,AR,3.6,2025,Mass Communication/Media Studies,,610,700,27,24,29,27,27,,,,,,,,,,2
+user44,Password!44,VA,McLean High School,McLean,VA,3.5,2024,Office Management and Supervision,,590,560,24,29,22,27,26,,,,,,,,,,1
+user45,Password!45,MN,Eagan Senior High School,Eagan,MN,3.4,2024,Agribusiness/Agricultural Business Operations,,650,680,29,27,30,21,27,,,,,,,,,,2
+user46,Password!46,KY,The Gatton Academy,Bowling Green,KY,3.7,2025,Computer Systems Analysis/Analyst,,660,610,24,28,28,22,26,,,,,,,,,,1
+user47,Password!47,NH,Hanover High School,Hanover,NH,3.5,2027,Applied Mathematics,,700,690,29,24,23,27,26,,,,,,,,,,2
+user48,Password!48,MI,International Academy,Bloomfield Hills,MI,3.7,2024,Digital Communication and Media/Multimedia,,640,630,25,23,24,24,24,,,,,,,,,,1
+user49,Password!49,PA,Radnor Senior High School,Radnor,PA,3.5,2025,Computer Programming/Programmer,,560,590,26,29,22,26,26,,,,,,,,,,2
+user50,Password!50,MO,Parkway Central High School,Chesterfield,MO,3.6,2024,Econometrics and Quantitative Economics,,650,700,26,27,24,28,26,,,,,,,,,,2
+user51,Password!51,OH,Madeira High School,Cincinnati,OH,3.6,2024,Design and Applied Arts,,660,690,23,26,22,28,25,,,,,,,,,,1
+user52,Password!52,NJ,Academy for Information Technology,Scotch Plains,NJ,3.3,2024,Health/Health Care Administration/Management,,710,610,23,25,23,24,24,,,,,,,,,,1
+user53,Password!53,NY,Brooklyn Technical High School,Brooklyn,NY,3.3,2024,Community Health Services/Liaison/Counseling,,660,620,28,22,28,24,26,,,,,,,,,,2
+user54,Password!54,AZ,BASIS Tucson North,Tucson,AZ,3.3,2026,Near and Middle Eastern Studies,,660,690,26,24,22,28,25,,,,,,,,,,1
+user55,Password!55,AL,Mt Brook High School,Mountain Brook,AL,3.7,2024,Structural Biology,,640,560,29,28,27,23,27,,,,,,,,,,2
+user56,Password!56,KY,The Gatton Academy,Bowling Green,KY,3.2,2025,Chemistry,,690,610,24,21,25,21,23,,,,,,,,,,1
+user57,Password!57,MO,Parkway Central High School,Chesterfield,MO,3.6,2026,Scandinavian Studies,,660,710,24,21,24,28,24,,,,,,,,,,1
+user58,Password!58,KY,The Gatton Academy,Bowling Green,KY,3.3,2027,Logic,,640,740,26,25,23,24,25,,,,,,,,,,2
+user59,Password!59,TX,Carroll Senior High School,Southlake,TX,3.5,2027,Systems Science and Theory,,700,630,27,26,29,28,28,,,,,,,,,,2
+user60,Password!60,MI,International Academy,Bloomfield Hills,MI,3.4,2024,Curriculum and Instruction,,680,680,22,28,26,26,26,,,,,,,,,,2
+user61,Password!61,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.4,2026,Public Policy Analysis,,660,690,28,27,22,22,25,,,,,,,,,,1
+user62,Password!62,VA,McLean High School,McLean,VA,3.5,2026,German Studies,,670,690,24,26,26,29,26,,,,,,,,,,1
+user63,Password!63,MA,Lexington High School,Lexington,MA,3.4,2024,"Theatre Literature, History and Criticism",,640,660,24,22,20,22,22,,,,,,,,,,2
+user64,Password!64,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.3,2024,Dietetics and Clinical Nutrition Services,,690,560,23,23,25,21,23,,,,,,,,,,1
+user65,Password!65,PA,Radnor Senior High School,Radnor,PA,3.6,2025,Computer Science,,580,680,26,26,28,28,27,,,,,,,,,,1
+user66,Password!66,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2027,Political Science and Government,,760,700,24,24,27,24,25,,,,,,,,,,2
+user67,Password!67,PA,Radnor Senior High School,Radnor,PA,3.4,2025,Engineering,,650,580,24,25,28,23,25,,,,,,,,,,1
+user68,Password!68,MO,Parkway Central High School,Chesterfield,MO,3.5,2027,Farm/Farm and Ranch Management,,660,580,23,23,27,27,25,,,,,,,,,,1
+user69,Password!69,AZ,BASIS Tucson North,Tucson,AZ,3.4,2024,Natural Resources Management and Policy,,630,610,24,27,23,26,25,,,,,,,,,,1
+user70,Password!70,MO,Parkway Central High School,Chesterfield,MO,3.3,2026,Psychology,,660,660,24,26,24,22,24,,,,,,,,,,2
+user71,Password!71,MO,Parkway Central High School,Chesterfield,MO,3.8,2025,Neurobiology and Anatomy,,590,670,27,26,24,27,26,,,,,,,,,,2
+user72,Password!72,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.7,2025,Public Administration and Social Service Professions,,610,700,29,21,30,27,27,,,,,,,,,,1
+user73,Password!73,AL,Mt Brook High School,Mountain Brook,AL,3.3,2025,Ancient/Classical Greek Language and Literature,,650,730,26,29,22,26,26,,,,,,,,,,2
+user74,Password!74,AZ,BASIS Tucson North,Tucson,AZ,3.4,2024,Hospital and Health Care Facilities Administration/Management,,640,670,26,25,20,24,24,,,,,,,,,,1
+user75,Password!75,GA,Walton High School,Marietta,GA,3.6,2024,Audiology/Audiologist,,700,560,30,27,20,30,27,,,,,,,,,,2
+user76,Password!76,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2024,Wildlife Biology,,710,670,26,25,23,26,25,,,,,,,,,,1
+user77,Password!77,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.4,2027,Culinary Science/Culinology,,670,600,29,29,21,28,27,,,,,,,,,,1
+user78,Password!78,OH,Madeira High School,Cincinnati,OH,3.6,2026,Cyber/Computer Forensics and Counterterrorism,,660,540,29,25,23,23,25,,,,,,,,,,1
+user79,Password!79,AR,Haas Hall Academy,Fayetteville,AR,3.4,2024,Information Resources Management,,640,560,24,24,25,22,24,,,,,,,,,,1
+user80,Password!80,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2026,Creative Writing,,570,680,26,28,23,25,26,,,,,,,,,,2
+user81,Password!81,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.7,2027,Chemical and Biomolecular Engineering,,720,660,20,25,29,27,25,,,,,,,,,,2
+user82,Password!82,MI,International Academy,Bloomfield Hills,MI,3.5,2024,Mathematical Biology,,680,710,26,28,20,24,25,,,,,,,,,,2
+user83,Password!83,NJ,Academy for Information Technology,Scotch Plains,NJ,3.5,2025,"Water, Wetlands, and Marine Resources Management",,560,680,26,24,26,26,26,,,,,,,,,,1
+user84,Password!84,PA,Radnor Senior High School,Radnor,PA,3.4,2026,"System, Networking, and LAN/WAN Management/Manager",,610,690,25,23,26,28,26,,,,,,,,,,2
+user85,Password!85,KY,The Gatton Academy,Bowling Green,KY,3.6,2026,Mathematics,,620,590,25,28,27,27,27,,,,,,,,,,2
+user86,Password!86,MA,Lexington High School,Lexington,MA,3.4,2024,International Relations and Affairs,,680,610,27,27,23,24,25,,,,,,,,,,2
+user87,Password!87,KS,Blue Valley North High School,Overland Park,KS,3.7,2024,Woodwind Instruments,,690,650,23,24,24,25,24,,,,,,,,,,2
+user88,Password!88,CA,Canyon Crest Academy,San Diego,CA,3.4,2025,Pre-Veterinary Studies,,660,600,24,26,28,22,25,,,,,,,,,,2
+user89,Password!89,VA,McLean High School,McLean,VA,3.9,2027,Atomic/Molecular Physics,,740,660,26,25,28,27,27,,,,,,,,,,1
+user90,Password!90,MI,International Academy,Bloomfield Hills,MI,3.7,2024,Communication,,620,590,23,24,25,23,24,,,,,,,,,,1
+user91,Password!91,OH,Madeira High School,Cincinnati,OH,3.6,2024,Health/Medical Physics,,670,600,23,24,25,24,24,,,,,,,,,,2
+user92,Password!92,MN,Eagan Senior High School,Eagan,MN,3.6,2024,Informatics,,590,630,29,29,24,22,26,,,,,,,,,,1
+user93,Password!93,AZ,BASIS Tucson North,Tucson,AZ,3.5,2025,Conservation Biology,,700,630,23,22,22,26,23,,,,,,,,,,1
+user94,Password!94,MN,Eagan Senior High School,Eagan,MN,3.6,2025,Drama and Dramatics/Theatre Arts,,590,640,24,25,27,29,26,,,,,,,,,,1
+user95,Password!95,AL,Mt Brook High School,Mountain Brook,AL,3.5,2025,Physical Chemistry,,620,680,24,25,24,27,25,,,,,,,,,,2
+user96,Password!96,PA,Radnor Senior High School,Radnor,PA,3.7,2025,Agroecology and Sustainable Agriculture,,620,690,30,23,23,27,26,,,,,,,,,,1
+user97,Password!97,PA,Radnor Senior High School,Radnor,PA,3.4,2025,Medieval and Renaissance Studies,,680,640,24,26,27,27,26,,,,,,,,,,2
+user98,Password!98,WI,Whitefish Bay High School,Whitefish Bay,WI,3.7,2025,Plant Protection and Integrated Pest Management,,650,610,28,26,26,26,27,,,,,,,,,,1
+user99,Password!99,MN,Eagan Senior High School,Eagan,MN,3.5,2026,American History,,670,680,18,21,21,24,21,,,,,,,,,,2
+user100,Password!100,VA,McLean High School,McLean,VA,3.6,2025,Drama and Dance Teacher Education,,660,640,27,24,20,20,23,,,,,,,,,,1
+user101,Password!101,MN,Eagan Senior High School,Eagan,MN,3.4,2026,"Computer Programming, Specific Applications",,650,710,27,24,27,28,27,,,,,,,,,,1
+user102,Password!102,AR,Haas Hall Academy,Fayetteville,AR,3.5,2024,Magnetic Resonance Imaging Technology/Technician,,650,700,26,27,28,27,27,,,,,,,,,,1
+user103,Password!103,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2024,Spanish and Iberian Studies,,670,620,26,28,22,24,25,,,,,,,,,,2
+user104,Password!104,WI,Whitefish Bay High School,Whitefish Bay,WI,3.4,2024,Health Information/Medical Records Administration/Administrator,,680,680,29,22,22,25,25,,,,,,,,,,2
+user105,Password!105,SC,Academic Magnet High School,North Charleston,SC,3.6,2024,Housing and Human Environments,,670,680,23,23,26,26,25,,,,,,,,,,2
+user106,Password!106,PA,Radnor Senior High School,Radnor,PA,3.5,2024,Area Studies,,520,650,22,25,26,27,25,,,,,,,,,,1
+user107,Password!107,TX,Carroll Senior High School,Southlake,TX,3.5,2026,"Teacher Education, Multiple Levels",,630,660,25,27,24,25,25,,,,,,,,,,2
+user108,Password!108,AL,Mt Brook High School,Mountain Brook,AL,3.4,2025,Nutrition Sciences,,580,670,27,28,27,27,27,,,,,,,,,,2
+user109,Password!109,AL,Mt Brook High School,Mountain Brook,AL,3.4,2024,Missions/Missionary Studies and Missiology,,680,660,25,24,28,27,26,,,,,,,,,,2
+user110,Password!110,SC,Academic Magnet High School,North Charleston,SC,3.4,2024,Geographic Information Science and Cartography,,680,650,23,20,25,24,23,,,,,,,,,,1
+user111,Password!111,OH,Madeira High School,Cincinnati,OH,3.4,2025,Development Economics and International Development,,710,660,29,24,27,27,27,,,,,,,,,,1
+user112,Password!112,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.4,2024,Microbiology and Immunology,,670,590,23,21,18,24,22,,,,,,,,,,1
+user113,Password!113,WA,Bellevue High School,Bellevue,WA,3.5,2027,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics",,660,660,29,26,27,22,26,,,,,,,,,,2
+user114,Password!114,OH,Madeira High School,Cincinnati,OH,3.6,2025,Russian Studies,,680,690,20,28,27,22,24,,,,,,,,,,2
+user115,Password!115,TX,Carroll Senior High School,Southlake,TX,3.2,2027,General Studies,,520,680,26,22,26,27,25,,,,,,,,,,1
+user116,Password!116,WA,Bellevue High School,Bellevue,WA,3.3,2024,Community Psychology,,560,670,24,29,26,27,27,,,,,,,,,,1
+user117,Password!117,NY,Brooklyn Technical High School,Brooklyn,NY,3.6,2026,Financial Mathematics,,590,650,26,26,26,27,26,,,,,,,,,,2
+user118,Password!118,MA,Lexington High School,Lexington,MA,3.5,2025,Jewish/Judaic Studies,,580,620,23,30,23,28,26,,,,,,,,,,1
+user119,Password!119,WA,Bellevue High School,Bellevue,WA,3.5,2025,Environmental Design/Architecture,,590,640,23,26,29,29,27,,,,,,,,,,2
+user120,Password!120,AL,Mt Brook High School,Mountain Brook,AL,3.6,2024,Mechanical Engineering,,590,690,22,25,27,29,26,,,,,,,,,,2
+user121,Password!121,AL,Mt Brook High School,Mountain Brook,AL,3.6,2024,Pharmacy,,670,730,24,27,25,22,25,,,,,,,,,,2
+user122,Password!122,MN,Eagan Senior High School,Eagan,MN,3.7,2025,Financial Planning and Services,,680,700,27,26,26,24,26,,,,,,,,,,2
+user123,Password!123,CO,Fairview High School,Boulder,CO,3.4,2024,Atmospheric Sciences and Meteorology,,620,740,28,24,24,28,26,,,,,,,,,,2
+user124,Password!124,VA,McLean High School,McLean,VA,3.5,2024,Range Science and Management,,580,680,27,27,26,27,27,,,,,,,,,,1
+user125,Password!125,KS,Blue Valley North High School,Overland Park,KS,3.4,2024,Finance,,690,690,22,24,25,26,24,,,,,,,,,,2
+user126,Password!126,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2024,"Hispanic and Latin American Languages, Literatures, and Linguistics",,650,620,27,24,27,24,26,,,,,,,,,,2
+user127,Password!127,MO,Parkway Central High School,Chesterfield,MO,3.8,2024,Aircraft Powerplant Technology/Technician,,660,630,25,28,25,22,25,,,,,,,,,,1
+user128,Password!128,GA,Walton High School,Marietta,GA,3.4,2026,Computer Software and Media Applications,,690,720,24,20,20,23,22,,,,,,,,,,1
+user129,Password!129,NJ,Academy for Information Technology,Scotch Plains,NJ,3.6,2027,"Russian, Central European, East European and Eurasian Studies",,540,620,25,21,28,23,24,,,,,,,,,,1
+user130,Password!130,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2027,International Business/Trade/Commerce,,690,590,24,25,18,23,23,,,,,,,,,,1
+user131,Password!131,CA,Canyon Crest Academy,San Diego,CA,3.7,2025,Management Information Systems,,590,660,30,28,27,24,27,,,,,,,,,,1
+user132,Password!132,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2027,Computational Mathematics,,660,650,29,27,27,23,27,,,,,,,,,,1
+user133,Password!133,SC,Academic Magnet High School,North Charleston,SC,3.6,2024,"Germanic Languages, Literatures, and Linguistics",,610,620,23,26,25,25,25,,,,,,,,,,2
+user134,Password!134,NH,Hanover High School,Hanover,NH,3.7,2024,Intermedia/Multimedia,,650,600,28,26,29,27,28,,,,,,,,,,2
+user135,Password!135,NC,North Carolina School of Science and Mathematics,Durham,NC,3.5,2024,Cytotechnology/Cytotechnologist,,700,670,26,25,25,26,26,,,,,,,,,,2
+user136,Password!136,NH,Hanover High School,Hanover,NH,3.5,2025,Photojournalism,,640,690,20,22,25,18,21,,,,,,,,,,1
+user137,Password!137,KY,The Gatton Academy,Bowling Green,KY,3.4,2024,Behavioral Sciences,,680,610,18,24,26,28,24,,,,,,,,,,2
+user138,Password!138,VA,McLean High School,McLean,VA,3.5,2024,Neurobiology and Neurosciences,,700,690,22,25,27,30,26,,,,,,,,,,2
+user139,Password!139,GA,Walton High School,Marietta,GA,3.6,2024,Mental and Social Health Services and Allied Professions,,610,630,25,30,23,28,27,,,,,,,,,,1
+user140,Password!140,SC,Academic Magnet High School,North Charleston,SC,3.4,2026,Statistics,,570,680,23,28,27,22,25,,,,,,,,,,1
+user141,Password!141,SC,Academic Magnet High School,North Charleston,SC,3.5,2027,Film/Video and Photographic Arts,,660,680,22,22,24,24,23,,,,,,,,,,1
+user142,Password!142,VA,McLean High School,McLean,VA,3.5,2027,Theology/Theological Studies,,630,630,30,30,21,27,27,,,,,,,,,,2
+user143,Password!143,MO,Parkway Central High School,Chesterfield,MO,3.7,2024,Pre-Physical Therapy Studies,,740,700,22,21,27,23,23,,,,,,,,,,2
+user144,Password!144,CA,Canyon Crest Academy,San Diego,CA,3.8,2025,Social and Philosophical Foundations of Education,,650,760,29,23,28,20,25,,,,,,,,,,1
+user145,Password!145,WI,Whitefish Bay High School,Whitefish Bay,WI,3.4,2026,Structural Engineering,,660,680,27,24,22,28,25,,,,,,,,,,2
+user146,Password!146,NM,Volcano Vista High School,Albuquerque,NM,3.4,2027,Drawing,,680,680,24,23,22,24,23,,,,,,,,,,1
+user147,Password!147,KS,Blue Valley North High School,Overland Park,KS,3.5,2024,Fashion/Apparel Design,,660,630,24,26,26,25,25,,,,,,,,,,2
+user148,Password!148,GA,Walton High School,Marietta,GA,3.4,2027,Zoology/Animal Biology,,670,650,26,28,26,27,27,,,,,,,,,,1
+user149,Password!149,SC,Academic Magnet High School,North Charleston,SC,3.5,2027,"Aerospace, Aeronautical and Astronautical/Space Engineering",,630,600,26,23,22,28,25,,,,,,,,,,2
+user150,Password!150,AL,Mt Brook High School,Mountain Brook,AL,3.5,2024,French Language and Literature,,610,690,27,21,24,23,24,,,,,,,,,,1
+user151,Password!151,WA,Bellevue High School,Bellevue,WA,3.6,2024,Early Childhood Education and Teaching,,620,740,22,22,26,21,23,,,,,,,,,,2
+user152,Password!152,OH,Madeira High School,Cincinnati,OH,3.5,2027,Foreign Language Teacher Education,,570,680,22,28,24,26,25,,,,,,,,,,2
+user153,Password!153,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.3,2027,Philosophy,,700,660,27,26,22,22,24,,,,,,,,,,1
+user154,Password!154,VA,McLean High School,McLean,VA,3.5,2026,Food Science,,680,660,25,24,27,25,25,,,,,,,,,,1
+user155,Password!155,SC,Academic Magnet High School,North Charleston,SC,3.5,2025,Insurance,,740,600,24,29,25,27,26,,,,,,,,,,1
+user156,Password!156,TX,Carroll Senior High School,Southlake,TX,3.2,2026,Applied Horticulture/Horticulture Operations,,690,680,24,27,27,21,25,,,,,,,,,,1
+user157,Password!157,CO,Fairview High School,Boulder,CO,3.4,2024,Asian Studies/Civilization,,690,540,27,20,23,27,24,,,,,,,,,,2
+user158,Password!158,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.4,2025,Gerontology,,690,710,27,24,25,22,25,,,,,,,,,,1
+user159,Password!159,KS,Blue Valley North High School,Overland Park,KS,3.5,2026,Industrial and Product Design,,680,680,24,22,23,26,24,,,,,,,,,,2
+user160,Password!160,PA,Radnor Senior High School,Radnor,PA,3.5,2025,Information Science/Studies,,680,690,27,24,24,22,24,,,,,,,,,,1
+user161,Password!161,MO,Parkway Central High School,Chesterfield,MO,3.6,2026,Family and Consumer Sciences/Human Sciences,,670,700,24,23,26,27,25,,,,,,,,,,2
+user162,Password!162,PA,Radnor Senior High School,Radnor,PA,3.6,2025,Architectural and Building Sciences/Technology,,670,670,26,20,25,23,24,,,,,,,,,,1
+user163,Password!163,GA,Walton High School,Marietta,GA,3.5,2027,Bioengineering and Biomedical Engineering,,640,700,20,24,28,23,24,,,,,,,,,,1
+user164,Password!164,AR,Haas Hall Academy,Fayetteville,AR,3.5,2025,Child Development,,670,630,26,22,25,24,24,,,,,,,,,,2
+user165,Password!165,TX,Carroll Senior High School,Southlake,TX,3.5,2027,Mining and Mineral Engineering,,660,670,25,27,26,21,25,,,,,,,,,,1
+user166,Password!166,GA,Walton High School,Marietta,GA,3.2,2026,Exercise Physiology,,680,680,23,27,28,20,25,,,,,,,,,,2
+user167,Password!167,MI,International Academy,Bloomfield Hills,MI,3.5,2024,Geography,,690,600,24,23,25,24,24,,,,,,,,,,1
+user168,Password!168,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2027,Bioinformatics,,680,600,22,24,27,26,25,,,,,,,,,,1
+user169,Password!169,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.8,2024,Animal Physiology,,650,690,24,24,27,26,25,,,,,,,,,,2
+user170,Password!170,NM,Volcano Vista High School,Albuquerque,NM,3.5,2025,Agricultural and Extension Education Services,,650,580,25,29,29,24,27,,,,,,,,,,1
+user171,Password!171,GA,Walton High School,Marietta,GA,3.3,2024,"Modeling, Virtual Environments and Simulation",,580,660,26,21,27,23,24,,,,,,,,,,1
+user172,Password!172,KY,The Gatton Academy,Bowling Green,KY,3.7,2024,Developmental Biology and Embryology,,690,570,25,24,27,27,26,,,,,,,,,,2
+user173,Password!173,TX,Carroll Senior High School,Southlake,TX,3.3,2026,Elementary and Middle School Administration/Principalship,,620,620,22,26,27,26,25,,,,,,,,,,2
+user174,Password!174,VA,McLean High School,McLean,VA,3.4,2024,CAD/CADD Drafting and/or Design Technology/Technician,,660,580,29,28,26,28,28,,,,,,,,,,2
+user175,Password!175,MA,Lexington High School,Lexington,MA,3.6,2024,Computer and Information Sciences,,570,690,27,24,26,29,27,,,,,,,,,,1
+user176,Password!176,NC,North Carolina School of Science and Mathematics,Durham,NC,3.3,2024,Ceramic Sciences and Engineering,,680,680,27,28,28,24,27,,,,,,,,,,1
+user177,Password!177,CO,Fairview High School,Boulder,CO,3.5,2026,Dairy Science,,640,680,28,22,30,26,27,,,,,,,,,,1
+user178,Password!178,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2024,Nuclear Engineering,,660,630,22,28,24,26,25,,,,,,,,,,1
+user179,Password!179,MA,Lexington High School,Lexington,MA,3.3,2024,"City/Urban, Community and Regional Planning",,630,660,25,27,27,22,25,,,,,,,,,,1
+user180,Password!180,OH,Madeira High School,Cincinnati,OH,3.6,2024,"Romance Languages, Literatures, and Linguistics",,620,630,27,25,24,28,26,,,,,,,,,,2
+user181,Password!181,CO,Fairview High School,Boulder,CO,3.4,2025,Tourism and Travel Services Marketing Operations,,680,690,21,23,23,26,23,,,,,,,,,,1
+user182,Password!182,TX,Carroll Senior High School,Southlake,TX,3.4,2025,Counseling Psychology,,580,650,28,22,23,26,25,,,,,,,,,,1
+user183,Password!183,PA,Radnor Senior High School,Radnor,PA,3.4,2026,Aeronautics/Aviation/Aerospace Science and Technology,,680,650,26,29,29,26,28,,,,,,,,,,2
+user184,Password!184,MN,Eagan Senior High School,Eagan,MN,3.5,2026,Theological and Ministerial Studies,,670,730,30,26,27,25,27,,,,,,,,,,1
+user185,Password!185,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2027,Latin American Studies,,600,650,23,23,27,25,25,,,,,,,,,,2
+user186,Password!186,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.8,2025,Poultry Science,,610,670,23,22,24,25,24,,,,,,,,,,1
+user187,Password!187,MO,Parkway Central High School,Chesterfield,MO,3.7,2027,Hospitality and Recreation Marketing Operations,,630,640,27,25,29,26,27,,,,,,,,,,1
+user188,Password!188,MN,Eagan Senior High School,Eagan,MN,3.4,2025,Landscaping and Groundskeeping,,670,690,28,21,25,24,25,,,,,,,,,,1
+user189,Password!189,NY,Brooklyn Technical High School,Brooklyn,NY,3.6,2027,English/Language Arts Teacher Education,,580,720,23,26,23,21,23,,,,,,,,,,1
+user190,Password!190,PA,Radnor Senior High School,Radnor,PA,3.4,2024,Epidemiology,,660,670,27,27,23,27,26,,,,,,,,,,2
+user191,Password!191,AZ,BASIS Tucson North,Tucson,AZ,3.3,2024,Criminal Justice/Safety Studies,,700,590,27,25,26,29,27,,,,,,,,,,2
+user192,Password!192,AR,Haas Hall Academy,Fayetteville,AR,3.5,2024,International Relations and National Security Studies,,660,680,25,25,23,27,25,,,,,,,,,,2
+user193,Password!193,TX,Carroll Senior High School,Southlake,TX,3.3,2026,African-American/Black Studies,,680,630,25,24,24,27,25,,,,,,,,,,2
+user194,Password!194,TX,Carroll Senior High School,Southlake,TX,3.4,2024,Nursing Science,,590,660,30,24,26,24,26,,,,,,,,,,2
+user195,Password!195,NM,Volcano Vista High School,Albuquerque,NM,3.7,2024,Applied and Professional Ethics,,580,740,27,25,23,21,24,,,,,,,,,,2
+user196,Password!196,GA,Walton High School,Marietta,GA,3.8,2024,Computational Biology,,620,650,20,21,30,22,23,,,,,,,,,,2
+user197,Password!197,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2025,Journalism,,660,590,29,29,27,26,28,,,,,,,,,,1
+user198,Password!198,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2025,Bilingual and Multilingual Education,,680,640,24,26,25,23,25,,,,,,,,,,2
+user199,Password!199,TX,Carroll Senior High School,Southlake,TX,3.5,2024,"Electrical, Electronics and Communications Engineering",,650,690,22,28,23,24,24,,,,,,,,,,1
+user200,Password!200,AL,Mt Brook High School,Mountain Brook,AL,3.4,2024,Marketing,,690,690,26,28,24,22,25,,,,,,,,,,2
+user201,Password!201,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2024,Physics,,670,660,27,22,28,24,25,,,,,,,,,,2
+user202,Password!202,KY,The Gatton Academy,Bowling Green,KY,3.2,2025,Playwriting and Screenwriting,,600,650,24,27,23,25,25,,,,,,,,,,1
+user203,Password!203,KY,The Gatton Academy,Bowling Green,KY,3.6,2025,Polysomnography,,680,680,24,23,26,30,26,,,,,,,,,,2
+user204,Password!204,TX,Carroll Senior High School,Southlake,TX,3.8,2024,Biochemistry and Molecular Biology,,640,680,27,22,26,22,24,,,,,,,,,,2
+user205,Password!205,NY,Brooklyn Technical High School,Brooklyn,NY,3.2,2026,Graphic Design,,660,700,28,26,26,20,25,,,,,,,,,,1
+user206,Password!206,NC,North Carolina School of Science and Mathematics,Durham,NC,3.5,2024,"Electrical, Electronic and Communications Engineering Technology/Technician",,690,630,24,26,26,20,24,,,,,,,,,,1
+user207,Password!207,CO,Fairview High School,Boulder,CO,3.3,2024,Dance,,650,580,27,24,23,26,25,,,,,,,,,,1
+user208,Password!208,OH,Madeira High School,Cincinnati,OH,3.5,2025,Linguistics,,610,640,22,28,26,29,26,,,,,,,,,,1
+user209,Password!209,CO,Fairview High School,Boulder,CO,3.6,2024,Learning Sciences,,680,690,27,28,28,26,27,,,,,,,,,,1
+user210,Password!210,AL,Mt Brook High School,Mountain Brook,AL,3.2,2027,Occupational Safety and Health Technology/Technician,,650,700,20,29,22,26,24,,,,,,,,,,1
+user211,Password!211,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2026,Legal Professions and Studies,,690,690,29,26,24,24,26,,,,,,,,,,2
+user212,Password!212,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2024,Sales and Marketing Operations/Marketing and Distribution Teacher Education,,660,670,29,26,25,24,26,,,,,,,,,,2
+user213,Password!213,MI,International Academy,Bloomfield Hills,MI,3.5,2024,Astronomy,,640,570,24,26,30,26,27,,,,,,,,,,2
+user214,Password!214,NY,Brooklyn Technical High School,Brooklyn,NY,3.6,2025,Business/Corporate Communications,,700,590,24,23,20,20,22,,,,,,,,,,2
+user215,Password!215,PA,Radnor Senior High School,Radnor,PA,3.6,2026,Plant Sciences,,590,630,22,26,24,26,25,,,,,,,,,,2
+user216,Password!216,NJ,Academy for Information Technology,Scotch Plains,NJ,3.5,2027,Architectural Engineering,,710,690,26,24,24,28,26,,,,,,,,,,1
+user217,Password!217,PA,Radnor Senior High School,Radnor,PA,3.5,2026,Machine Tool Technology/Machinist,,700,660,24,25,29,22,25,,,,,,,,,,1
+user218,Password!218,NC,North Carolina School of Science and Mathematics,Durham,NC,3.5,2026,Cultural Studies/Critical Theory and Analysis,,650,690,26,18,24,24,23,,,,,,,,,,1
+user219,Password!219,NC,North Carolina School of Science and Mathematics,Durham,NC,3.6,2027,Social Science Teacher Education,,680,680,24,22,29,29,26,,,,,,,,,,2
+user220,Password!220,WA,Bellevue High School,Bellevue,WA,3.5,2026,"Human Development, Family Studies",,640,680,27,22,20,26,24,,,,,,,,,,2
+user221,Password!221,SC,Academic Magnet High School,North Charleston,SC,3.4,2026,Theoretical and Mathematical Physics,,680,580,23,26,26,26,25,,,,,,,,,,1
+user222,Password!222,OH,Madeira High School,Cincinnati,OH,3.5,2026,Film/Cinema/Video Studies,,610,660,26,20,26,24,24,,,,,,,,,,2
+user223,Password!223,MI,International Academy,Bloomfield Hills,MI,3.2,2025,Meeting and Event Planning,,700,690,27,20,26,25,25,,,,,,,,,,1
+user224,Password!224,AL,Mt Brook High School,Mountain Brook,AL,3.5,2026,Sociology and Anthropology,,650,690,22,27,27,23,25,,,,,,,,,,2
+user225,Password!225,AZ,BASIS Tucson North,Tucson,AZ,3.4,2027,Keyboard Instruments,,640,700,22,24,22,22,23,,,,,,,,,,2
+user226,Password!226,SC,Academic Magnet High School,North Charleston,SC,3.4,2026,Labor Studies,,570,580,26,21,27,24,25,,,,,,,,,,1
+user227,Password!227,NC,North Carolina School of Science and Mathematics,Durham,NC,3.6,2025,Urban Forestry,,590,640,27,23,22,22,24,,,,,,,,,,1
+user228,Password!228,KS,Blue Valley North High School,Overland Park,KS,3.8,2024,Soil Science and Agronomy,,680,700,24,26,28,23,25,,,,,,,,,,2
+user229,Password!229,SC,Academic Magnet High School,North Charleston,SC,3.4,2024,International/Global Studies,,660,740,22,24,27,22,24,,,,,,,,,,1
+user230,Password!230,KS,Blue Valley North High School,Overland Park,KS,3.4,2026,Electrical and Electronic Engineering Technologies/Technicians,,690,630,24,27,28,21,25,,,,,,,,,,2
+user231,Password!231,KY,The Gatton Academy,Bowling Green,KY,3.4,2024,Occupational Therapy/Therapist,,690,660,23,25,26,27,25,,,,,,,,,,1
+user232,Password!232,TX,Carroll Senior High School,Southlake,TX,3.5,2025,Chinese Language and Literature,,700,680,26,21,24,24,24,,,,,,,,,,2
+user233,Password!233,NM,Volcano Vista High School,Albuquerque,NM,3.4,2027,Electromechanical Technology/Electromechanical Engineering Technology,,660,700,26,27,22,23,25,,,,,,,,,,2
+user234,Password!234,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.7,2025,Radiologic Technology/Science - Radiographer,,640,660,27,23,25,26,25,,,,,,,,,,1
+user235,Password!235,CO,Fairview High School,Boulder,CO,3.4,2024,Human Resources Development,,680,580,25,24,27,22,25,,,,,,,,,,1
+user236,Password!236,MI,International Academy,Bloomfield Hills,MI,3.4,2027,Agricultural Public Services,,590,740,24,25,27,21,24,,,,,,,,,,2
+user237,Password!237,NM,Volcano Vista High School,Albuquerque,NM,3.4,2024,Special Education and Teaching,,630,580,29,26,22,26,26,,,,,,,,,,1
+user238,Password!238,OH,Madeira High School,Cincinnati,OH,3.4,2025,Agricultural Communication/Journalism,,730,520,24,26,24,23,24,,,,,,,,,,2
+user239,Password!239,SC,Academic Magnet High School,North Charleston,SC,3.3,2025,Genetics,,660,690,29,24,26,27,27,,,,,,,,,,1
+user240,Password!240,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2024,Biology Teacher Education,,700,680,26,26,18,24,24,,,,,,,,,,1
+user241,Password!241,CA,Canyon Crest Academy,San Diego,CA,3.4,2025,Woodworking,,690,540,22,23,23,29,24,,,,,,,,,,1
+user242,Password!242,CO,Fairview High School,Boulder,CO,3.6,2024,Astrophysics,,620,640,23,27,27,24,25,,,,,,,,,,1
+user243,Password!243,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2026,Biological and Biomedical Sciences,,670,560,26,28,22,26,26,,,,,,,,,,1
+user244,Password!244,GA,Walton High School,Marietta,GA,3.5,2027,International Public Health/International Health,,730,680,27,24,26,22,25,,,,,,,,,,1
+user245,Password!245,CA,Canyon Crest Academy,San Diego,CA,3.4,2027,Museology/Museum Studies,,640,620,25,24,25,26,25,,,,,,,,,,2
+user246,Password!246,AR,Haas Hall Academy,Fayetteville,AR,3.5,2024,Forest Sciences and Biology,,730,680,29,25,26,29,27,,,,,,,,,,1
+user247,Password!247,CO,Fairview High School,Boulder,CO,3.5,2024,Research and Experimental Psychology,,560,540,21,21,24,24,23,,,,,,,,,,1
+user248,Password!248,AZ,BASIS Tucson North,Tucson,AZ,3.6,2027,Hydrology and Water Resources Science,,660,600,29,25,27,22,26,,,,,,,,,,1
+user249,Password!249,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2024,Veterinary/Animal Health Technology/Technician and Veterinary Assistant,,610,690,25,28,26,24,26,,,,,,,,,,1
+user250,Password!250,MI,International Academy,Bloomfield Hills,MI,3.6,2024,Trade and Industrial Teacher Education,,560,580,23,25,29,26,26,,,,,,,,,,1
+user251,Password!251,CA,Canyon Crest Academy,San Diego,CA,3.5,2026,Visual and Performing Arts,,680,630,23,29,23,27,26,,,,,,,,,,2
+user252,Password!252,GA,Walton High School,Marietta,GA,3.5,2025,Water Resources Engineering,,620,700,26,26,23,20,24,,,,,,,,,,2
+user253,Password!253,MI,International Academy,Bloomfield Hills,MI,3.5,2026,Acting,,640,700,26,29,28,24,27,,,,,,,,,,2
+user254,Password!254,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2025,Social Sciences,,680,620,27,27,27,23,26,,,,,,,,,,1
+user255,Password!255,NC,North Carolina School of Science and Mathematics,Durham,NC,3.6,2027,Animal Sciences,,730,650,26,26,29,28,27,,,,,,,,,,2
+user256,Password!256,NY,Brooklyn Technical High School,Brooklyn,NY,3.8,2025,Printmaking,,600,650,28,24,27,20,25,,,,,,,,,,1
+user257,Password!257,CA,Canyon Crest Academy,San Diego,CA,3.6,2025,Technical Teacher Education,,690,730,24,28,24,23,25,,,,,,,,,,2
+user258,Password!258,AZ,BASIS Tucson North,Tucson,AZ,3.6,2024,Special Products Marketing Operations,,610,570,23,24,25,22,24,,,,,,,,,,1
+user259,Password!259,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.6,2026,Design and Visual Communications,,660,660,26,23,25,23,24,,,,,,,,,,1
+user260,Password!260,SC,Academic Magnet High School,North Charleston,SC,3.5,2026,Occupational Health and Industrial Hygiene,,610,640,27,26,23,28,26,,,,,,,,,,2
+user261,Password!261,NH,Hanover High School,Hanover,NH,3.5,2027,Computer and Information Systems Security/Information Assurance,,580,650,24,22,24,23,23,,,,,,,,,,2
+user262,Password!262,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2026,Urban Studies/Affairs,,710,670,26,23,28,24,25,,,,,,,,,,1
+user263,Password!263,NJ,Academy for Information Technology,Scotch Plains,NJ,3.3,2024,Philosophy and Religious Studies,,630,640,23,27,25,27,26,,,,,,,,,,1
+user264,Password!264,WA,Bellevue High School,Bellevue,WA,3.5,2024,Foodservice Systems Administration/Management,,640,760,28,24,20,22,24,,,,,,,,,,1
+user265,Password!265,AR,Haas Hall Academy,Fayetteville,AR,3.5,2024,Public Administration,,690,660,22,21,27,24,24,,,,,,,,,,1
+user266,Password!266,WA,Bellevue High School,Bellevue,WA,3.2,2025,Information Technology,,680,690,18,20,28,28,24,,,,,,,,,,2
+user267,Password!267,OH,Madeira High School,Cincinnati,OH,3.8,2024,Stringed Instruments,,730,660,22,26,26,24,25,,,,,,,,,,2
+user268,Password!268,MA,Lexington High School,Lexington,MA,3.5,2025,Movement Therapy and Movement Education,,690,670,26,27,27,23,26,,,,,,,,,,2
+user269,Password!269,AL,Mt Brook High School,Mountain Brook,AL,3.6,2027,Architectural History and Criticism,,660,630,27,30,23,24,26,,,,,,,,,,1
+user270,Password!270,NH,Hanover High School,Hanover,NH,3.2,2027,Securities Services Administration/Management,,620,700,30,26,28,27,28,,,,,,,,,,1
+user271,Password!271,CA,Canyon Crest Academy,San Diego,CA,3.5,2027,Hospitality Administration/Management,,670,720,23,22,24,25,24,,,,,,,,,,1
+user272,Password!272,SC,Academic Magnet High School,North Charleston,SC,3.6,2024,Indian/Native American Education,,650,620,27,28,22,28,26,,,,,,,,,,1
+user273,Password!273,WI,Whitefish Bay High School,Whitefish Bay,WI,3.4,2024,Computer and Information Sciences and Support Services,,690,660,23,26,22,25,24,,,,,,,,,,2
+user274,Password!274,OH,Madeira High School,Cincinnati,OH,3.5,2027,Environmental Biology,,700,650,23,26,30,29,27,,,,,,,,,,1
+user275,Password!275,MO,Parkway Central High School,Chesterfield,MO,3.7,2025,"Crafts/Craft Design, Folk Art and Artisanry",,640,630,23,27,27,26,26,,,,,,,,,,1
+user276,Password!276,PA,Radnor Senior High School,Radnor,PA,3.4,2024,"Parks, Recreation, Leisure, and Fitness Studies",,630,650,27,23,28,23,25,,,,,,,,,,1
+user277,Password!277,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.3,2027,Geological and Earth Sciences/Geosciences,,630,660,29,25,26,23,26,,,,,,,,,,1
+user278,Password!278,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.5,2024,Fire Science/Fire-fighting,,700,730,25,25,26,23,25,,,,,,,,,,2
+user279,Password!279,VA,McLean High School,McLean,VA,3.6,2027,Community Health and Preventive Medicine,,690,700,30,27,23,22,26,,,,,,,,,,1
+user280,Password!280,MN,Eagan Senior High School,Eagan,MN,3.5,2027,Peace Studies and Conflict Resolution,,660,700,22,22,24,27,24,,,,,,,,,,2
+user281,Password!281,AR,Haas Hall Academy,Fayetteville,AR,3.5,2025,Ural-Altaic and Central Asian Studies,,680,670,22,26,20,26,24,,,,,,,,,,1
+user282,Password!282,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2024,American/United States Studies/Civilization,,700,650,24,27,26,24,25,,,,,,,,,,1
+user283,Password!283,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.3,2025,Environmental Health,,640,620,28,25,26,24,26,,,,,,,,,,1
+user284,Password!284,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2027,Modern Greek Language and Literature,,590,690,22,26,27,27,26,,,,,,,,,,1
+user285,Password!285,MO,Parkway Central High School,Chesterfield,MO,3.4,2025,"Classics and Classical Languages, Literatures, and Linguistics",,740,660,22,24,25,23,24,,,,,,,,,,1
+user286,Password!286,GA,Walton High School,Marietta,GA,3.4,2027,Kinesiology and Exercise Science,,740,620,21,25,27,24,24,,,,,,,,,,2
+user287,Password!287,PA,Radnor Senior High School,Radnor,PA,3.7,2026,Horse Husbandry/Equine Science and Management,,600,700,23,24,27,25,25,,,,,,,,,,1
+user288,Password!288,MI,International Academy,Bloomfield Hills,MI,3.6,2025,Mathematics and Computer Science,,650,700,29,28,27,18,26,,,,,,,,,,2
+user289,Password!289,MN,Eagan Senior High School,Eagan,MN,3.5,2026,"Public Relations, Advertising, and Applied Communication",,680,690,26,25,24,27,26,,,,,,,,,,1
+user290,Password!290,SC,Academic Magnet High School,North Charleston,SC,3.7,2027,Sports Studies,,660,700,27,23,25,27,26,,,,,,,,,,2
+user291,Password!291,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2025,Physical Education Teaching and Coaching,,650,660,20,22,27,22,23,,,,,,,,,,1
+user292,Password!292,OH,Madeira High School,Cincinnati,OH,3.5,2024,Cell/Cellular and Molecular Biology,,660,610,28,27,22,26,26,,,,,,,,,,1
+user293,Password!293,VA,McLean High School,McLean,VA,3.3,2024,Nuclear Medical Technology/Technologist,,620,740,27,29,20,30,27,,,,,,,,,,1
+user294,Password!294,WI,Whitefish Bay High School,Whitefish Bay,WI,3.4,2027,Sustainability Studies,,690,560,21,18,23,22,21,,,,,,,,,,2
+user295,Password!295,CO,Fairview High School,Boulder,CO,3.5,2025,Cinematography and Film/Video Production,,680,670,26,26,22,28,26,,,,,,,,,,2
+user296,Password!296,AR,Haas Hall Academy,Fayetteville,AR,3.4,2025,Biological and Physical Sciences,,600,710,24,25,24,22,24,,,,,,,,,,1
+user297,Password!297,MO,Parkway Central High School,Chesterfield,MO,3.4,2027,Management Information Systems and Services,,650,650,29,25,27,26,27,,,,,,,,,,1
+user298,Password!298,KS,Blue Valley North High School,Overland Park,KS,3.6,2026,Computer Software Engineering,,630,680,23,22,29,29,26,,,,,,,,,,2
+user299,Password!299,TX,Carroll Senior High School,Southlake,TX,3.4,2026,"Linguistic, Comparative",,770,660,27,23,27,26,26,,,,,,,,,,2
+user300,Password!300,MN,Eagan Senior High School,Eagan,MN,3.4,2027,Metallurgical Engineering,,610,660,21,21,27,23,23,,,,,,,,,,2
+user301,Password!301,VA,McLean High School,McLean,VA,3.7,2025,Athletic Training/Trainer,,590,690,24,29,20,24,24,,,,,,,,,,1
+user302,Password!302,GA,Walton High School,Marietta,GA,3.6,2024,Youth Services/Administration,,520,660,29,23,27,26,26,,,,,,,,,,2
+user303,Password!303,NJ,Academy for Information Technology,Scotch Plains,NJ,3.4,2025,Italian Language and Literature,,660,590,28,22,28,27,26,,,,,,,,,,1
+user304,Password!304,AR,Haas Hall Academy,Fayetteville,AR,3.5,2025,Forest Management/Forest Resources Management,,630,700,22,22,24,23,23,,,,,,,,,,1
+user305,Password!305,WA,Bellevue High School,Bellevue,WA,3.7,2024,Pharmacology,,700,650,27,24,28,27,27,,,,,,,,,,2
+user306,Password!306,MN,Eagan Senior High School,Eagan,MN,3.5,2025,Writing,,650,520,25,26,24,24,25,,,,,,,,,,2
+user307,Password!307,KS,Blue Valley North High School,Overland Park,KS,3.5,2024,Occupational Therapist Assistant,,640,610,29,23,28,26,27,,,,,,,,,,1
+user308,Password!308,TX,Carroll Senior High School,Southlake,TX,3.4,2025,German Language and Literature,,690,660,24,21,24,23,23,,,,,,,,,,1
+user309,Password!309,AR,Haas Hall Academy,Fayetteville,AR,3.6,2025,Computational Science,,710,730,22,26,28,20,24,,,,,,,,,,2
+user310,Password!310,GA,Walton High School,Marietta,GA,3.6,2026,Fine/Studio Arts,,640,670,29,27,20,29,26,,,,,,,,,,1
+user311,Password!311,KY,The Gatton Academy,Bowling Green,KY,3.6,2027,"Arts, Entertainment, and Media Management",,580,670,23,24,28,24,25,,,,,,,,,,1
+user312,Password!312,VA,McLean High School,McLean,VA,3.3,2027,Homeland Security,,630,690,27,24,21,27,25,,,,,,,,,,2
+user313,Password!313,AR,Haas Hall Academy,Fayetteville,AR,3.6,2024,Biometry/Biometrics,,560,660,27,24,22,22,24,,,,,,,,,,1
+user314,Password!314,MI,International Academy,Bloomfield Hills,MI,3.5,2025,Dietetics/Dietitian,,690,700,27,26,29,24,27,,,,,,,,,,1
+user315,Password!315,CA,Canyon Crest Academy,San Diego,CA,3.5,2024,Fashion Merchandising,,570,610,20,27,30,27,26,,,,,,,,,,1
+user316,Password!316,AR,Haas Hall Academy,Fayetteville,AR,3.5,2025,Respiratory Care Therapy/Therapist,,700,620,27,23,24,26,25,,,,,,,,,,1
+user317,Password!317,OH,Madeira High School,Cincinnati,OH,3.6,2024,Entrepreneurship/Entrepreneurial Studies,,590,640,22,24,27,25,25,,,,,,,,,,1
+user318,Password!318,AL,Mt Brook High School,Mountain Brook,AL,3.5,2025,Comparative Literature,,670,680,24,25,27,24,25,,,,,,,,,,2
+user319,Password!319,TX,Carroll Senior High School,Southlake,TX,3.4,2025,Medical Microbiology and Bacteriology,,680,630,28,23,23,23,24,,,,,,,,,,1
+user320,Password!320,MA,Lexington High School,Lexington,MA,3.4,2026,Surveying Technology/Surveying,,670,660,24,29,21,30,26,,,,,,,,,,2
+user321,Password!321,PA,Radnor Senior High School,Radnor,PA,3.7,2024,Asian-American Studies,,660,660,27,28,26,22,26,,,,,,,,,,1
+user322,Password!322,SC,Academic Magnet High School,North Charleston,SC,3.6,2024,Mathematics and Statistics,,680,540,21,21,22,27,23,,,,,,,,,,2
+user323,Password!323,CA,Canyon Crest Academy,San Diego,CA,3.6,2027,Public Relations/Image Management,,700,690,27,23,23,26,25,,,,,,,,,,2
+user324,Password!324,NY,Brooklyn Technical High School,Brooklyn,NY,3.7,2024,Family and Consumer Economics,,690,690,22,22,25,22,23,,,,,,,,,,2
+user325,Password!325,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2025,"Animation, Interactive Technology, Video Graphics and Special Effects",,600,690,25,26,29,26,27,,,,,,,,,,2
+user326,Password!326,KS,Blue Valley North High School,Overland Park,KS,3.6,2026,Art/Art Studies,,650,660,22,22,26,21,23,,,,,,,,,,1
+user327,Password!327,NH,Hanover High School,Hanover,NH,3.8,2027,Voice and Opera,,700,650,30,23,23,26,26,,,,,,,,,,2
+user328,Password!328,KS,Blue Valley North High School,Overland Park,KS,3.5,2024,Energy Management and Systems Technology/Technician,,620,670,25,26,23,26,25,,,,,,,,,,2
+user329,Password!329,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2026,Sociology,,660,650,20,18,26,29,23,,,,,,,,,,2
+user330,Password!330,WA,Bellevue High School,Bellevue,WA,3.6,2027,Agricultural Business Technology,,660,680,22,26,25,28,25,,,,,,,,,,2
+user331,Password!331,OH,Madeira High School,Cincinnati,OH,3.4,2024,Asian History,,670,650,27,27,29,24,27,,,,,,,,,,2
+user332,Password!332,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.4,2024,Administrative Assistant and Secretarial Science,,700,640,25,27,28,26,27,,,,,,,,,,1
+user333,Password!333,AZ,BASIS Tucson North,Tucson,AZ,3.5,2027,Publishing,,660,690,23,21,27,25,24,,,,,,,,,,2
+user334,Password!334,PA,Radnor Senior High School,Radnor,PA,3.6,2027,Agronomy and Crop Science,,680,690,23,18,23,27,23,,,,,,,,,,1
+user335,Password!335,AL,Mt Brook High School,Mountain Brook,AL,3.6,2024,Critical Infrastructure Protection,,590,650,24,24,26,29,26,,,,,,,,,,1
+user336,Password!336,OH,Madeira High School,Cincinnati,OH,3.6,2025,Dramatic/Theatre Arts and Stagecraft,,740,680,26,26,25,23,25,,,,,,,,,,1
+user337,Password!337,KY,The Gatton Academy,Bowling Green,KY,3.6,2024,International Finance,,660,630,29,22,29,20,25,,,,,,,,,,1
+user338,Password!338,AL,Mt Brook High School,Mountain Brook,AL,3.4,2026,Metal and Jewelry Arts,,600,600,20,24,27,25,24,,,,,,,,,,1
+user339,Password!339,AR,Haas Hall Academy,Fayetteville,AR,3.6,2024,Secondary Education and Teaching,,610,630,21,25,24,25,24,,,,,,,,,,1
+user340,Password!340,SC,Academic Magnet High School,North Charleston,SC,3.5,2024,Manufacturing Engineering,,650,630,26,25,26,27,26,,,,,,,,,,1
+user341,Password!341,NM,Volcano Vista High School,Albuquerque,NM,3.6,2024,Youth Ministry,,680,690,22,22,23,25,23,,,,,,,,,,2
+user342,Password!342,CO,Fairview High School,Boulder,CO,3.5,2026,Prepress/Desktop Publishing and Digital Imaging Design,,630,680,27,24,22,23,24,,,,,,,,,,2
+user343,Password!343,TX,Carroll Senior High School,Southlake,TX,3.6,2027,"Fiber, Textile and Weaving Arts",,690,710,27,28,22,21,25,,,,,,,,,,1
+user344,Password!344,AR,Haas Hall Academy,Fayetteville,AR,3.5,2026,Elementary Education and Teaching,,540,710,26,23,24,26,25,,,,,,,,,,2
+user345,Password!345,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.8,2026,Pre-Engineering,,760,660,25,22,30,24,25,,,,,,,,,,2
+user346,Password!346,MO,Parkway Central High School,Chesterfield,MO,3.5,2026,Art Teacher Education,,650,650,24,26,24,27,25,,,,,,,,,,1
+user347,Password!347,GA,Walton High School,Marietta,GA,3.3,2026,Medical/Health Management and Clinical Assistant/Specialist,,690,680,26,27,23,24,25,,,,,,,,,,1
+user348,Password!348,SC,Academic Magnet High School,North Charleston,SC,3.5,2024,Historic Preservation and Conservation,,740,700,23,24,24,27,25,,,,,,,,,,2
+user349,Password!349,MA,Lexington High School,Lexington,MA,3.7,2027,Radio and Television,,560,700,29,24,30,23,27,,,,,,,,,,1
+user350,Password!350,NJ,Academy for Information Technology,Scotch Plains,NJ,3.3,2026,Women's Studies,,680,680,23,27,27,28,26,,,,,,,,,,1
+user351,Password!351,CA,Canyon Crest Academy,San Diego,CA,3.6,2026,Experimental Psychology,,680,660,23,23,23,28,24,,,,,,,,,,2
+user352,Password!352,TX,Carroll Senior High School,Southlake,TX,3.4,2025,Autobody/Collision and Repair Technology/Technician,,690,690,21,22,27,23,23,,,,,,,,,,2
+user353,Password!353,PA,Radnor Senior High School,Radnor,PA,3.5,2024,Optics/Optical Sciences,,650,580,26,28,22,24,25,,,,,,,,,,1
+user354,Password!354,KS,Blue Valley North High School,Overland Park,KS,3.3,2027,Environmental Studies,,680,680,24,24,24,27,25,,,,,,,,,,1
+user355,Password!355,GA,Walton High School,Marietta,GA,3.6,2025,Physical Sciences,,630,680,24,25,20,26,24,,,,,,,,,,1
+user356,Password!356,AR,Haas Hall Academy,Fayetteville,AR,3.3,2024,Printing Management,,760,640,21,27,23,22,23,,,,,,,,,,1
+user357,Password!357,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2024,Population Biology,,770,670,23,26,27,20,24,,,,,,,,,,1
+user358,Password!358,KS,Blue Valley North High School,Overland Park,KS,3.4,2026,Massage Therapy/Therapeutic Massage,,650,680,24,23,24,30,25,,,,,,,,,,1
+user359,Password!359,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.6,2026,Ecology,,650,670,28,29,21,26,26,,,,,,,,,,2
+user360,Password!360,GA,Walton High School,Marietta,GA,3.7,2026,Human Computer Interaction,,600,670,24,26,27,27,26,,,,,,,,,,2
+user361,Password!361,KY,The Gatton Academy,Bowling Green,KY,3.6,2027,Child Care and Support Services Management,,520,650,25,20,24,23,23,,,,,,,,,,2
+user362,Password!362,PA,Radnor Senior High School,Radnor,PA,3.4,2027,Business/Managerial Economics,,660,610,21,23,26,22,23,,,,,,,,,,1
+user363,Password!363,SC,Academic Magnet High School,North Charleston,SC,3.4,2025,Pre-Nursing Studies,,700,590,29,27,23,29,27,,,,,,,,,,1
+user364,Password!364,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.5,2024,"Mechatronics, Robotics, and Automation Engineering",,610,720,26,25,28,29,27,,,,,,,,,,2
+user365,Password!365,CO,Fairview High School,Boulder,CO,3.5,2026,Organizational Leadership,,590,670,24,26,21,26,24,,,,,,,,,,2
+user366,Password!366,CA,Canyon Crest Academy,San Diego,CA,3.5,2025,Computational and Applied Mathematics,,690,680,26,24,22,28,25,,,,,,,,,,2
+user367,Password!367,NH,Hanover High School,Hanover,NH,3.5,2026,Religious/Sacred Music,,580,690,23,27,28,26,26,,,,,,,,,,2
+user368,Password!368,TX,Carroll Senior High School,Southlake,TX,3.3,2024,Welding Technology/Welder,,640,600,24,22,21,22,22,,,,,,,,,,1
+user369,Password!369,GA,Walton High School,Marietta,GA,3.7,2025,Illustration,,660,660,26,26,23,26,25,,,,,,,,,,1
+user370,Password!370,WA,Bellevue High School,Bellevue,WA,3.5,2027,Organic Chemistry,,680,600,21,24,23,27,24,,,,,,,,,,2
+user371,Password!371,AZ,BASIS Tucson North,Tucson,AZ,3.5,2024,Natural Resources/Conservation,,690,660,24,24,23,26,24,,,,,,,,,,2
+user372,Password!372,AZ,BASIS Tucson North,Tucson,AZ,3.4,2026,American Sign Language,,630,650,23,20,26,24,23,,,,,,,,,,2
+user373,Password!373,MO,Parkway Central High School,Chesterfield,MO,3.5,2025,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",,690,540,18,21,28,27,24,,,,,,,,,,2
+user374,Password!374,NH,Hanover High School,Hanover,NH,3.6,2025,Biopsychology,,730,690,24,29,22,23,25,,,,,,,,,,2
+user375,Password!375,VA,McLean High School,McLean,VA,3.4,2026,Rhetoric and Composition,,650,620,21,23,23,22,22,,,,,,,,,,1
+user376,Password!376,MI,International Academy,Bloomfield Hills,MI,3.6,2024,Consumer Economics,,560,640,27,21,20,28,24,,,,,,,,,,1
+user377,Password!377,CA,Canyon Crest Academy,San Diego,CA,3.5,2024,Speech-Language Pathology/Pathologist,,690,580,22,27,25,26,25,,,,,,,,,,1
+user378,Password!378,PA,Radnor Senior High School,Radnor,PA,3.5,2024,Kindergarten/Preschool Education and Teaching,,740,630,21,27,28,23,25,,,,,,,,,,1
+user379,Password!379,AL,Mt Brook High School,Mountain Brook,AL,3.3,2026,Sculpture,,660,560,24,20,24,26,24,,,,,,,,,,2
+user380,Password!380,PA,Radnor Senior High School,Radnor,PA,3.5,2026,Aeronautical/Aerospace Engineering Technology/Technician,,650,640,26,21,27,26,25,,,,,,,,,,1
+user381,Password!381,CO,Fairview High School,Boulder,CO,3.4,2027,Science Technologies/Technicians,,590,590,20,29,28,20,24,,,,,,,,,,2
+user382,Password!382,KY,The Gatton Academy,Bowling Green,KY,3.6,2025,Hebrew Language and Literature,,690,640,22,24,24,28,25,,,,,,,,,,1
+user383,Password!383,NC,North Carolina School of Science and Mathematics,Durham,NC,3.5,2025,Horticultural Science,,700,650,26,26,22,24,25,,,,,,,,,,2
+user384,Password!384,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.2,2024,Construction Management,,610,690,27,24,21,26,25,,,,,,,,,,2
+user385,Password!385,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2026,Caribbean Studies,,690,660,28,24,28,24,26,,,,,,,,,,2
+user386,Password!386,AL,Mt Brook High School,Mountain Brook,AL,3.4,2027,"Foods, Nutrition",,700,690,27,24,24,22,24,,,,,,,,,,2
+user387,Password!387,MA,Lexington High School,Lexington,MA,3.6,2025,Physician Assistant,,630,700,23,25,21,21,23,,,,,,,,,,2
+user388,Password!388,VA,McLean High School,McLean,VA,3.7,2024,Multi-/Interdisciplinary Studies,,630,660,20,24,26,26,24,,,,,,,,,,1
+user389,Password!389,SC,Academic Magnet High School,North Charleston,SC,3.6,2027,Ecology and Evolutionary Biology,,680,620,23,27,27,25,26,,,,,,,,,,2
+user390,Password!390,OH,Madeira High School,Cincinnati,OH,3.2,2024,Agricultural Business and Management,,590,660,28,25,30,23,27,,,,,,,,,,2
+user391,Password!391,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2024,French Language Teacher Education,,680,690,23,26,20,22,23,,,,,,,,,,1
+user392,Password!392,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.7,2024,"South Asian Languages, Literatures, and Linguistics",,700,640,22,24,22,20,22,,,,,,,,,,2
+user393,Password!393,NJ,Academy for Information Technology,Scotch Plains,NJ,3.7,2024,Computer/Information Technology Services Administration and Management,,600,650,20,28,18,21,22,,,,,,,,,,2
+user394,Password!394,TX,Carroll Senior High School,Southlake,TX,3.4,2025,Health Professions,,760,600,27,27,27,24,26,,,,,,,,,,2
+user395,Password!395,GA,Walton High School,Marietta,GA,3.6,2025,Ceramic Arts and Ceramics,,640,770,22,30,23,20,24,,,,,,,,,,2
+user396,Password!396,NM,Volcano Vista High School,Albuquerque,NM,3.5,2027,Natural Resources and Conservation,,680,680,27,28,23,27,26,,,,,,,,,,2
+user397,Password!397,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2025,Molecular Biology,,620,630,28,25,27,29,27,,,,,,,,,,1
+user398,Password!398,WI,Whitefish Bay High School,Whitefish Bay,WI,3.4,2027,School Librarian/School Library Media Specialist,,540,640,25,22,25,22,24,,,,,,,,,,2
+user399,Password!399,AL,Mt Brook High School,Mountain Brook,AL,3.4,2027,Resort Management,,660,630,24,27,24,23,25,,,,,,,,,,1
+user400,Password!400,SC,Academic Magnet High School,North Charleston,SC,3.5,2024,Industrial Technology/Technician,,630,540,22,22,21,26,23,,,,,,,,,,2
+user401,Password!401,WI,Whitefish Bay High School,Whitefish Bay,WI,3.5,2026,English Language and Literature,,580,620,25,24,26,25,25,,,,,,,,,,1
+user402,Password!402,MA,Lexington High School,Lexington,MA,3.5,2026,"Parks, Recreation and Leisure Facilities Management",,660,520,28,25,29,23,26,,,,,,,,,,1
+user403,Password!403,OH,Madeira High School,Cincinnati,OH,3.7,2026,Junior High/Intermediate/Middle School Education and Teaching,,720,670,26,24,27,29,27,,,,,,,,,,2
+user404,Password!404,NC,North Carolina School of Science and Mathematics,Durham,NC,3.6,2024,Legal Studies,,520,610,24,26,27,24,25,,,,,,,,,,1
+user405,Password!405,KS,Blue Valley North High School,Overland Park,KS,3.5,2024,Family and Consumer Sciences/Home Economics Teacher Education,,690,670,24,25,22,26,24,,,,,,,,,,1
+user406,Password!406,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2024,Polish Language and Literature,,660,640,29,22,26,26,26,,,,,,,,,,2
+user407,Password!407,MI,International Academy,Bloomfield Hills,MI,3.6,2027,Landscape Architecture,,690,680,27,21,26,28,26,,,,,,,,,,2
+user408,Password!408,NH,Hanover High School,Hanover,NH,3.5,2025,Environmental Toxicology,,700,690,21,21,29,28,25,,,,,,,,,,1
+user409,Password!409,TX,Carroll Senior High School,Southlake,TX,3.4,2025,Sports Communication,,670,620,18,24,24,22,22,,,,,,,,,,2
+user410,Password!410,CA,Canyon Crest Academy,San Diego,CA,3.4,2024,Sport and Fitness Administration/Management,,570,590,22,23,25,28,25,,,,,,,,,,1
+user411,Password!411,AR,Haas Hall Academy,Fayetteville,AR,3.5,2025,Project Management,,690,690,24,25,28,29,27,,,,,,,,,,1
+user412,Password!412,WA,Bellevue High School,Bellevue,WA,3.5,2026,Criminology,,730,680,22,26,24,27,25,,,,,,,,,,2
+user413,Password!413,KY,The Gatton Academy,Bowling Green,KY,3.6,2025,Social Work,,600,620,23,23,24,26,24,,,,,,,,,,1
+user414,Password!414,KS,Blue Valley North High School,Overland Park,KS,3.5,2027,Folklore Studies,,650,700,26,22,29,27,26,,,,,,,,,,1
+user415,Password!415,AR,Haas Hall Academy,Fayetteville,AR,3.5,2027,Actuarial Science,,690,700,24,25,24,25,25,,,,,,,,,,2
+user416,Password!416,CO,Fairview High School,Boulder,CO,3.5,2027,Health Communication,,680,700,23,24,26,24,24,,,,,,,,,,1
+user417,Password!417,SC,Academic Magnet High School,North Charleston,SC,3.5,2026,Entomology,,580,740,29,23,22,24,25,,,,,,,,,,1
+user418,Password!418,MA,Lexington High School,Lexington,MA,3.7,2024,Modern Languages,,680,700,27,24,21,24,24,,,,,,,,,,1
+user419,Password!419,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2024,Restaurant/Food Services Management,,640,680,26,26,29,28,27,,,,,,,,,,2
+user420,Password!420,MN,Eagan Senior High School,Eagan,MN,3.4,2024,Natural Sciences,,690,540,26,24,27,25,26,,,,,,,,,,2
+user421,Password!421,NH,Hanover High School,Hanover,NH,3.5,2025,Tool and Die Technology/Technician,,640,650,25,30,27,27,27,,,,,,,,,,2
+user422,Password!422,AR,Haas Hall Academy,Fayetteville,AR,3.5,2024,Health and Wellness,,740,590,25,23,25,28,25,,,,,,,,,,1
+user423,Password!423,AR,Haas Hall Academy,Fayetteville,AR,3.4,2026,Science Teacher Education/General Science Teacher Education,,580,640,27,27,24,27,26,,,,,,,,,,2
+user424,Password!424,AL,Mt Brook High School,Mountain Brook,AL,3.4,2027,International Agriculture,,630,630,24,24,20,26,24,,,,,,,,,,1
+user425,Password!425,KY,The Gatton Academy,Bowling Green,KY,3.5,2027,Organizational Behavior Studies,,630,590,24,25,26,24,25,,,,,,,,,,1
+user426,Password!426,MI,International Academy,Bloomfield Hills,MI,3.5,2025,Pre-Dentistry Studies,,700,610,27,25,24,20,24,,,,,,,,,,2
+user427,Password!427,MO,Parkway Central High School,Chesterfield,MO,3.4,2025,American Government and Politics,,620,690,24,27,25,24,25,,,,,,,,,,2
+user428,Password!428,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2027,Marine Biology and Biological Oceanography,,690,580,23,22,21,21,22,,,,,,,,,,2
+user429,Password!429,PA,Radnor Senior High School,Radnor,PA,3.5,2027,Chemical Engineering,,670,590,26,26,24,26,26,,,,,,,,,,2
+user430,Password!430,MA,Lexington High School,Lexington,MA,3.5,2025,Ethnic Studies,,630,700,24,27,26,26,26,,,,,,,,,,2
+user431,Password!431,WA,Bellevue High School,Bellevue,WA,3.6,2026,School Psychology,,700,650,21,23,26,25,24,,,,,,,,,,2
+user432,Password!432,CA,Canyon Crest Academy,San Diego,CA,3.5,2024,"Scandinavian Languages, Literatures, and Linguistics",,660,680,27,24,27,27,26,,,,,,,,,,1
+user433,Password!433,TX,Carroll Senior High School,Southlake,TX,3.5,2025,Nuclear and Industrial Radiologic Technologies/Technicians,,640,630,25,22,24,25,24,,,,,,,,,,2
+user434,Password!434,NH,Hanover High School,Hanover,NH,3.3,2026,Geophysics and Seismology,,640,580,24,26,28,22,25,,,,,,,,,,1
+user435,Password!435,TX,Carroll Senior High School,Southlake,TX,3.4,2025,Operations Research,,700,650,26,24,23,22,24,,,,,,,,,,1
+user436,Password!436,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2025,Business Statistics,,700,690,21,25,28,22,24,,,,,,,,,,2
+user437,Password!437,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2027,Human Development and Family Studies,,670,580,24,22,27,26,25,,,,,,,,,,2
+user438,Password!438,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2026,Latin Teacher Education,,640,580,23,21,30,27,25,,,,,,,,,,2
+user439,Password!439,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.7,2024,Construction Engineering,,700,710,26,27,27,24,26,,,,,,,,,,2
+user440,Password!440,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2025,"Classical, Ancient Mediterranean and Near Eastern Studies and Archaeology",,640,700,22,24,28,26,25,,,,,,,,,,1
+user441,Password!441,AZ,BASIS Tucson North,Tucson,AZ,3.7,2026,Agriculture,,610,700,24,27,23,24,25,,,,,,,,,,2
+user442,Password!442,CA,Canyon Crest Academy,San Diego,CA,3.8,2027,Sign Language Interpretation and Translation,,700,650,23,26,20,24,23,,,,,,,,,,2
+user443,Password!443,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2025,Applied Psychology,,650,650,28,23,29,25,26,,,,,,,,,,1
+user444,Password!444,SC,Academic Magnet High School,North Charleston,SC,3.4,2027,Paper Science and Engineering,,690,680,22,27,24,25,25,,,,,,,,,,1
+user445,Password!445,MN,Eagan Senior High School,Eagan,MN,3.7,2024,Petroleum Engineering,,680,540,23,28,28,27,27,,,,,,,,,,1
+user446,Password!446,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2024,Corrections and Criminal Justice,,690,520,27,20,27,23,24,,,,,,,,,,2
+user447,Password!447,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.7,2026,German Language Teacher Education,,560,580,25,27,24,23,25,,,,,,,,,,1
+user448,Password!448,MN,Eagan Senior High School,Eagan,MN,3.6,2026,Fine and Studio Arts Management,,660,700,26,23,24,24,24,,,,,,,,,,2
+user449,Password!449,VA,McLean High School,McLean,VA,3.5,2024,Natural Resources Law Enforcement and Protective Services,,650,620,26,27,24,28,26,,,,,,,,,,1
+user450,Password!450,SC,Academic Magnet High School,North Charleston,SC,3.7,2024,Automobile/Automotive Mechanics Technology/Technician,,680,630,29,26,26,27,27,,,,,,,,,,1
+user451,Password!451,CA,Canyon Crest Academy,San Diego,CA,3.4,2026,Civil Engineering,,670,610,21,22,26,27,24,,,,,,,,,,2
+user452,Password!452,OH,Madeira High School,Cincinnati,OH,3.7,2025,Japanese Studies,,680,680,28,21,23,20,23,,,,,,,,,,2
+user453,Password!453,TX,Carroll Senior High School,Southlake,TX,3.6,2024,Medical/Clinical Assistant,,650,690,22,23,24,22,23,,,,,,,,,,1
+user454,Password!454,NY,Brooklyn Technical High School,Brooklyn,NY,3.6,2024,Computer Engineering,,590,580,29,22,27,23,25,,,,,,,,,,2
+user455,Password!455,SC,Academic Magnet High School,North Charleston,SC,3.5,2025,Physiology,,600,680,28,26,27,26,27,,,,,,,,,,2
+user456,Password!456,KY,The Gatton Academy,Bowling Green,KY,3.4,2027,"Web Page, Digital/Multimedia and Information Resources Design",,650,710,27,21,25,26,25,,,,,,,,,,1
+user457,Password!457,NJ,Academy for Information Technology,Scotch Plains,NJ,3.5,2024,Biophysics,,620,630,26,27,26,26,26,,,,,,,,,,1
+user458,Password!458,CA,Canyon Crest Academy,San Diego,CA,3.5,2024,Applied Economics,,670,580,27,25,25,23,25,,,,,,,,,,1
+user459,Password!459,SC,Academic Magnet High School,North Charleston,SC,3.5,2025,Graphic Communications,,670,700,26,28,24,24,26,,,,,,,,,,1
+user460,Password!460,AR,Haas Hall Academy,Fayetteville,AR,3.7,2025,"Radio, Television, and Digital Communication",,640,710,26,27,24,22,25,,,,,,,,,,2
+user461,Password!461,NH,Hanover High School,Hanover,NH,3.5,2027,Laser and Optical Engineering,,700,720,27,22,27,29,26,,,,,,,,,,1
+user462,Password!462,MN,Eagan Senior High School,Eagan,MN,3.4,2027,Accounting and Finance,,700,630,25,24,27,25,25,,,,,,,,,,1
+user463,Password!463,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.4,2024,Photography,,650,690,24,30,24,24,26,,,,,,,,,,2
+user464,Password!464,MN,Eagan Senior High School,Eagan,MN,3.6,2025,Forestry,,610,650,26,20,21,23,23,,,,,,,,,,1
+user465,Password!465,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2025,"East Asian Languages, Literatures, and Linguistics",,770,650,23,25,23,24,24,,,,,,,,,,1
+user466,Password!466,MN,Eagan Senior High School,Eagan,MN,3.4,2026,Latin Language and Literature,,660,690,22,28,28,26,26,,,,,,,,,,1
+user467,Password!467,CA,Canyon Crest Academy,San Diego,CA,3.5,2026,Developmental and Child Psychology,,640,650,28,20,26,24,25,,,,,,,,,,1
+user468,Password!468,NJ,Academy for Information Technology,Scotch Plains,NJ,3.4,2024,Environmental/Environmental Health Engineering,,630,700,28,28,24,22,26,,,,,,,,,,1
+user469,Password!469,NM,Volcano Vista High School,Albuquerque,NM,3.7,2025,Materials Science,,610,620,27,30,25,22,26,,,,,,,,,,2
+user470,Password!470,MN,Eagan Senior High School,Eagan,MN,3.6,2024,Diesel Mechanics Technology/Technician,,680,560,27,24,24,24,25,,,,,,,,,,1
+user471,Password!471,MI,International Academy,Bloomfield Hills,MI,3.6,2025,Molecular Biochemistry,,650,690,25,28,27,25,26,,,,,,,,,,1
+user472,Password!472,NJ,Academy for Information Technology,Scotch Plains,NJ,3.3,2027,Liberal Arts and Sciences Studies and Humanities,,710,660,25,25,29,23,26,,,,,,,,,,2
+user473,Password!473,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2024,Political Communication,,620,710,23,27,23,27,25,,,,,,,,,,1
+user474,Password!474,CA,Canyon Crest Academy,San Diego,CA,3.5,2025,Organizational Communication,,580,670,27,25,25,24,25,,,,,,,,,,1
+user475,Password!475,AL,Mt Brook High School,Mountain Brook,AL,3.6,2027,Labor and Industrial Relations,,650,700,28,22,28,23,25,,,,,,,,,,1
+user476,Password!476,OH,Madeira High School,Cincinnati,OH,3.6,2026,Clinical Laboratory Science/Medical Technology/Technologist,,680,600,27,23,21,22,23,,,,,,,,,,1
+user477,Password!477,SC,Academic Magnet High School,North Charleston,SC,3.5,2024,Geology/Earth Science,,690,660,24,27,22,25,25,,,,,,,,,,1
+user478,Password!478,TX,Carroll Senior High School,Southlake,TX,3.5,2026,Biochemistry,,640,700,24,23,23,26,24,,,,,,,,,,1
+user479,Password!479,VA,McLean High School,McLean,VA,3.7,2026,International and Intercultural Communication,,660,700,24,23,27,20,24,,,,,,,,,,2
+user480,Password!480,OH,Madeira High School,Cincinnati,OH,3.6,2024,International Economics,,700,660,21,23,20,27,23,,,,,,,,,,2
+user481,Password!481,MA,Lexington High School,Lexington,MA,3.5,2026,Biological/Biosystems Engineering,,610,660,28,20,24,25,24,,,,,,,,,,1
+user482,Password!482,MI,International Academy,Bloomfield Hills,MI,3.4,2027,Public Health,,660,580,27,27,27,26,27,,,,,,,,,,1
+user483,Password!483,AL,Mt Brook High School,Mountain Brook,AL,3.5,2026,"Art History, Criticism and Conservation",,700,650,27,22,24,23,24,,,,,,,,,,2
+user484,Password!484,CA,Canyon Crest Academy,San Diego,CA,3.5,2026,Religious Education,,740,590,23,27,22,27,25,,,,,,,,,,2
+user485,Password!485,AL,Mt Brook High School,Mountain Brook,AL,3.4,2024,Network and System Administration/Administrator,,610,720,24,22,23,23,23,,,,,,,,,,1
+user486,Password!486,MO,Parkway Central High School,Chesterfield,MO,3.4,2027,Environmental Chemistry,,640,580,24,27,27,25,26,,,,,,,,,,2
+user487,Password!487,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2026,Criminal Justice/Police Science,,650,650,24,25,27,26,26,,,,,,,,,,1
+user488,Password!488,AZ,BASIS Tucson North,Tucson,AZ,3.4,2024,Community Organization and Advocacy,,710,600,23,21,26,26,24,,,,,,,,,,2
+user489,Password!489,WI,Whitefish Bay High School,Whitefish Bay,WI,3.2,2025,"Slavic Languages, Literatures, and Linguistics",,650,660,18,27,29,26,25,,,,,,,,,,2
+user490,Password!490,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2025,Business Teacher Education,,660,590,24,28,26,27,26,,,,,,,,,,2
+user491,Password!491,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2026,Theatre/Theatre Arts Management,,630,700,28,28,24,26,27,,,,,,,,,,1
+user492,Password!492,TX,Carroll Senior High School,Southlake,TX,3.6,2025,"Science, Technology and Society",,740,670,20,28,26,23,24,,,,,,,,,,2
+user493,Password!493,AZ,BASIS Tucson North,Tucson,AZ,3.6,2025,Management Science,,690,670,24,23,25,29,25,,,,,,,,,,1
+user494,Password!494,AL,Mt Brook High School,Mountain Brook,AL,3.3,2024,Technical and Scientific Communication,,690,610,28,23,24,26,25,,,,,,,,,,1
+user495,Password!495,OH,Madeira High School,Cincinnati,OH,3.6,2025,Teaching French as a Second or Foreign Language,,580,690,26,24,23,25,25,,,,,,,,,,2
+user496,Password!496,SC,Academic Magnet High School,North Charleston,SC,3.4,2025,Biomedical Sciences,,680,590,27,23,28,25,26,,,,,,,,,,2
+user497,Password!497,VA,McLean High School,McLean,VA,3.4,2025,Mechanics and Repairers,,720,580,20,26,27,24,24,,,,,,,,,,2
+user498,Password!498,OH,Madeira High School,Cincinnati,OH,3.7,2027,Latin American and Caribbean Studies,,670,730,26,24,25,26,25,,,,,,,,,,1
+user499,Password!499,WI,Whitefish Bay High School,Whitefish Bay,WI,3.4,2026,Commercial and Advertising Art,,760,580,26,26,28,28,27,,,,,,,,,,1
+user500,Password!500,NM,Volcano Vista High School,Albuquerque,NM,3.7,2025,Human Resources Management/Personnel Administration,,650,650,24,30,20,23,24,,,,,,,,,,2
+user501,Password!501,OH,Madeira High School,Cincinnati,OH,3.4,2027,Mathematical Statistics and Probability,,710,740,29,29,28,26,28,,,,,,,,,,1
+user502,Password!502,KS,Blue Valley North High School,Overland Park,KS,3.5,2026,South Asian Studies,,700,610,24,23,26,23,24,,,,,,,,,,1
+user503,Password!503,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2024,Ballet,,680,650,27,25,26,23,25,,,,,,,,,,1
+user504,Password!504,AR,Haas Hall Academy,Fayetteville,AR,3.5,2024,Japanese Language and Literature,,580,650,26,23,28,27,26,,,,,,,,,,2
+user505,Password!505,MO,Parkway Central High School,Chesterfield,MO,3.4,2025,Biostatistics,,690,640,27,26,26,27,27,,,,,,,,,,1
+user506,Password!506,WA,Bellevue High School,Bellevue,WA,3.5,2024,Urban Education and Leadership,,690,660,28,25,24,25,26,,,,,,,,,,2
+user507,Password!507,MN,Eagan Senior High School,Eagan,MN,3.7,2024,Accounting and Business/Management,,680,700,23,23,23,24,23,,,,,,,,,,2
+user508,Password!508,OH,Madeira High School,Cincinnati,OH,3.6,2026,Nursing Administration,,680,560,29,30,24,28,28,,,,,,,,,,1
+user509,Password!509,MO,Parkway Central High School,Chesterfield,MO,3.6,2024,Speech Teacher Education,,660,710,27,23,27,27,26,,,,,,,,,,1
+user510,Password!510,SC,Academic Magnet High School,North Charleston,SC,3.7,2026,Ornamental Horticulture,,680,690,28,18,24,29,25,,,,,,,,,,2
+user511,Password!511,AR,Haas Hall Academy,Fayetteville,AR,3.7,2026,Percussion Instruments,,580,650,25,24,27,27,26,,,,,,,,,,1
+user512,Password!512,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.4,2025,Culinary Arts,,660,690,22,22,27,26,24,,,,,,,,,,2
+user513,Password!513,OH,Madeira High School,Cincinnati,OH,3.3,2024,Registered Nursing/Registered Nurse,,690,610,23,26,24,25,25,,,,,,,,,,2
+user514,Password!514,AR,Haas Hall Academy,Fayetteville,AR,3.5,2024,Turf and Turfgrass Management,,620,720,25,24,24,25,25,,,,,,,,,,2
+user515,Password!515,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2026,Fine Arts and Art Studies,,680,690,24,24,23,26,24,,,,,,,,,,2
+user516,Password!516,AR,Haas Hall Academy,Fayetteville,AR,3.5,2025,Data Modeling/Warehousing and Database Administration,,610,690,27,29,23,24,26,,,,,,,,,,2
+user517,Password!517,AZ,BASIS Tucson North,Tucson,AZ,3.4,2026,Archeology,,650,740,27,22,24,27,25,,,,,,,,,,1
+user518,Password!518,AL,Mt Brook High School,Mountain Brook,AL,3.5,2026,Family Resource Management Studies,,630,520,29,23,26,26,26,,,,,,,,,,1
+user519,Password!519,NH,Hanover High School,Hanover,NH,3.5,2027,Chinese Studies,,660,680,24,22,27,29,26,,,,,,,,,,1
+user520,Password!520,TX,Carroll Senior High School,Southlake,TX,3.5,2026,"Logistics, Materials, and Supply Chain Management",,640,590,26,24,27,29,27,,,,,,,,,,1
+user521,Password!521,CO,Fairview High School,Boulder,CO,3.4,2027,Medical Informatics,,680,620,25,23,27,22,24,,,,,,,,,,1
+user522,Password!522,CA,Canyon Crest Academy,San Diego,CA,3.4,2025,Electrical and Electronics Engineering,,700,690,25,24,22,20,23,,,,,,,,,,2
+user523,Password!523,VA,McLean High School,McLean,VA,3.5,2025,Slavic Studies,,680,650,26,26,27,26,26,,,,,,,,,,2
+user524,Password!524,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2025,Biotechnology,,660,720,27,20,26,23,24,,,,,,,,,,2
+user525,Password!525,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2024,Telecommunications Technology/Technician,,600,690,27,25,26,21,25,,,,,,,,,,2
+user526,Password!526,GA,Walton High School,Marietta,GA,3.5,2024,Interior Design,,570,690,24,24,28,23,25,,,,,,,,,,2
+user527,Password!527,AZ,BASIS Tucson North,Tucson,AZ,3.7,2025,Geological/Geophysical Engineering,,620,580,24,24,24,22,24,,,,,,,,,,1
+user528,Password!528,GA,Walton High School,Marietta,GA,3.3,2026,Adult and Continuing Education and Teaching,,680,690,27,24,23,26,25,,,,,,,,,,2
+user529,Password!529,VA,McLean High School,McLean,VA,3.6,2024,Regional Studies,,680,680,23,29,27,20,25,,,,,,,,,,1
+user530,Password!530,TX,Carroll Senior High School,Southlake,TX,3.5,2024,Arabic Language and Literature,,710,650,28,24,30,26,27,,,,,,,,,,2
+user531,Password!531,WA,Bellevue High School,Bellevue,WA,3.4,2026,Physiological Psychology/Psychobiology,,610,600,24,27,24,27,26,,,,,,,,,,1
+user532,Password!532,PA,Radnor Senior High School,Radnor,PA,3.5,2026,"General Merchandising, Sales",,700,590,27,29,22,24,26,,,,,,,,,,1
+user533,Password!533,SC,Academic Magnet High School,North Charleston,SC,3.6,2025,Physical Therapy Technician/Assistant,,680,640,24,23,21,23,23,,,,,,,,,,1
+user534,Password!534,KY,The Gatton Academy,Bowling Green,KY,3.5,2024,"Business, Management, Marketing",,680,680,30,26,23,24,26,,,,,,,,,,2
+user535,Password!535,GA,Walton High School,Marietta,GA,3.7,2025,Health Information/Medical Records Technology/Technician,,650,630,27,24,24,21,24,,,,,,,,,,1
+user536,Password!536,KS,Blue Valley North High School,Overland Park,KS,3.5,2024,Computer Systems Networking and Telecommunications,,690,670,27,22,24,24,24,,,,,,,,,,1
+user537,Password!537,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2024,Apparel and Textiles,,640,690,30,20,23,24,24,,,,,,,,,,2
+user538,Password!538,KY,The Gatton Academy,Bowling Green,KY,3.4,2026,"Ethnic, Cultural Minority, Gender, and Group Studies",,640,650,24,21,25,24,24,,,,,,,,,,2
+user539,Password!539,GA,Walton High School,Marietta,GA,3.6,2026,Operations Management and Supervision,,710,670,24,21,29,26,25,,,,,,,,,,2
+user540,Password!540,WA,Bellevue High School,Bellevue,WA,3.3,2024,History,,680,620,29,22,26,28,26,,,,,,,,,,2
+user541,Password!541,NY,Brooklyn Technical High School,Brooklyn,NY,3.6,2027,Pharmaceutics and Drug Design,,700,680,25,29,25,23,26,,,,,,,,,,2
+user542,Password!542,CO,Fairview High School,Boulder,CO,3.5,2027,Materials Engineering,,700,660,25,24,20,24,23,,,,,,,,,,2
+user543,Password!543,TX,Carroll Senior High School,Southlake,TX,3.5,2024,Social Studies Teacher Education,,680,680,18,23,26,26,23,,,,,,,,,,1
+user544,Password!544,AL,Mt Brook High School,Mountain Brook,AL,3.6,2026,Architecture,,660,660,26,26,23,26,25,,,,,,,,,,1
+user545,Password!545,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2024,Systems Engineering,,630,660,28,27,21,26,26,,,,,,,,,,2
+user546,Password!546,TX,Carroll Senior High School,Southlake,TX,3.5,2025,European Studies/Civilization,,680,690,22,26,26,26,25,,,,,,,,,,1
+user547,Password!547,AL,Mt Brook High School,Mountain Brook,AL,3.5,2025,Commercial Photography,,670,680,27,24,28,26,26,,,,,,,,,,1
+user548,Password!548,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2027,Pharmaceutical Sciences,,660,560,26,29,22,25,26,,,,,,,,,,2
+user549,Password!549,MN,Eagan Senior High School,Eagan,MN,3.6,2025,Reading Teacher Education,,650,630,28,24,29,30,28,,,,,,,,,,2
+user550,Password!550,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.5,2024,Agricultural Teacher Education,,700,690,27,22,18,20,22,,,,,,,,,,2
+user551,Password!551,GA,Walton High School,Marietta,GA,3.6,2025,"Foreign Languages, Literatures, and Linguistics",,680,630,24,23,25,29,25,,,,,,,,,,2
+user552,Password!552,VA,McLean High School,McLean,VA,3.5,2027,Cognitive Science,,660,660,26,27,26,20,25,,,,,,,,,,1
+user553,Password!553,KS,Blue Valley North High School,Overland Park,KS,3.4,2027,Criminal Justice/Law Enforcement Administration,,600,610,28,26,30,27,28,,,,,,,,,,1
+user554,Password!554,NC,North Carolina School of Science and Mathematics,Durham,NC,3.7,2025,Health Services Administration,,610,660,26,28,20,24,25,,,,,,,,,,2
+user555,Password!555,NJ,Academy for Information Technology,Scotch Plains,NJ,3.4,2025,"Teacher Education and Professional Development, Specific Subject Areas",,630,660,18,28,27,24,24,,,,,,,,,,1
+user556,Password!556,OH,Madeira High School,Cincinnati,OH,3.7,2024,Real Estate,,680,610,26,23,24,28,25,,,,,,,,,,2
+user557,Password!557,MI,International Academy,Bloomfield Hills,MI,3.5,2024,African Studies,,630,660,27,24,30,26,27,,,,,,,,,,2
+user558,Password!558,NH,Hanover High School,Hanover,NH,3.6,2026,Microbiology,,690,670,27,22,23,25,24,,,,,,,,,,2
+user559,Password!559,MI,International Academy,Bloomfield Hills,MI,3.7,2026,Portuguese Language and Literature,,590,720,28,26,24,24,26,,,,,,,,,,2
+user560,Password!560,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.4,2027,International Marketing,,690,680,27,30,24,24,26,,,,,,,,,,2
+user561,Password!561,AZ,BASIS Tucson North,Tucson,AZ,3.7,2024,Political Economy,,670,680,27,22,27,25,25,,,,,,,,,,2
+user562,Password!562,AZ,BASIS Tucson North,Tucson,AZ,3.8,2025,Spanish Language Teacher Education,,710,690,24,27,21,28,25,,,,,,,,,,1
+user563,Password!563,NH,Hanover High School,Hanover,NH,3.6,2026,Directing and Theatrical Production,,630,670,26,29,23,24,26,,,,,,,,,,1
+user564,Password!564,KS,Blue Valley North High School,Overland Park,KS,3.4,2025,"Professional, Technical, Business, and Scientific Writing",,700,680,24,23,30,24,25,,,,,,,,,,1
+user565,Password!565,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.6,2027,Recording Arts Technology/Technician,,590,770,26,21,24,25,24,,,,,,,,,,1
+user566,Password!566,NH,Hanover High School,Hanover,NH,3.4,2024,Forensic Science and Technology,,590,590,26,26,22,27,25,,,,,,,,,,1
+user567,Password!567,CA,Canyon Crest Academy,San Diego,CA,3.4,2025,Technical Theatre/Theatre Design and Technology,,720,690,24,24,28,23,25,,,,,,,,,,2
+user568,Password!568,AZ,BASIS Tucson North,Tucson,AZ,3.8,2024,French Studies,,650,630,26,27,26,26,26,,,,,,,,,,1
+user569,Password!569,MI,International Academy,Bloomfield Hills,MI,3.6,2026,Environmental Science,,670,680,24,23,26,24,24,,,,,,,,,,2
+user570,Password!570,OH,Madeira High School,Cincinnati,OH,3.4,2024,American Indian/Native American Studies,,620,700,23,26,24,22,24,,,,,,,,,,1
+user571,Password!571,AL,Mt Brook High School,Mountain Brook,AL,3.6,2025,Clinical/Medical Laboratory Science and Allied Professions,,660,660,24,27,24,23,25,,,,,,,,,,1
+user572,Password!572,AZ,BASIS Tucson North,Tucson,AZ,3.6,2026,Family and Community Services,,650,700,25,27,24,23,25,,,,,,,,,,1
+user573,Password!573,KY,The Gatton Academy,Bowling Green,KY,3.4,2025,Health Policy Analysis,,700,560,24,25,26,24,25,,,,,,,,,,2
+user574,Password!574,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2027,Retail Management,,730,590,22,29,21,21,23,,,,,,,,,,1
+user575,Password!575,TX,Carroll Senior High School,Southlake,TX,3.5,2026,Funeral Service and Mortuary Science,,570,630,27,23,27,23,25,,,,,,,,,,1
+user576,Password!576,AR,Haas Hall Academy,Fayetteville,AR,3.6,2026,Photographic and Film/Video Technology/Technician and Assistant,,630,770,26,22,27,21,24,,,,,,,,,,2
+user577,Password!577,TX,Carroll Senior High School,Southlake,TX,3.4,2025,Vision Science/Physiological Optics,,630,680,27,20,24,27,25,,,,,,,,,,1
+user578,Password!578,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2026,Jazz/Jazz Studies,,690,680,27,26,22,21,24,,,,,,,,,,2
+user579,Password!579,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2024,Industrial Production Technologies/Technicians,,680,650,22,24,24,29,25,,,,,,,,,,1
+user580,Password!580,NJ,Academy for Information Technology,Scotch Plains,NJ,3.6,2024,European History,,700,650,24,27,21,25,24,,,,,,,,,,2
+user581,Password!581,KS,Blue Valley North High School,Overland Park,KS,3.7,2025,Economics,,710,610,24,28,27,26,26,,,,,,,,,,1
+user582,Password!582,WI,Whitefish Bay High School,Whitefish Bay,WI,3.4,2024,Aquatic Biology/Limnology,,640,610,22,24,27,21,24,,,,,,,,,,1
+user583,Password!583,NC,North Carolina School of Science and Mathematics,Durham,NC,3.3,2026,Pre-Law Studies,,770,690,24,26,27,25,26,,,,,,,,,,2
+user584,Password!584,NY,Brooklyn Technical High School,Brooklyn,NY,3.7,2025,Business/Commerce,,690,670,21,21,26,21,22,,,,,,,,,,2
+user585,Password!585,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.4,2026,Dental Hygiene/Hygienist,,620,580,24,23,24,29,25,,,,,,,,,,1
+user586,Password!586,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2025,"Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",,640,700,26,29,25,23,26,,,,,,,,,,2
+user587,Password!587,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2027,Therapeutic Recreation/Recreational Therapy,,690,660,29,25,26,23,26,,,,,,,,,,2
+user588,Password!588,SC,Academic Magnet High School,North Charleston,SC,3.4,2024,Marine Sciences,,580,630,23,22,21,22,22,,,,,,,,,,1
+user589,Password!589,NC,North Carolina School of Science and Mathematics,Durham,NC,3.7,2025,Christian Studies,,650,580,25,23,27,28,26,,,,,,,,,,1
+user590,Password!590,CA,Canyon Crest Academy,San Diego,CA,3.6,2026,Italian Studies,,670,590,27,23,26,18,24,,,,,,,,,,1
+user591,Password!591,KY,The Gatton Academy,Bowling Green,KY,3.4,2026,Legal Assistant/Paralegal,,590,690,27,27,27,25,27,,,,,,,,,,1
+user592,Password!592,NC,North Carolina School of Science and Mathematics,Durham,NC,3.5,2025,Chemical Physics,,650,670,26,24,23,24,24,,,,,,,,,,1
+user593,Password!593,WA,Bellevue High School,Bellevue,WA,3.4,2024,Bioethics/Medical Ethics,,690,680,24,27,24,27,26,,,,,,,,,,1
+user594,Password!594,NC,North Carolina School of Science and Mathematics,Durham,NC,3.6,2025,Digital Arts,,680,660,25,22,22,18,22,,,,,,,,,,2
+user595,Password!595,MI,International Academy,Bloomfield Hills,MI,3.4,2025,Russian Language and Literature,,660,730,28,28,28,29,28,,,,,,,,,,1
+user596,Password!596,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2025,Broadcast Journalism,,740,670,24,24,21,27,24,,,,,,,,,,1
+user597,Password!597,KY,The Gatton Academy,Bowling Green,KY,3.5,2026,Health Services/Allied Health/Health Sciences,,700,680,22,18,26,25,23,,,,,,,,,,1
+user598,Password!598,OH,Madeira High School,Cincinnati,OH,3.4,2027,East Asian Studies,,700,700,28,25,23,23,25,,,,,,,,,,1
+user599,Password!599,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2025,Human Nutrition,,660,700,30,24,24,23,25,,,,,,,,,,2
+user600,Password!600,AL,Mt Brook High School,Mountain Brook,AL,3.6,2026,Business Family and Consumer Sciences/Human Sciences,,690,670,28,25,18,28,25,,,,,,,,,,2
+user601,Password!601,AL,Mt Brook High School,Mountain Brook,AL,3.5,2026,Islamic Studies,,670,580,27,23,27,28,26,,,,,,,,,,2
+user602,Password!602,NC,North Carolina School of Science and Mathematics,Durham,NC,3.5,2027,Neuroscience,,580,590,21,26,23,30,25,,,,,,,,,,2
+user603,Password!603,KY,The Gatton Academy,Bowling Green,KY,3.6,2024,Interior Architecture,,600,690,22,29,24,27,26,,,,,,,,,,1
+user604,Password!604,WI,Whitefish Bay High School,Whitefish Bay,WI,3.5,2026,Microbiology and Immunology,,650,650,23,28,27,28,27,,,,,,,,,,1
+user605,Password!605,MN,Eagan Senior High School,Eagan,MN,3.3,2026,Farm/Farm and Ranch Management,,560,670,18,27,30,18,23,,,,,,,,,,1
+user606,Password!606,GA,Walton High School,Marietta,GA,3.4,2025,Peace Studies and Conflict Resolution,,680,640,27,24,27,28,27,,,,,,,,,,1
+user607,Password!607,TX,Carroll Senior High School,Southlake,TX,3.5,2025,Diagnostic Medical Sonography/Sonographer and Ultrasound Technician,,770,680,22,27,29,27,26,,,,,,,,,,2
+user608,Password!608,CA,Canyon Crest Academy,San Diego,CA,3.5,2024,Agricultural Economics,,660,700,24,26,25,26,25,,,,,,,,,,1
+user609,Password!609,CA,Canyon Crest Academy,San Diego,CA,3.6,2025,American Sign Language,,690,590,26,30,25,23,26,,,,,,,,,,2
+user610,Password!610,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2026,Dance,,690,700,24,27,25,22,25,,,,,,,,,,1
+user611,Password!611,PA,Radnor Senior High School,Radnor,PA,3.5,2027,Biology/Biological Sciences,,680,650,27,22,24,24,24,,,,,,,,,,1
+user612,Password!612,NJ,Academy for Information Technology,Scotch Plains,NJ,3.3,2024,East Asian Studies,,590,670,24,25,27,26,26,,,,,,,,,,1
+user613,Password!613,MO,Parkway Central High School,Chesterfield,MO,3.5,2024,Printmaking,,680,700,25,27,25,29,27,,,,,,,,,,2
+user614,Password!614,WI,Whitefish Bay High School,Whitefish Bay,WI,3.8,2025,"Classics and Classical Languages, Literatures, and Linguistics",,670,660,24,24,24,23,24,,,,,,,,,,2
+user615,Password!615,MN,Eagan Senior High School,Eagan,MN,3.7,2027,Therapeutic Recreation/Recreational Therapy,,660,680,28,24,27,26,26,,,,,,,,,,2
+user616,Password!616,VA,McLean High School,McLean,VA,3.5,2024,Italian Studies,,610,630,28,28,21,28,26,,,,,,,,,,1
+user617,Password!617,OH,Madeira High School,Cincinnati,OH,3.4,2025,Urban Studies/Affairs,,760,540,27,26,28,24,26,,,,,,,,,,2
+user618,Password!618,WA,Bellevue High School,Bellevue,WA,3.5,2024,Retail Management,,590,710,27,22,27,28,26,,,,,,,,,,1
+user619,Password!619,NM,Volcano Vista High School,Albuquerque,NM,3.4,2024,Information Resources Management,,630,660,25,26,27,26,26,,,,,,,,,,2
+user620,Password!620,NM,Volcano Vista High School,Albuquerque,NM,3.4,2025,Operations Management and Supervision,,660,680,28,26,22,27,26,,,,,,,,,,1
+user621,Password!621,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2025,Microbiology,,620,630,25,24,27,28,26,,,,,,,,,,2
+user622,Password!622,TX,Carroll Senior High School,Southlake,TX,3.6,2025,Mechanical Engineering,,690,690,28,27,26,21,26,,,,,,,,,,2
+user623,Password!623,WA,Bellevue High School,Bellevue,WA,3.5,2025,Fire Science/Fire-fighting,,580,590,22,22,28,28,25,,,,,,,,,,1
+user624,Password!624,AL,Mt Brook High School,Mountain Brook,AL,3.3,2025,German Language and Literature,,680,660,26,26,24,26,26,,,,,,,,,,1
+user625,Password!625,PA,Radnor Senior High School,Radnor,PA,3.5,2026,Junior High/Intermediate/Middle School Education and Teaching,,610,630,26,26,23,24,25,,,,,,,,,,2
+user626,Password!626,OH,Madeira High School,Cincinnati,OH,3.6,2024,Christian Studies,,590,680,28,23,25,28,26,,,,,,,,,,1
+user627,Password!627,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2025,South Asian Studies,,680,700,24,25,26,24,25,,,,,,,,,,2
+user628,Password!628,AR,Haas Hall Academy,Fayetteville,AR,3.6,2025,"South Asian Languages, Literatures, and Linguistics",,700,600,21,25,26,24,24,,,,,,,,,,1
+user629,Password!629,NJ,Academy for Information Technology,Scotch Plains,NJ,3.6,2026,Human Nutrition,,700,690,24,23,22,29,25,,,,,,,,,,2
+user630,Password!630,GA,Walton High School,Marietta,GA,3.3,2025,Family and Consumer Sciences/Human Sciences,,680,680,26,20,22,30,25,,,,,,,,,,1
+user631,Password!631,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2025,Modern Languages,,540,560,24,23,22,22,23,,,,,,,,,,1
+user632,Password!632,AR,Haas Hall Academy,Fayetteville,AR,3.5,2025,Applied Horticulture/Horticulture Operations,,650,630,22,24,23,28,24,,,,,,,,,,1
+user633,Password!633,WI,Whitefish Bay High School,Whitefish Bay,WI,3.5,2027,Wildlife Biology,,650,640,29,27,27,21,26,,,,,,,,,,1
+user634,Password!634,AL,Mt Brook High School,Mountain Brook,AL,3.5,2027,Biological/Biosystems Engineering,,700,600,28,24,25,24,25,,,,,,,,,,1
+user635,Password!635,GA,Walton High School,Marietta,GA,3.5,2027,Publishing,,620,660,18,20,21,29,22,,,,,,,,,,1
+user636,Password!636,MA,Lexington High School,Lexington,MA,3.6,2027,Machine Tool Technology/Machinist,,660,680,24,24,24,25,24,,,,,,,,,,1
+user637,Password!637,AL,Mt Brook High School,Mountain Brook,AL,3.5,2026,Hydrology and Water Resources Science,,670,630,24,27,26,28,26,,,,,,,,,,1
+user638,Password!638,PA,Radnor Senior High School,Radnor,PA,3.5,2026,Agricultural Business Technology,,660,650,23,30,26,22,25,,,,,,,,,,1
+user639,Password!639,AL,Mt Brook High School,Mountain Brook,AL,3.6,2025,Applied Psychology,,560,680,24,27,22,28,25,,,,,,,,,,2
+user640,Password!640,NC,North Carolina School of Science and Mathematics,Durham,NC,3.7,2024,Legal Professions and Studies,,660,600,28,27,24,22,25,,,,,,,,,,2
+user641,Password!641,VA,McLean High School,McLean,VA,3.3,2025,Psychology,,710,540,27,24,23,22,24,,,,,,,,,,2
+user642,Password!642,KS,Blue Valley North High School,Overland Park,KS,3.5,2026,Securities Services Administration/Management,,700,740,26,24,27,30,27,,,,,,,,,,2
+user643,Password!643,KY,The Gatton Academy,Bowling Green,KY,3.5,2027,Geological/Geophysical Engineering,,700,660,30,23,28,26,27,,,,,,,,,,1
+user644,Password!644,KY,The Gatton Academy,Bowling Green,KY,3.5,2025,Foodservice Systems Administration/Management,,650,660,23,27,23,25,25,,,,,,,,,,2
+user645,Password!645,WA,Bellevue High School,Bellevue,WA,3.6,2027,Nutrition Sciences,,560,680,28,23,24,27,26,,,,,,,,,,1
+user646,Password!646,MO,Parkway Central High School,Chesterfield,MO,3.5,2027,Forest Sciences and Biology,,650,700,24,26,25,20,24,,,,,,,,,,2
+user647,Password!647,CO,Fairview High School,Boulder,CO,3.7,2026,Science Technologies/Technicians,,690,700,25,29,25,28,27,,,,,,,,,,1
+user648,Password!648,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2027,"Parks, Recreation, Leisure, and Fitness Studies",,680,590,28,27,24,29,27,,,,,,,,,,2
+user649,Password!649,KY,The Gatton Academy,Bowling Green,KY,3.7,2025,Medical Illustration/Medical Illustrator,,690,640,24,18,26,23,23,,,,,,,,,,1
+user650,Password!650,AZ,BASIS Tucson North,Tucson,AZ,3.5,2024,Environmental Science,,580,730,28,26,27,24,26,,,,,,,,,,1
+user651,Password!651,GA,Walton High School,Marietta,GA,3.2,2025,Atomic/Molecular Physics,,670,710,26,26,24,25,25,,,,,,,,,,2
+user652,Password!652,KY,The Gatton Academy,Bowling Green,KY,3.6,2024,Philosophy and Religious Studies,,630,710,27,26,26,20,25,,,,,,,,,,2
+user653,Password!653,GA,Walton High School,Marietta,GA,3.7,2024,Archeology,,670,660,24,24,22,25,24,,,,,,,,,,1
+user654,Password!654,PA,Radnor Senior High School,Radnor,PA,3.4,2024,"Art History, Criticism and Conservation",,680,710,24,26,24,24,25,,,,,,,,,,2
+user655,Password!655,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2024,Nursing Administration,,690,710,23,23,25,20,23,,,,,,,,,,1
+user656,Password!656,MI,International Academy,Bloomfield Hills,MI,3.4,2026,Film/Video and Photographic Arts,,680,630,23,28,21,30,26,,,,,,,,,,1
+user657,Password!657,PA,Radnor Senior High School,Radnor,PA,3.3,2025,Tool and Die Technology/Technician,,700,560,27,20,24,20,23,,,,,,,,,,2
+user658,Password!658,PA,Radnor Senior High School,Radnor,PA,3.4,2024,Health Services Administration,,600,720,27,27,26,29,27,,,,,,,,,,1
+user659,Password!659,KY,The Gatton Academy,Bowling Green,KY,3.6,2024,Soil Science and Agronomy,,680,680,26,22,24,24,24,,,,,,,,,,1
+user660,Password!660,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2026,Portuguese Language and Literature,,630,700,24,29,24,25,26,,,,,,,,,,2
+user661,Password!661,CA,Canyon Crest Academy,San Diego,CA,3.3,2024,Health Communication,,700,680,26,27,27,18,25,,,,,,,,,,1
+user662,Password!662,SC,Academic Magnet High School,North Charleston,SC,3.6,2026,Natural Resources Management and Policy,,680,580,24,26,26,24,25,,,,,,,,,,2
+user663,Password!663,WA,Bellevue High School,Bellevue,WA,3.4,2025,Foreign Language Teacher Education,,660,570,25,28,27,27,27,,,,,,,,,,2
+user664,Password!664,MN,Eagan Senior High School,Eagan,MN,3.6,2026,"Teacher Education, Multiple Levels",,660,680,23,26,23,22,24,,,,,,,,,,1
+user665,Password!665,KY,The Gatton Academy,Bowling Green,KY,3.5,2027,Teaching French as a Second or Foreign Language,,680,640,22,27,21,24,24,,,,,,,,,,1
+user666,Password!666,GA,Walton High School,Marietta,GA,3.4,2026,"Parks, Recreation and Leisure Facilities Management",,670,620,25,24,18,24,23,,,,,,,,,,1
+user667,Password!667,MO,Parkway Central High School,Chesterfield,MO,3.4,2027,Stringed Instruments,,670,660,22,28,24,27,25,,,,,,,,,,1
+user668,Password!668,WI,Whitefish Bay High School,Whitefish Bay,WI,3.5,2026,Gerontology,,630,680,26,25,27,23,25,,,,,,,,,,2
+user669,Password!669,SC,Academic Magnet High School,North Charleston,SC,3.5,2024,Welding Technology/Welder,,720,670,18,22,24,27,23,,,,,,,,,,2
+user670,Password!670,KS,Blue Valley North High School,Overland Park,KS,3.5,2025,Management Information Systems,,630,650,24,24,24,22,24,,,,,,,,,,1
+user671,Password!671,TX,Carroll Senior High School,Southlake,TX,3.2,2026,School Librarian/School Library Media Specialist,,700,560,26,21,22,24,23,,,,,,,,,,2
+user672,Password!672,NY,Brooklyn Technical High School,Brooklyn,NY,3.3,2024,Cell/Cellular Biology and Histology,,690,680,23,23,28,27,25,,,,,,,,,,2
+user673,Password!673,PA,Radnor Senior High School,Radnor,PA,3.5,2024,Religious Education,,650,590,23,25,21,28,24,,,,,,,,,,1
+user674,Password!674,MN,Eagan Senior High School,Eagan,MN,3.5,2024,"Linguistic, Comparative",,700,540,25,24,23,28,25,,,,,,,,,,1
+user675,Password!675,SC,Academic Magnet High School,North Charleston,SC,3.5,2027,Family and Community Services,,640,630,22,29,25,28,26,,,,,,,,,,1
+user676,Password!676,AZ,BASIS Tucson North,Tucson,AZ,3.2,2026,Restaurant/Food Services Management,,580,650,23,20,24,22,22,,,,,,,,,,2
+user677,Password!677,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.6,2025,Physical Chemistry,,620,640,25,21,26,22,24,,,,,,,,,,1
+user678,Password!678,OH,Madeira High School,Cincinnati,OH,3.5,2027,Community Psychology,,680,670,27,22,29,24,26,,,,,,,,,,2
+user679,Password!679,VA,McLean High School,McLean,VA,3.5,2026,Occupational Therapy/Therapist,,670,680,22,24,21,27,24,,,,,,,,,,2
+user680,Password!680,PA,Radnor Senior High School,Radnor,PA,3.8,2024,Web/Multimedia Management and Webmaster,,660,630,23,21,26,28,25,,,,,,,,,,1
+user681,Password!681,CA,Canyon Crest Academy,San Diego,CA,3.2,2026,Marketing,,730,650,24,20,23,22,22,,,,,,,,,,2
+user682,Password!682,MN,Eagan Senior High School,Eagan,MN,3.5,2025,Health Information/Medical Records Technology/Technician,,630,690,23,25,21,24,23,,,,,,,,,,1
+user683,Password!683,GA,Walton High School,Marietta,GA,3.5,2024,Computational and Applied Mathematics,,650,590,26,28,29,26,27,,,,,,,,,,2
+user684,Password!684,NH,Hanover High School,Hanover,NH,3.6,2025,Sustainability Studies,,690,730,25,26,21,26,25,,,,,,,,,,1
+user685,Password!685,MA,Lexington High School,Lexington,MA,3.6,2025,Neurobiology and Neurosciences,,620,680,26,27,30,22,26,,,,,,,,,,2
+user686,Password!686,CO,Fairview High School,Boulder,CO,3.6,2024,Religion/Religious Studies,,660,660,23,26,24,24,24,,,,,,,,,,2
+user687,Password!687,MI,International Academy,Bloomfield Hills,MI,3.5,2024,Organizational Leadership,,660,650,26,23,26,22,24,,,,,,,,,,1
+user688,Password!688,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2026,Philosophy,,700,620,29,29,22,28,27,,,,,,,,,,2
+user689,Password!689,MO,Parkway Central High School,Chesterfield,MO,3.3,2026,"Crafts/Craft Design, Folk Art and Artisanry",,670,710,24,24,27,24,25,,,,,,,,,,2
+user690,Password!690,MO,Parkway Central High School,Chesterfield,MO,3.6,2027,Corrections and Criminal Justice,,700,730,26,25,24,22,24,,,,,,,,,,1
+user691,Password!691,MI,International Academy,Bloomfield Hills,MI,3.7,2025,Health/Health Care Administration/Management,,680,700,26,22,23,26,24,,,,,,,,,,1
+user692,Password!692,WI,Whitefish Bay High School,Whitefish Bay,WI,3.8,2027,Health/Medical Preparatory Programs,,610,660,25,29,22,23,25,,,,,,,,,,1
+user693,Password!693,NJ,Academy for Information Technology,Scotch Plains,NJ,3.6,2025,Radio and Television,,670,700,27,24,23,25,25,,,,,,,,,,2
+user694,Password!694,AL,Mt Brook High School,Mountain Brook,AL,3.5,2025,Japanese Studies,,700,740,22,26,29,27,26,,,,,,,,,,2
+user695,Password!695,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2024,Apparel and Textiles,,610,580,27,24,26,24,25,,,,,,,,,,2
+user696,Password!696,PA,Radnor Senior High School,Radnor,PA,3.9,2025,Youth Services/Administration,,630,660,26,26,27,26,26,,,,,,,,,,1
+user697,Password!697,KS,Blue Valley North High School,Overland Park,KS,3.8,2024,Physical Therapy/Therapist,,740,590,24,25,27,20,24,,,,,,,,,,2
+user698,Password!698,AL,Mt Brook High School,Mountain Brook,AL,3.6,2025,Ecology and Evolutionary Biology,,660,680,23,23,27,28,25,,,,,,,,,,1
+user699,Password!699,CO,Fairview High School,Boulder,CO,3.7,2025,Registered Nursing/Registered Nurse,,710,630,26,26,29,26,27,,,,,,,,,,1
+user700,Password!700,WA,Bellevue High School,Bellevue,WA,3.5,2025,Computer Graphics,,670,700,25,28,26,22,25,,,,,,,,,,2
+user701,Password!701,MI,International Academy,Bloomfield Hills,MI,3.4,2024,Environmental Toxicology,,600,580,27,22,27,27,26,,,,,,,,,,1
+user702,Password!702,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.5,2025,"Professional, Technical, Business, and Scientific Writing",,620,640,26,24,22,26,25,,,,,,,,,,2
+user703,Password!703,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.6,2025,Veterinary/Animal Health Technology/Technician and Veterinary Assistant,,660,700,25,23,27,25,25,,,,,,,,,,1
+user704,Password!704,AR,Haas Hall Academy,Fayetteville,AR,3.6,2026,Statistics,,580,690,26,26,23,25,25,,,,,,,,,,1
+user705,Password!705,KY,The Gatton Academy,Bowling Green,KY,3.7,2027,Criminology,,690,680,27,24,23,24,25,,,,,,,,,,1
+user706,Password!706,WA,Bellevue High School,Bellevue,WA,3.6,2025,Fashion/Apparel Design,,680,610,27,23,24,21,24,,,,,,,,,,2
+user707,Password!707,CO,Fairview High School,Boulder,CO,3.5,2027,Robotics Technology/Technician,,700,630,30,24,25,28,27,,,,,,,,,,2
+user708,Password!708,NM,Volcano Vista High School,Albuquerque,NM,3.6,2025,"Modeling, Virtual Environments and Simulation",,630,590,30,22,24,23,25,,,,,,,,,,2
+user709,Password!709,MN,Eagan Senior High School,Eagan,MN,3.2,2025,Financial Mathematics,,700,620,23,26,18,24,23,,,,,,,,,,2
+user710,Password!710,WI,Whitefish Bay High School,Whitefish Bay,WI,3.5,2027,Health Teacher Education,,590,700,28,24,23,27,26,,,,,,,,,,2
+user711,Password!711,KS,Blue Valley North High School,Overland Park,KS,3.3,2026,Natural Resources and Conservation,,660,640,23,23,26,25,24,,,,,,,,,,1
+user712,Password!712,MO,Parkway Central High School,Chesterfield,MO,3.5,2024,French Studies,,680,670,27,22,24,26,25,,,,,,,,,,2
+user713,Password!713,MO,Parkway Central High School,Chesterfield,MO,3.5,2026,Legal Studies,,610,700,27,27,24,23,25,,,,,,,,,,2
+user714,Password!714,CA,Canyon Crest Academy,San Diego,CA,3.7,2024,Environmental Health,,570,660,24,22,24,27,24,,,,,,,,,,1
+user715,Password!715,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2025,Environmental Biology,,680,690,28,24,24,23,25,,,,,,,,,,1
+user716,Password!716,OH,Madeira High School,Cincinnati,OH,3.4,2025,Russian Language and Literature,,690,670,26,24,22,24,24,,,,,,,,,,1
+user717,Password!717,CA,Canyon Crest Academy,San Diego,CA,3.3,2024,Developmental Biology and Embryology,,690,690,26,27,23,23,25,,,,,,,,,,1
+user718,Password!718,MA,Lexington High School,Lexington,MA,3.4,2027,Sign Language Interpretation and Translation,,600,710,25,26,26,27,26,,,,,,,,,,2
+user719,Password!719,AR,Haas Hall Academy,Fayetteville,AR,3.4,2025,"Scandinavian Languages, Literatures, and Linguistics",,740,630,29,27,27,24,27,,,,,,,,,,2
+user720,Password!720,KS,Blue Valley North High School,Overland Park,KS,3.5,2024,Chemical and Biomolecular Engineering,,680,680,24,22,26,29,25,,,,,,,,,,2
+user721,Password!721,CO,Fairview High School,Boulder,CO,3.6,2026,Spanish Language Teacher Education,,680,710,22,27,23,22,24,,,,,,,,,,1
+user722,Password!722,OH,Madeira High School,Cincinnati,OH,3.6,2026,Dairy Science,,680,770,21,26,27,24,25,,,,,,,,,,2
+user723,Password!723,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2025,Exercise Physiology,,730,630,24,27,22,23,24,,,,,,,,,,2
+user724,Password!724,SC,Academic Magnet High School,North Charleston,SC,3.3,2025,Liberal Arts and Sciences/Liberal Studies,,680,690,20,28,21,24,23,,,,,,,,,,2
+user725,Password!725,KY,The Gatton Academy,Bowling Green,KY,3.6,2024,Aquatic Biology/Limnology,,680,660,23,25,27,29,26,,,,,,,,,,2
+user726,Password!726,MN,Eagan Senior High School,Eagan,MN,3.4,2026,Applied and Professional Ethics,,660,760,24,26,30,24,26,,,,,,,,,,1
+user727,Password!727,WA,Bellevue High School,Bellevue,WA,3.4,2025,Applied Mathematics,,540,640,27,25,26,30,27,,,,,,,,,,2
+user728,Password!728,CA,Canyon Crest Academy,San Diego,CA,3.6,2024,Journalism,,540,770,24,26,27,26,26,,,,,,,,,,2
+user729,Password!729,WA,Bellevue High School,Bellevue,WA,3.3,2027,Art Teacher Education,,680,610,25,23,22,24,24,,,,,,,,,,2
+user730,Password!730,MO,Parkway Central High School,Chesterfield,MO,3.4,2024,Medical/Health Management and Clinical Assistant/Specialist,,680,630,25,22,24,27,25,,,,,,,,,,2
+user731,Password!731,NY,Brooklyn Technical High School,Brooklyn,NY,3.3,2027,CAD/CADD Drafting and/or Design Technology/Technician,,680,630,26,26,25,27,26,,,,,,,,,,2
+user732,Password!732,NH,Hanover High School,Hanover,NH,3.6,2027,Mathematics,,580,720,24,23,22,23,23,,,,,,,,,,2
+user733,Password!733,NH,Hanover High School,Hanover,NH,3.3,2027,Plant Protection and Integrated Pest Management,,690,560,24,25,20,22,23,,,,,,,,,,2
+user734,Password!734,VA,McLean High School,McLean,VA,3.6,2025,Intermedia/Multimedia,,640,620,27,29,26,26,27,,,,,,,,,,2
+user735,Password!735,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.6,2025,Diesel Mechanics Technology/Technician,,690,670,27,24,30,26,27,,,,,,,,,,1
+user736,Password!736,MN,Eagan Senior High School,Eagan,MN,3.4,2025,Food Science,,710,650,27,23,24,24,25,,,,,,,,,,2
+user737,Password!737,AL,Mt Brook High School,Mountain Brook,AL,3.6,2024,Asian History,,690,640,29,24,27,24,26,,,,,,,,,,2
+user738,Password!738,KS,Blue Valley North High School,Overland Park,KS,3.5,2027,Operations Research,,680,610,27,25,24,27,26,,,,,,,,,,1
+user739,Password!739,WI,Whitefish Bay High School,Whitefish Bay,WI,3.5,2027,Hebrew Language and Literature,,590,680,24,23,27,20,24,,,,,,,,,,2
+user740,Password!740,SC,Academic Magnet High School,North Charleston,SC,3.4,2026,Audiology/Audiologist and Speech-Language Pathology/Pathologist,,640,620,24,27,28,25,26,,,,,,,,,,1
+user741,Password!741,PA,Radnor Senior High School,Radnor,PA,3.5,2024,Biochemistry and Molecular Biology,,620,700,23,24,27,26,25,,,,,,,,,,2
+user742,Password!742,AL,Mt Brook High School,Mountain Brook,AL,3.8,2026,Directing and Theatrical Production,,610,690,27,26,25,29,27,,,,,,,,,,2
+user743,Password!743,AL,Mt Brook High School,Mountain Brook,AL,3.5,2026,Keyboard Instruments,,630,710,23,27,22,27,25,,,,,,,,,,2
+user744,Password!744,OH,Madeira High School,Cincinnati,OH,3.7,2027,Accounting and Finance,,680,580,24,24,22,26,24,,,,,,,,,,2
+user745,Password!745,SC,Academic Magnet High School,North Charleston,SC,3.5,2026,Insurance,,670,630,24,22,25,27,25,,,,,,,,,,1
+user746,Password!746,KY,The Gatton Academy,Bowling Green,KY,3.6,2025,Ornamental Horticulture,,680,670,26,26,27,27,27,,,,,,,,,,1
+user747,Password!747,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2027,English/Language Arts Teacher Education,,700,520,20,28,26,23,24,,,,,,,,,,2
+user748,Password!748,OH,Madeira High School,Cincinnati,OH,3.6,2025,Paper Science and Engineering,,650,660,29,23,27,25,26,,,,,,,,,,1
+user749,Password!749,NJ,Academy for Information Technology,Scotch Plains,NJ,3.4,2026,Computer and Information Sciences and Support Services,,680,670,26,27,26,26,26,,,,,,,,,,2
+user750,Password!750,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2025,Acting,,680,630,23,21,28,29,25,,,,,,,,,,1
+user751,Password!751,WI,Whitefish Bay High School,Whitefish Bay,WI,3.6,2027,"Computer Programming, Specific Applications",,690,660,26,23,27,28,26,,,,,,,,,,1
+user752,Password!752,MI,International Academy,Bloomfield Hills,MI,3.8,2024,Technology Teacher Education/Industrial Arts Teacher Education,,580,660,22,23,28,24,24,,,,,,,,,,2
+user753,Password!753,NY,Brooklyn Technical High School,Brooklyn,NY,3.7,2024,Graphic Communications,,610,640,23,27,21,22,23,,,,,,,,,,2
+user754,Password!754,NM,Volcano Vista High School,Albuquerque,NM,3.4,2026,Housing and Human Environments,,640,680,24,29,18,25,24,,,,,,,,,,2
+user755,Password!755,KS,Blue Valley North High School,Overland Park,KS,3.2,2026,International Relations and National Security Studies,,770,680,26,24,26,21,24,,,,,,,,,,1
+user756,Password!756,AR,Haas Hall Academy,Fayetteville,AR,3.5,2026,Design and Visual Communications,,580,710,24,23,29,27,26,,,,,,,,,,1
+user757,Password!757,NH,Hanover High School,Hanover,NH,3.5,2024,Game and Interactive Media Design,,620,570,24,24,25,25,25,,,,,,,,,,2
+user758,Password!758,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.4,2026,Agricultural Teacher Education,,720,640,23,22,30,26,25,,,,,,,,,,2
+user759,Password!759,WA,Bellevue High School,Bellevue,WA,3.6,2024,Learning Sciences,,690,640,26,25,21,27,25,,,,,,,,,,1
+user760,Password!760,KY,The Gatton Academy,Bowling Green,KY,3.5,2024,Technical and Scientific Communication,,680,660,25,26,27,26,26,,,,,,,,,,1
+user761,Password!761,MA,Lexington High School,Lexington,MA,3.3,2027,Entrepreneurship/Entrepreneurial Studies,,640,630,27,27,23,24,25,,,,,,,,,,2
+user762,Password!762,CA,Canyon Crest Academy,San Diego,CA,3.7,2026,Mental and Social Health Services and Allied Professions,,710,540,23,27,26,29,26,,,,,,,,,,2
+user763,Password!763,AL,Mt Brook High School,Mountain Brook,AL,3.5,2025,Hotel/Motel Administration/Management,,760,700,25,22,21,24,23,,,,,,,,,,1
+user764,Password!764,AL,Mt Brook High School,Mountain Brook,AL,3.4,2025,Business Administration and Management,,690,700,20,26,24,26,24,,,,,,,,,,1
+user765,Password!765,GA,Walton High School,Marietta,GA,3.3,2024,Pre-Physical Therapy Studies,,710,670,27,30,23,24,26,,,,,,,,,,1
+user766,Password!766,KS,Blue Valley North High School,Overland Park,KS,3.5,2024,Bioinformatics,,690,680,26,29,26,27,27,,,,,,,,,,2
+user767,Password!767,NH,Hanover High School,Hanover,NH,3.8,2025,Business/Commerce,,620,610,24,25,28,26,26,,,,,,,,,,2
+user768,Password!768,OH,Madeira High School,Cincinnati,OH,3.4,2027,Painting,,580,680,24,23,23,27,24,,,,,,,,,,2
+user769,Password!769,AL,Mt Brook High School,Mountain Brook,AL,3.5,2027,Voice and Opera,,680,620,26,25,24,22,24,,,,,,,,,,2
+user770,Password!770,PA,Radnor Senior High School,Radnor,PA,3.5,2024,Critical Infrastructure Protection,,600,670,25,24,29,24,26,,,,,,,,,,1
+user771,Password!771,NH,Hanover High School,Hanover,NH,3.5,2024,Optics/Optical Sciences,,700,690,26,24,26,29,26,,,,,,,,,,1
+user772,Password!772,MI,International Academy,Bloomfield Hills,MI,3.6,2027,"Germanic Languages, Literatures, and Linguistics",,660,690,29,27,22,25,26,,,,,,,,,,1
+user773,Password!773,MI,International Academy,Bloomfield Hills,MI,3.8,2024,French Language and Literature,,690,620,24,27,27,23,25,,,,,,,,,,2
+user774,Password!774,AL,Mt Brook High School,Mountain Brook,AL,3.7,2025,International Finance,,520,650,29,26,21,23,25,,,,,,,,,,1
+user775,Password!775,VA,McLean High School,McLean,VA,3.5,2026,Agricultural and Extension Education Services,,640,610,28,24,27,26,26,,,,,,,,,,1
+user776,Password!776,KS,Blue Valley North High School,Overland Park,KS,3.4,2025,Humanities/Humanistic Studies,,680,660,27,23,28,26,26,,,,,,,,,,2
+user777,Password!777,MA,Lexington High School,Lexington,MA,3.7,2025,Pre-Pharmacy Studies,,680,590,25,22,27,23,24,,,,,,,,,,2
+user778,Password!778,OH,Madeira High School,Cincinnati,OH,3.5,2025,Medical Informatics,,690,660,25,27,27,28,27,,,,,,,,,,2
+user779,Password!779,WI,Whitefish Bay High School,Whitefish Bay,WI,3.4,2027,Environmental/Environmental Health Engineering,,640,720,22,24,27,23,24,,,,,,,,,,1
+user780,Password!780,CO,Fairview High School,Boulder,CO,3.8,2025,Biochemistry,,660,660,23,27,25,27,26,,,,,,,,,,2
+user781,Password!781,OH,Madeira High School,Cincinnati,OH,3.4,2027,Civil Engineering,,710,540,23,25,26,25,25,,,,,,,,,,1
+user782,Password!782,GA,Walton High School,Marietta,GA,3.7,2027,"Science, Technology and Society",,660,700,23,26,26,27,26,,,,,,,,,,2
+user783,Password!783,AZ,BASIS Tucson North,Tucson,AZ,3.4,2024,Respiratory Care Therapy/Therapist,,670,680,28,29,28,29,29,,,,,,,,,,2
+user784,Password!784,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.2,2024,Astronomy and Astrophysics,,640,610,27,23,25,25,25,,,,,,,,,,1
+user785,Password!785,AZ,BASIS Tucson North,Tucson,AZ,3.4,2024,Rhetoric and Composition,,680,640,27,18,27,23,24,,,,,,,,,,1
+user786,Password!786,PA,Radnor Senior High School,Radnor,PA,3.4,2026,Urban Forestry,,690,690,25,27,23,21,24,,,,,,,,,,2
+user787,Password!787,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.5,2024,Nuclear Medical Technology/Technologist,,700,640,27,22,29,23,25,,,,,,,,,,1
+user788,Password!788,WA,Bellevue High School,Bellevue,WA,3.4,2024,Human Computer Interaction,,660,660,24,23,23,24,24,,,,,,,,,,2
+user789,Password!789,AR,Haas Hall Academy,Fayetteville,AR,3.5,2024,Plant Sciences,,640,690,22,23,25,23,23,,,,,,,,,,1
+user790,Password!790,AR,Haas Hall Academy,Fayetteville,AR,3.4,2025,Anthropology,,680,680,28,26,24,24,26,,,,,,,,,,1
+user791,Password!791,CA,Canyon Crest Academy,San Diego,CA,3.4,2027,Automobile/Automotive Mechanics Technology/Technician,,690,700,26,22,23,24,24,,,,,,,,,,2
+user792,Password!792,TX,Carroll Senior High School,Southlake,TX,3.4,2024,Computer and Information Systems Security/Information Assurance,,620,600,22,28,27,20,24,,,,,,,,,,2
+user793,Password!793,NY,Brooklyn Technical High School,Brooklyn,NY,3.2,2026,Business Statistics,,540,630,24,21,28,25,25,,,,,,,,,,1
+user794,Password!794,NC,North Carolina School of Science and Mathematics,Durham,NC,3.6,2024,Computer Software and Media Applications,,680,690,26,27,27,23,26,,,,,,,,,,2
+user795,Password!795,NY,Brooklyn Technical High School,Brooklyn,NY,3.4,2027,Tourism and Travel Services Marketing Operations,,690,680,24,25,24,26,25,,,,,,,,,,2
+user796,Password!796,NY,Brooklyn Technical High School,Brooklyn,NY,3.5,2025,Business/Managerial Economics,,690,610,23,25,22,27,24,,,,,,,,,,2
+user797,Password!797,WA,Bellevue High School,Bellevue,WA,3.6,2024,Conservation Biology,,630,690,24,27,30,20,25,,,,,,,,,,2
+user798,Password!798,WA,Bellevue High School,Bellevue,WA,3.5,2027,Reading Teacher Education,,580,720,24,26,22,26,25,,,,,,,,,,1
+user799,Password!799,TX,Carroll Senior High School,Southlake,TX,3.4,2025,Clinical Laboratory Science/Medical Technology/Technologist,,700,700,23,29,27,23,26,,,,,,,,,,2
+user800,Password!800,AZ,BASIS Tucson North,Tucson,AZ,3.4,2027,Funeral Service and Mortuary Science,,620,700,22,22,28,26,25,,,,,,,,,,1
+user801,Password!801,MA,Lexington High School,Lexington,MA,3.8,2025,"Water, Wetlands, and Marine Resources Management",,740,720,34,35,30,33,33,,,,,,,,,,4
+user802,Password!802,CA,Canyon Crest Academy,San Diego,CA,3.9,2026,Cell/Cellular and Molecular Biology,,760,770,31,31,34,33,32,,,,,,,,,,5
+user803,Password!803,OH,Madeira High School,Cincinnati,OH,3.9,2024,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics",,800,760,35,33,35,33,34,,,,,,,,,,5
+user804,Password!804,OH,Madeira High School,Cincinnati,OH,3.9,2027,Hospitality and Recreation Marketing Operations,,770,770,32,32,33,33,33,,,,,,,,,,3
+user805,Password!805,NJ,Academy for Information Technology,Scotch Plains,NJ,3.9,2025,"Classics and Classical Languages, Literatures, and Linguistics",,700,750,35,33,31,33,33,,,,,,,,,,4
+user806,Password!806,WI,Whitefish Bay High School,Whitefish Bay,WI,3.8,2024,Bioengineering and Biomedical Engineering,,750,740,32,35,33,33,33,,,,,,,,,,3
+user807,Password!807,TX,Carroll Senior High School,Southlake,TX,3.8,2026,Informatics,,720,760,31,36,31,33,33,,,,,,,,,,3
+user808,Password!808,IL,Illinois Mathematics and Science Academy,Aurora,IL,4,2026,Human Computer Interaction,,720,700,35,32,34,33,34,,,,,,,,,,4
+user809,Password!809,GA,Walton High School,Marietta,GA,3.8,2024,Technical Teacher Education,,760,710,36,31,32,33,33,,,,,,,,,,4
+user810,Password!810,CA,Canyon Crest Academy,San Diego,CA,3.9,2024,Electrical and Electronic Engineering Technologies/Technicians,,750,780,33,30,35,33,33,,,,,,,,,,3
+user811,Password!811,SC,Academic Magnet High School,North Charleston,SC,3.9,2025,American History,,730,780,33,30,33,33,32,,,,,,,,,,3
+user812,Password!812,WA,Bellevue High School,Bellevue,WA,3.9,2025,Hospitality Administration/Management,,750,760,33,35,34,33,34,,,,,,,,,,5
+user813,Password!813,MN,Eagan Senior High School,Eagan,MN,3.9,2025,Actuarial Science,,730,770,32,34,31,33,33,,,,,,,,,,4
+user814,Password!814,VA,McLean High School,McLean,VA,3.9,2027,Mathematics,,750,750,34,33,32,33,33,,,,,,,,,,3
+user815,Password!815,AL,Mt Brook High School,Mountain Brook,AL,4,2025,Geographic Information Science and Cartography,,750,690,32,32,32,33,32,,,,,,,,,,3
+user816,Password!816,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.9,2025,Stringed Instruments,,780,730,32,33,33,33,33,,,,,,,,,,5
+user817,Password!817,WA,Bellevue High School,Bellevue,WA,3.9,2026,Cell/Cellular Biology and Histology,,750,780,32,29,33,33,32,,,,,,,,,,3
+user818,Password!818,NJ,Academy for Information Technology,Scotch Plains,NJ,3.8,2025,Microbiology,,710,740,34,30,30,33,32,,,,,,,,,,4
+user819,Password!819,PA,Radnor Senior High School,Radnor,PA,3.8,2024,Machine Tool Technology/Machinist,,730,720,32,33,33,33,33,,,,,,,,,,3
+user820,Password!820,MI,International Academy,Bloomfield Hills,MI,3.9,2025,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",,720,750,33,33,33,33,33,,,,,,,,,,4
+user821,Password!821,PA,Radnor Senior High School,Radnor,PA,4,2025,Intermedia/Multimedia,,760,750,32,33,32,33,33,,,,,,,,,,5
+user822,Password!822,CO,Fairview High School,Boulder,CO,3.8,2025,Massage Therapy/Therapeutic Massage,,710,730,32,34,31,33,33,,,,,,,,,,4
+user823,Password!823,TX,Carroll Senior High School,Southlake,TX,3.8,2024,Spanish Language and Literature,,710,730,31,35,33,33,33,,,,,,,,,,3
+user824,Password!824,NH,Hanover High School,Hanover,NH,3.8,2024,Occupational Therapist Assistant,,730,770,31,33,30,33,32,,,,,,,,,,5
+user825,Password!825,WA,Bellevue High School,Bellevue,WA,3.8,2025,Legal Assistant/Paralegal,,780,760,33,34,32,33,33,,,,,,,,,,4
+user826,Password!826,WI,Whitefish Bay High School,Whitefish Bay,WI,3.7,2027,Foreign Language Teacher Education,,750,760,34,33,32,33,33,,,,,,,,,,4
+user827,Password!827,NY,Brooklyn Technical High School,Brooklyn,NY,3.9,2025,Agriculture,,800,830,35,32,32,33,33,,,,,,,,,,3
+user828,Password!828,SC,Academic Magnet High School,North Charleston,SC,3.9,2027,Research and Experimental Psychology,,760,680,32,35,31,33,33,,,,,,,,,,4
+user829,Password!829,MA,Lexington High School,Lexington,MA,3.8,2024,Mining and Mineral Engineering,,760,690,33,32,35,33,33,,,,,,,,,,4
+user830,Password!830,KS,Blue Valley North High School,Overland Park,KS,4,2024,Applied Economics,,760,710,33,33,30,33,32,,,,,,,,,,5
+user831,Password!831,OH,Madeira High School,Cincinnati,OH,3.8,2025,Electromechanical Technology/Electromechanical Engineering Technology,,750,770,33,33,35,33,34,,,,,,,,,,4
+user832,Password!832,NC,North Carolina School of Science and Mathematics,Durham,NC,3.9,2025,Machine Tool Technology/Machinist,,750,740,30,36,32,33,33,,,,,,,,,,4
+user833,Password!833,AR,Haas Hall Academy,Fayetteville,AR,3.8,2025,Legal Studies,,750,770,33,31,33,33,33,,,,,,,,,,4
+user834,Password!834,AZ,BASIS Tucson North,Tucson,AZ,3.8,2025,Psychology,,750,750,30,36,36,33,34,,,,,,,,,,3
+user835,Password!835,CA,Canyon Crest Academy,San Diego,CA,3.8,2024,Medical Illustration/Medical Illustrator,,710,700,34,35,35,33,34,,,,,,,,,,5
+user836,Password!836,AZ,BASIS Tucson North,Tucson,AZ,3.9,2024,"Wildlife, Fish and Wildlands Science and Management",,770,750,33,30,32,33,32,,,,,,,,,,3
+user837,Password!837,MI,International Academy,Bloomfield Hills,MI,3.8,2026,Medieval and Renaissance Studies,,760,740,33,33,33,33,33,,,,,,,,,,4
+user838,Password!838,WI,Whitefish Bay High School,Whitefish Bay,WI,3.8,2026,Nursing Administration,,720,740,32,32,32,33,32,,,,,,,,,,5
+user839,Password!839,NC,North Carolina School of Science and Mathematics,Durham,NC,3.9,2024,Financial Mathematics,,770,750,29,32,33,33,32,,,,,,,,,,3
+user840,Password!840,WA,Bellevue High School,Bellevue,WA,3.8,2026,"Aerospace, Aeronautical and Astronautical/Space Engineering",,770,760,33,31,32,33,32,,,,,,,,,,5
+user841,Password!841,NY,Brooklyn Technical High School,Brooklyn,NY,3.8,2024,Epidemiology,,760,750,31,32,33,33,32,,,,,,,,,,4
+user842,Password!842,MN,Eagan Senior High School,Eagan,MN,3.8,2024,Learning Sciences,,830,750,32,31,36,33,33,,,,,,,,,,5
+user843,Password!843,MI,International Academy,Bloomfield Hills,MI,3.9,2025,Natural Resources Management and Policy,,710,720,35,35,33,33,34,,,,,,,,,,5
+user844,Password!844,MI,International Academy,Bloomfield Hills,MI,3.8,2027,Sport and Fitness Administration/Management,,740,770,33,33,32,33,33,,,,,,,,,,3
+user845,Password!845,VA,McLean High School,McLean,VA,3.9,2024,Kindergarten/Preschool Education and Teaching,,730,700,34,35,32,33,34,,,,,,,,,,4
+user846,Password!846,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.9,2026,Computer Programming/Programmer,,740,730,36,31,31,33,33,,,,,,,,,,4
+user847,Password!847,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.9,2025,Chinese Language and Literature,,800,770,34,32,31,33,33,,,,,,,,,,5
+user848,Password!848,NH,Hanover High School,Hanover,NH,3.9,2026,Environmental Studies,,730,720,33,32,35,33,33,,,,,,,,,,5
+user849,Password!849,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.9,2026,Journalism,,710,760,35,32,32,33,33,,,,,,,,,,4
+user850,Password!850,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.8,2026,Latin Teacher Education,,830,800,31,34,32,33,33,,,,,,,,,,4
+user851,Password!851,GA,Walton High School,Marietta,GA,3.8,2027,Ceramic Arts and Ceramics,,750,720,36,33,32,33,34,,,,,,,,,,4
+user852,Password!852,CA,Canyon Crest Academy,San Diego,CA,4,2024,Artificial Intelligence,,700,760,32,30,32,33,32,,,,,,,,,,4
+user853,Password!853,MI,International Academy,Bloomfield Hills,MI,3.8,2025,Pharmacology,,760,750,30,36,31,33,33,,,,,,,,,,4
+user854,Password!854,KY,The Gatton Academy,Bowling Green,KY,3.8,2024,Theology/Theological Studies,,710,710,31,35,32,33,33,,,,,,,,,,3
+user855,Password!855,NY,Brooklyn Technical High School,Brooklyn,NY,3.8,2027,Woodworking,,710,800,32,33,32,33,33,,,,,,,,,,3
+user856,Password!856,KY,The Gatton Academy,Bowling Green,KY,3.9,2024,International/Global Studies,,750,760,32,30,35,33,33,,,,,,,,,,4
+user857,Password!857,GA,Walton High School,Marietta,GA,3.9,2024,Design and Applied Arts,,770,770,29,35,33,33,33,,,,,,,,,,4
+user858,Password!858,AZ,BASIS Tucson North,Tucson,AZ,3.8,2024,Speech-Language Pathology/Pathologist,,720,740,32,33,36,33,34,,,,,,,,,,4
+user859,Password!859,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.8,2027,Community Psychology,,670,750,34,32,32,33,33,,,,,,,,,,4
+user860,Password!860,GA,Walton High School,Marietta,GA,3.8,2024,Organizational Behavior Studies,,750,710,32,33,32,33,33,,,,,,,,,,3
+user861,Password!861,MO,Parkway Central High School,Chesterfield,MO,3.8,2025,Family and Consumer Economics,,750,730,35,33,31,33,33,,,,,,,,,,5
+user862,Password!862,MA,Lexington High School,Lexington,MA,3.8,2024,German Studies,,750,750,30,33,32,33,32,,,,,,,,,,3
+user863,Password!863,WA,Bellevue High School,Bellevue,WA,3.8,2025,Digital Arts,,750,800,30,31,32,33,32,,,,,,,,,,3
+user864,Password!864,MN,Eagan Senior High School,Eagan,MN,3.8,2024,Operations Research,,720,740,31,33,33,33,33,,,,,,,,,,3
+user865,Password!865,MO,Parkway Central High School,Chesterfield,MO,3.8,2026,Agricultural Communication/Journalism,,780,800,31,33,34,33,33,,,,,,,,,,5
+user866,Password!866,PA,Radnor Senior High School,Radnor,PA,3.8,2024,Aeronautical/Aerospace Engineering Technology/Technician,,770,730,30,33,34,33,33,,,,,,,,,,3
+user867,Password!867,KY,The Gatton Academy,Bowling Green,KY,3.8,2025,Behavioral Sciences,,750,780,32,30,35,33,33,,,,,,,,,,3
+user868,Password!868,TX,Carroll Senior High School,Southlake,TX,3.8,2025,International and Intercultural Communication,,710,800,35,33,30,33,33,,,,,,,,,,4
+user869,Password!869,AL,Mt Brook High School,Mountain Brook,AL,3.9,2027,Metallurgical Engineering,,730,730,32,32,33,33,33,,,,,,,,,,5
+user870,Password!870,KS,Blue Valley North High School,Overland Park,KS,3.8,2024,Cytotechnology/Cytotechnologist,,700,740,32,33,30,33,32,,,,,,,,,,5
+user871,Password!871,AL,Mt Brook High School,Mountain Brook,AL,3.8,2024,Special Products Marketing Operations,,720,750,31,32,33,33,32,,,,,,,,,,5
+user872,Password!872,NH,Hanover High School,Hanover,NH,3.8,2026,Geological/Geophysical Engineering,,750,760,33,34,32,33,33,,,,,,,,,,5
+user873,Password!873,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.9,2024,Environmental Science,,750,730,35,35,30,33,33,,,,,,,,,,4
+user874,Password!874,NM,Volcano Vista High School,Albuquerque,NM,4,2024,Occupational Therapy/Therapist,,740,700,33,35,33,33,34,,,,,,,,,,3
+user875,Password!875,AZ,BASIS Tucson North,Tucson,AZ,3.9,2025,Chinese Language and Literature,,760,720,32,30,34,33,32,,,,,,,,,,5
+user876,Password!876,MI,International Academy,Bloomfield Hills,MI,3.8,2026,Pre-Physical Therapy Studies,,770,740,31,33,32,33,32,,,,,,,,,,4
+user877,Password!877,AR,Haas Hall Academy,Fayetteville,AR,3.8,2027,Tourism and Travel Services Marketing Operations,,770,750,29,35,32,33,32,,,,,,,,,,5
+user878,Password!878,SC,Academic Magnet High School,North Charleston,SC,3.9,2025,Curriculum and Instruction,,760,750,33,32,32,33,33,,,,,,,,,,4
+user879,Password!879,GA,Walton High School,Marietta,GA,3.9,2027,American Government and Politics,,730,730,34,35,34,33,34,,,,,,,,,,4
+user880,Password!880,KS,Blue Valley North High School,Overland Park,KS,3.9,2026,Astrophysics,,750,750,35,32,30,33,33,,,,,,,,,,3
+user881,Password!881,TX,Carroll Senior High School,Southlake,TX,3.9,2026,Modern Greek Language and Literature,,720,730,33,32,33,33,33,,,,,,,,,,5
+user882,Password!882,AR,Haas Hall Academy,Fayetteville,AR,3.9,2027,Fashion/Apparel Design,,770,760,32,33,32,33,33,,,,,,,,,,4
+user883,Password!883,WI,Whitefish Bay High School,Whitefish Bay,WI,3.8,2024,Medical Illustration/Medical Illustrator,,730,750,31,32,33,33,32,,,,,,,,,,4
+user884,Password!884,NC,North Carolina School of Science and Mathematics,Durham,NC,3.8,2027,Liberal Arts and Sciences/Liberal Studies,,730,760,32,34,32,33,33,,,,,,,,,,4
+user885,Password!885,WI,Whitefish Bay High School,Whitefish Bay,WI,3.9,2026,Movement Therapy and Movement Education,,710,760,33,34,34,33,34,,,,,,,,,,3
+user886,Password!886,IL,Illinois Mathematics and Science Academy,Aurora,IL,4,2024,Fine/Studio Arts,,740,740,31,33,33,33,33,,,,,,,,,,4
+user887,Password!887,AL,Mt Brook High School,Mountain Brook,AL,3.8,2027,Radio and Television,,720,800,35,32,33,33,33,,,,,,,,,,4
+user888,Password!888,MN,Eagan Senior High School,Eagan,MN,3.8,2024,Sports Studies,,760,750,31,32,33,33,32,,,,,,,,,,4
+user889,Password!889,MN,Eagan Senior High School,Eagan,MN,3.9,2027,Agricultural Business Technology,,760,780,31,34,32,33,33,,,,,,,,,,5
+user890,Password!890,NM,Volcano Vista High School,Albuquerque,NM,3.9,2026,Network and System Administration/Administrator,,750,730,33,33,35,33,34,,,,,,,,,,4
+user891,Password!891,TX,Carroll Senior High School,Southlake,TX,3.9,2026,Creative Writing,,770,780,34,33,33,33,33,,,,,,,,,,4
+user892,Password!892,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.8,2025,Cytotechnology/Cytotechnologist,,750,730,32,35,31,33,33,,,,,,,,,,5
+user893,Password!893,GA,Walton High School,Marietta,GA,3.8,2024,Russian Studies,,740,780,32,34,30,33,32,,,,,,,,,,3
+user894,Password!894,WI,Whitefish Bay High School,Whitefish Bay,WI,3.7,2026,Russian Language and Literature,,710,760,33,31,33,33,33,,,,,,,,,,3
+user895,Password!895,CO,Fairview High School,Boulder,CO,3.8,2025,Scandinavian Studies,,750,770,34,32,33,33,33,,,,,,,,,,4
+user896,Password!896,OH,Madeira High School,Cincinnati,OH,3.8,2026,Landscape Architecture,,780,750,32,34,33,33,33,,,,,,,,,,4
+user897,Password!897,TX,Carroll Senior High School,Southlake,TX,3.8,2025,Welding Technology/Welder,,780,770,31,33,33,33,33,,,,,,,,,,3
+user898,Password!898,OH,Madeira High School,Cincinnati,OH,4,2024,Mathematical Statistics and Probability,,830,750,32,33,33,33,33,,,,,,,,,,3
+user899,Password!899,KY,The Gatton Academy,Bowling Green,KY,3.9,2024,Bilingual and Multilingual Education,,750,710,32,34,35,33,34,,,,,,,,,,4
+user900,Password!900,GA,Walton High School,Marietta,GA,3.8,2027,Occupational Therapy/Therapist,,750,740,35,31,32,33,33,,,,,,,,,,3
+user901,Password!901,MO,Parkway Central High School,Chesterfield,MO,3.2,2024,Communication,,590,510,19,22,20,21,21,,,,,,,,,,0
+user902,Password!902,TX,Carroll Senior High School,Southlake,TX,2.8,2024,Forest Management/Forest Resources Management,,520,540,20,21,19,19,20,,,,,,,,,,0
+user903,Password!903,MA,Lexington High School,Lexington,MA,3.2,2025,"Human Development, Family Studies",,540,560,20,19,19,17,19,,,,,,,,,,0
+user904,Password!904,WI,Whitefish Bay High School,Whitefish Bay,WI,2.9,2025,Ballet,,510,520,20,15,18,19,18,,,,,,,,,,0
+user905,Password!905,GA,Walton High School,Marietta,GA,3.2,2026,Anthropology,,550,540,19,18,20,20,19,,,,,,,,,,0
+user906,Password!906,NC,North Carolina School of Science and Mathematics,Durham,NC,3.2,2026,Astronomy,,530,530,18,18,21,18,19,,,,,,,,,,0
+user907,Password!907,NH,Hanover High School,Hanover,NH,2.8,2024,International Public Health/International Health,,530,520,19,18,19,18,19,,,,,,,,,,0
+user908,Password!908,NY,Brooklyn Technical High School,Brooklyn,NY,3.2,2026,African-American/Black Studies,,520,580,19,17,19,21,19,,,,,,,,,,0
+user909,Password!909,KY,The Gatton Academy,Bowling Green,KY,3.1,2026,Animal Sciences,,510,510,18,19,19,15,18,,,,,,,,,,0
+user910,Password!910,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3,2026,"Business, Management, Marketing",,500,550,17,19,19,16,18,,,,,,,,,,0
+user911,Password!911,AR,Haas Hall Academy,Fayetteville,AR,3.4,2026,Aquatic Biology/Limnology,,540,490,23,19,19,20,20,,,,,,,,,,0
+user912,Password!912,NH,Hanover High School,Hanover,NH,3.2,2025,Bilingual and Multilingual Education,,520,550,19,18,20,20,19,,,,,,,,,,0
+user913,Password!913,AZ,BASIS Tucson North,Tucson,AZ,3.2,2026,Trade and Industrial Teacher Education,,520,560,19,20,18,21,20,,,,,,,,,,0
+user914,Password!914,AZ,BASIS Tucson North,Tucson,AZ,3.2,2024,Ecology,,530,500,18,18,20,19,19,,,,,,,,,,0
+user915,Password!915,AZ,BASIS Tucson North,Tucson,AZ,3.2,2026,Cognitive Science,,510,500,20,21,20,20,20,,,,,,,,,,0
+user916,Password!916,WA,Bellevue High School,Bellevue,WA,3,2027,Molecular Biology,,550,560,18,18,20,19,19,,,,,,,,,,0
+user917,Password!917,NM,Volcano Vista High School,Albuquerque,NM,3.2,2025,Bioinformatics,,560,520,19,21,16,18,19,,,,,,,,,,0
+user918,Password!918,SC,Academic Magnet High School,North Charleston,SC,3.2,2027,Organizational Behavior Studies,,540,500,19,18,18,17,18,,,,,,,,,,0
+user919,Password!919,CO,Fairview High School,Boulder,CO,3.1,2024,Industrial Engineering,,540,520,20,21,23,17,20,,,,,,,,,,0
+user920,Password!920,NY,Brooklyn Technical High School,Brooklyn,NY,3.2,2025,African Studies,,480,540,19,20,18,20,19,,,,,,,,,,0
+user921,Password!921,MN,Eagan Senior High School,Eagan,MN,3.2,2024,Tourism and Travel Services Marketing Operations,,510,540,20,17,19,20,19,,,,,,,,,,0
+user922,Password!922,MS,The Mississippi School for Mathematics and Science,Columbus,MS,2.7,2027,Soil Science and Agronomy,,550,560,16,19,18,20,18,,,,,,,,,,0
+user923,Password!923,CO,Fairview High School,Boulder,CO,2.9,2024,Journalism,,520,530,21,20,20,16,19,,,,,,,,,,0
+user924,Password!924,TX,Carroll Senior High School,Southlake,TX,3.1,2025,Labor Studies,,490,540,18,20,16,17,18,,,,,,,,,,0
+user925,Password!925,CA,Canyon Crest Academy,San Diego,CA,2.9,2026,Philosophy,,500,550,20,17,20,16,18,,,,,,,,,,0
+user926,Password!926,WA,Bellevue High School,Bellevue,WA,3.3,2027,Culinary Science/Culinology,,550,520,19,20,20,19,20,,,,,,,,,,0
+user927,Password!927,OH,Madeira High School,Cincinnati,OH,3.4,2025,Environmental Design/Architecture,,550,550,17,20,18,17,18,,,,,,,,,,0
+user928,Password!928,PA,Radnor Senior High School,Radnor,PA,3.2,2026,Forest Management/Forest Resources Management,,530,560,18,22,19,17,19,,,,,,,,,,0
+user929,Password!929,IL,Illinois Mathematics and Science Academy,Aurora,IL,3,2025,Plant Sciences,,550,560,19,21,20,19,20,,,,,,,,,,0
+user930,Password!930,CA,Canyon Crest Academy,San Diego,CA,3.2,2027,Printing Management,,530,540,19,17,17,19,18,,,,,,,,,,0
+user931,Password!931,VA,McLean High School,McLean,VA,2.9,2026,Evolutionary Biology,,540,520,23,20,21,19,21,,,,,,,,,,0
+user932,Password!932,AL,Mt Brook High School,Mountain Brook,AL,3.1,2024,Business/Commerce,,540,520,16,18,18,18,18,,,,,,,,,,0
+user933,Password!933,NH,Hanover High School,Hanover,NH,3.1,2027,Sports Communication,,520,520,20,20,19,19,20,,,,,,,,,,0
+user934,Password!934,MI,International Academy,Bloomfield Hills,MI,3.1,2027,Soil Science and Agronomy,,550,570,20,19,18,17,19,,,,,,,,,,0
+user935,Password!935,NH,Hanover High School,Hanover,NH,3.1,2027,International Agriculture,,530,510,19,17,20,19,19,,,,,,,,,,0
+user936,Password!936,NC,North Carolina School of Science and Mathematics,Durham,NC,3.2,2026,Sports Studies,,510,510,17,16,17,18,17,,,,,,,,,,0
+user937,Password!937,TX,Carroll Senior High School,Southlake,TX,2.7,2026,Autobody/Collision and Repair Technology/Technician,,540,520,21,18,20,20,20,,,,,,,,,,0
+user938,Password!938,MN,Eagan Senior High School,Eagan,MN,3.1,2024,Applied Economics,,520,500,19,17,17,20,18,,,,,,,,,,0
+user939,Password!939,KS,Blue Valley North High School,Overland Park,KS,3.2,2027,South Asian Studies,,540,490,16,18,20,21,19,,,,,,,,,,0
+user940,Password!940,NC,North Carolina School of Science and Mathematics,Durham,NC,3.4,2026,Technical Theatre/Theatre Design and Technology,,510,550,18,20,18,20,19,,,,,,,,,,0
+user941,Password!941,WI,Whitefish Bay High School,Whitefish Bay,WI,3.1,2026,Asian History,,510,510,19,20,18,20,19,,,,,,,,,,0
+user942,Password!942,SC,Academic Magnet High School,North Charleston,SC,3.2,2027,Vision Science/Physiological Optics,,580,540,18,17,17,21,18,,,,,,,,,,0
+user943,Password!943,KS,Blue Valley North High School,Overland Park,KS,3.2,2024,Sculpture,,500,540,19,19,21,20,20,,,,,,,,,,0
+user944,Password!944,MN,Eagan Senior High School,Eagan,MN,3.2,2024,Family Resource Management Studies,,530,520,19,20,18,19,19,,,,,,,,,,0
+user945,Password!945,WA,Bellevue High School,Bellevue,WA,3,2024,Latin Teacher Education,,540,510,20,22,21,19,21,,,,,,,,,,0
+user946,Password!946,MA,Lexington High School,Lexington,MA,2.9,2024,Public Relations/Image Management,,550,520,18,19,17,21,19,,,,,,,,,,0
+user947,Password!947,PA,Radnor Senior High School,Radnor,PA,3.3,2027,Hebrew Language and Literature,,560,550,20,18,20,18,19,,,,,,,,,,0
+user948,Password!948,MS,The Mississippi School for Mathematics and Science,Columbus,MS,3.2,2024,Philosophy and Religious Studies,,530,570,18,21,20,17,19,,,,,,,,,,0
+user949,Password!949,TX,Carroll Senior High School,Southlake,TX,3,2024,Cell/Cellular Biology and Histology,,520,540,19,20,18,19,19,,,,,,,,,,0
+user950,Password!950,PA,Radnor Senior High School,Radnor,PA,3.2,2024,Natural Resources Management and Policy,,510,570,16,19,20,19,19,,,,,,,,,,0
+user951,Password!951,PA,Radnor Senior High School,Radnor,PA,3.1,2024,Secondary Education and Teaching,,510,530,18,20,20,20,20,,,,,,,,,,0
+user952,Password!952,WI,Whitefish Bay High School,Whitefish Bay,WI,3.1,2025,Occupational Safety and Health Technology/Technician,,540,530,20,20,18,21,20,,,,,,,,,,0
+user953,Password!953,MI,International Academy,Bloomfield Hills,MI,3.3,2025,International Relations and Affairs,,540,500,20,18,18,19,19,,,,,,,,,,0
+user954,Password!954,AZ,BASIS Tucson North,Tucson,AZ,3.3,2024,Humanities/Humanistic Studies,,530,540,18,19,22,20,20,,,,,,,,,,0
+user955,Password!955,MA,Lexington High School,Lexington,MA,3.2,2026,Photographic and Film/Video Technology/Technician and Assistant,,510,520,17,20,18,18,18,,,,,,,,,,0
+user956,Password!956,VA,McLean High School,McLean,VA,3.2,2025,Journalism,,500,540,18,19,19,16,18,,,,,,,,,,0
+user957,Password!957,CA,Canyon Crest Academy,San Diego,CA,3.1,2027,Chemical Physics,,590,550,18,22,19,19,20,,,,,,,,,,0
+user958,Password!958,MI,International Academy,Bloomfield Hills,MI,3,2025,Radio and Television,,570,500,18,18,20,20,19,,,,,,,,,,0
+user959,Password!959,MA,Lexington High School,Lexington,MA,3.2,2026,Organizational Leadership,,520,540,18,19,19,18,19,,,,,,,,,,0
+user960,Password!960,GA,Walton High School,Marietta,GA,3.3,2026,Ceramic Arts and Ceramics,,510,520,17,18,20,19,19,,,,,,,,,,0
+user961,Password!961,AR,Haas Hall Academy,Fayetteville,AR,3.2,2026,Asian-American Studies,,500,560,21,18,23,17,20,,,,,,,,,,0
+user962,Password!962,SC,Academic Magnet High School,North Charleston,SC,3.3,2024,Scandinavian Studies,,560,490,21,20,19,17,19,,,,,,,,,,0
+user963,Password!963,AR,Haas Hall Academy,Fayetteville,AR,3.2,2025,Natural Resources Law Enforcement and Protective Services,,570,520,19,16,19,20,19,,,,,,,,,,0
+user964,Password!964,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.1,2026,Social Science Teacher Education,,540,580,15,19,19,19,18,,,,,,,,,,0
+user965,Password!965,AR,Haas Hall Academy,Fayetteville,AR,2.8,2024,South Asian Studies,,520,570,20,19,22,20,20,,,,,,,,,,0
+user966,Password!966,SC,Academic Magnet High School,North Charleston,SC,3.3,2024,Christian Studies,,560,540,20,20,18,20,20,,,,,,,,,,0
+user967,Password!967,NY,Brooklyn Technical High School,Brooklyn,NY,3,2024,"Crafts/Craft Design, Folk Art and Artisanry",,540,500,20,22,20,19,20,,,,,,,,,,0
+user968,Password!968,MS,The Mississippi School for Mathematics and Science,Columbus,MS,2.9,2024,Optics/Optical Sciences,,490,540,19,20,18,19,19,,,,,,,,,,0
+user969,Password!969,CA,Canyon Crest Academy,San Diego,CA,3.3,2026,Financial Planning and Services,,580,500,19,18,20,16,18,,,,,,,,,,0
+user970,Password!970,NY,Brooklyn Technical High School,Brooklyn,NY,3.2,2026,Biostatistics,,510,560,19,19,18,19,19,,,,,,,,,,0
+user971,Password!971,WI,Whitefish Bay High School,Whitefish Bay,WI,3.1,2027,"City/Urban, Community and Regional Planning",,520,550,21,17,19,19,19,,,,,,,,,,0
+user972,Password!972,NH,Hanover High School,Hanover,NH,3.4,2024,Nursing Administration,,510,510,19,20,22,20,20,,,,,,,,,,0
+user973,Password!973,SC,Academic Magnet High School,North Charleston,SC,3.3,2024,School Librarian/School Library Media Specialist,,530,560,20,19,18,20,19,,,,,,,,,,0
+user974,Password!974,NY,Brooklyn Technical High School,Brooklyn,NY,3.3,2025,Exercise Physiology,,570,550,17,20,20,18,19,,,,,,,,,,0
+user975,Password!975,IL,Illinois Mathematics and Science Academy,Aurora,IL,3.1,2027,Child Care and Support Services Management,,490,550,19,18,18,20,19,,,,,,,,,,0
+user976,Password!976,VA,McLean High School,McLean,VA,3.1,2025,"Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",,540,510,19,18,21,18,19,,,,,,,,,,0
+user977,Password!977,NY,Brooklyn Technical High School,Brooklyn,NY,3.2,2025,"Fiber, Textile and Weaving Arts",,500,490,19,18,20,21,20,,,,,,,,,,0
+user978,Password!978,AZ,BASIS Tucson North,Tucson,AZ,2.9,2025,Political Communication,,590,540,20,18,20,18,19,,,,,,,,,,0

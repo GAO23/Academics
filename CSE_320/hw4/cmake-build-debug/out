@@ -1,0 +1,2 @@
+root:x:0:0:root:/root:/bin/bash
+xgao:x:1000:1000:GAO,,,:/home/xgao:/bin/bash

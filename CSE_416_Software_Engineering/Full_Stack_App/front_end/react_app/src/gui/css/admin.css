@@ -1,0 +1,277 @@
+.nav-tabs, .nav-content{
+    margin:auto;
+    width: 1020px;
+    min-width: 1020px;
+    padding-top:50px;    
+}
+.nav-content{
+    background-color: white;
+    height: 80vh;
+    padding: 20px;
+}
+/* tabs */
+.nav-link, .nav-item{
+    background-color: white;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    border-color: gray 0px 0px 1px 0px;
+}
+.nav{border-bottom-style: double;}
+.nav-item:nth-child(1){border-radius: 2px 0px 0px 2px;}
+.nav-link:nth-child(3), .nav-item:nth-child(3){flex:2;}
+.nav-link:nth-child(4), .nav-item:nth-child(4){
+    flex:2;
+    border-radius: 0px 2px 2px 0px;
+}
+/* tabs */
+
+/* scrape, import */
+.scrape > div, .import > div{ margin-bottom: 50px; }
+.scrape > div > div, .import > div > div {   
+    display: flex;
+    justify-content: space-between;
+}
+/* scrape, import */
+
+/* review */
+.review > div:nth-child(1){margin-bottom: 20px;text-align: end;}
+#questionable-list{overflow-y: auto;height: 60vh;}
+#questionable-list > button{
+    display: flex;
+    justify-content: space-between;
+}
+#questionable-list .username, #questionable-list .high-school{
+    flex:5;
+    cursor: pointer;
+}
+#questionable-list .high-school{text-align: end;}
+.questionable-checkbox{margin-right: 20px;}
+/* review */
+
+
+
+/***************************************************************************************************************************************************************/
+
+/*These are the commons.css for admin*/
+
+/* common */
+body, html {
+    font-family: 'Actor';
+}
+body {
+    padding: 0;
+    margin: 0;
+    min-width: 1280px;
+}
+button, a{
+    border: none;
+}
+select, button, a, label.custom-control-label{
+    cursor: pointer;
+}
+a:focus, button:focus, input:focus {
+    outline: none;
+}
+button:disabled {
+    cursor: default;
+}
+select{
+    background-color: white;
+    outline: transparent;
+    border-radius: 1px;
+    border-radius: 5px;
+    border-color: rgb(207, 207, 207);
+}
+.overflow-hidden{overflow: hidden;}
+/* common */
+
+/* dashboard */
+.wrap-dashboard{
+    width: 100%;
+}
+.left-menu{
+    width:15%;
+    min-width: 150px;
+    height: 100vh;
+    justify-content: space-around;
+    display:flex;
+    flex-direction:column;
+    background:#fff;
+    z-index:999;
+    box-shadow: 0 0 5px 3px rgba(151, 151, 153, 0.7);
+    position: fixed;
+    left:0;
+}
+.right-content{
+    height:100vh;
+    padding-left: 200px;
+    background-color: #d7d9fff7;
+    overflow: auto;
+    min-width: 800px;
+}
+.wrap-search-result{
+    margin:auto;
+    width: 80%;
+    padding-top:10%;
+    min-width: 800px;
+}
+.wrap-search-filters{
+    margin-bottom: 10%;
+    display: grid;
+    position: relative;
+    min-width: 800px;
+}
+
+/* left menu */
+/* logo */
+.wrap-logo{
+    text-align: center;
+}
+.logo{
+    width: 50%;
+    line-height: 1.2;
+}
+/* logo */
+
+
+/* icon */
+.wrap-icon{
+    width: auto;
+    padding-bottom: 10px;
+}
+.wrap-icon > img{
+    width:20%;
+}
+/* icon */
+
+/* menu */
+.left-menu button{
+    background-color: transparent;
+    border: transparent;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.left-menu button:hover{
+    background-color: #d1d3faf7;
+}
+.left-menu button[chosen="true"]{
+    background-color: #b4b6fcf7;
+}
+/* menu */
+
+/* left menu */
+
+/* right content */
+/* filters */
+.filters-dropdown{
+    width: 90%;
+    float: left;
+}
+#filters-dropdown-content{
+    padding: 20px 30px 20px 30px;
+    max-width: 90%;
+}
+#filters-dropdown-btn{
+    width: 100%;
+}
+#filters-dropdown-content{
+    border-style: groove;
+    position: absolute;
+    z-index: 2;
+    display:flex;
+    flex-direction:column;
+    width: 100%;
+    margin: 0;
+    background-color: white;
+    border-radius: 0px 0px 10px 10px;
+    display: none;
+}
+.filters-radio{
+    float: right;
+    width: 10%;
+    padding-left: 20px;
+}
+label[for="strict"],label[for="lax"]{cursor: pointer;}
+/* filters */
+
+/* result */
+.wrap-result{
+    position: relative;
+}
+.wrap-result-top{
+    display: flex;
+    align-items: center;
+}
+.result-text{
+    font-weight: bold;
+    font-size: 30px;
+}
+.list-group-item{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+.list-group-item:hover{
+    background-color: #c3c5f7f7;
+}
+.item-info{
+    flex-direction:column;
+    padding: 2% 0% 2% 3%;
+    background-color: #a4a7fcf7;
+    display: none;
+}
+.pagination{
+    place-content: center;
+    margin-top: 10px;
+}
+.page-item > button.active{
+    color: white;
+    background-color: #007bff;
+}
+/* result */
+/* carousel */
+.carousel{
+    height: 200px;
+    background-color: #a4a7fcf7;
+    display: none;
+}
+.carousel-inner > .carousel-item:nth-child(1) >{
+    display: flex;
+    flex-direction: column;
+}
+.carousel-item b{
+    font-size: 20px;
+}
+.carousel-control-prev, .carousel-control-next{
+    width: 50px;
+}
+.act{
+    padding: 20px 50px 20px 50px;
+}
+.sat2, .personal{
+    padding: 20px 50px 20px 50px;
+}
+.personal > table{
+    display: block;
+}
+.personal > table > tbody{
+    vertical-align: bottom;
+}
+.personal > table > tbody > tr > td:nth-child(1){
+    width: 130px;
+}
+.personal > table > tbody > tr > td:nth-child(2){
+    width: 100px;
+}
+.personal > table > tbody > tr > td:nth-child(3){
+    width: 100px;
+}
+.personal > table > tbody > tr > td:nth-child(4){
+    width: fit-content;
+}
+.sat2 > table > tbody > tr > td > label, .act > table > tbody > tr > td > label{
+    margin-right: 30px;
+}
+/* carousel */
+/* right content */

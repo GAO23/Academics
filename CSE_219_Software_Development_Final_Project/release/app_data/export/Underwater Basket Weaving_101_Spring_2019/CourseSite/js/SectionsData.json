@@ -1,0 +1,42 @@
+
+{
+    "lectures":[
+        {
+            "section":"KKK",
+            "days":"Good Day",
+            "time":"Dinner Time",
+            "room":"Sushi Buffet Resturant"
+        },
+        {
+            "section":"TTT",
+            "days":"Bad Day",
+            "time":"CSE 219 Debugging Time",
+            "room":"My mother's basement"
+        }
+    ],
+    "recitations":[
+        {
+            "section":"Rainbow",
+            "day_time":"Deathday",
+            "location":"Torture Chamber",
+            "ta_1":"Jesus Christ",
+            "ta_2":"Evil Pizza"
+        },
+        {
+            "section":"Hell",
+            "day_time":"Doomsday",
+            "location":"Space and Time Rift",
+            "ta_1":"Donald J. Trump's pet cat",
+            "ta_2":"Sneaky Ninja"
+        }
+    ],
+    "labs":[
+        {
+            "lab_section":"No Lab",
+            "lab_days_and_time":"No Time",
+            "lab_room":"No Room",
+            "lab_ta1":"No TA",
+            "lab_ta2":"No TA"
+        }
+    ]
+}

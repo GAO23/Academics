@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file provides all the text to be used when the application
+    is to be displayed in English.
+-->
+<properties>
+    <property_list>
+
+        <!-- ENGLISH LANGUAGE SETTINGS FOR DESKTOP JAVA FRAMEWORK CONTROLS -->
+
+        <!-- WELCOME DIALOG TEXT -->
+        <property name="WELCOME_DIALOG_TITLE"               value="Welcome to Course Site Generator"></property>
+        <property name="WELCOME_DIALOG_RECENT_WORK_LABEL"   value="Recent Work"></property>
+        <property name="WELCOME_DIALOG_NEW_BUTTON_TEXT"  value="Create New Course Site Generator"></property>
+
+        <!-- GENERIC APP ERROR MESSAGES -->
+        <property name="APP_ERROR_TITLE"            value="Application Error"></property>
+        <property name="APP_ERROR_CONTENT"          value="An Error Occured in the Application"></property>
+
+        <!-- PROPERTIES ERROR MESSAGES -->
+        <property name="PROPERTIES_ERROR_TITLE"     value="Properties File Error"></property>
+        <property name="PROPERTIES_ERROR_CONTENT"   value="There was an Error Loading a Properties File"></property>
+
+        <!-- FILE TOOLBAR TOOLTIPS -->
+        <property name="NEW_BUTTON_TOOLTIP"         value="New Office Hours"></property>
+        <property name="LOAD_BUTTON_TOOLTIP"        value="Load Office Hours"></property>
+        <property name="CLOSE_BUTTON_TOOLTIP"       value="Close Office Hours"></property>
+        <property name="SAVE_BUTTON_TOOLTIP"        value="Save Office Hours"></property>
+        <property name="EXPORT_BUTTON_TOOLTIP"      value="Export Office Hours"></property>
+        <property name="EXIT_BUTTON_TOOLTIP"        value="Exit"></property>
+        <property name="GENERATOR_OH_TA_EXPAND_BUTTON_TEXT"        value="-"></property>
+        <property name="GENERATOR_OH_START_TIME_LABEL_TEXT"        value="Start Time:"></property>
+        <property name="GENERATOR_OH_END_TIME_LABEL_TEXT"        value="End Time:"></property>
+        <property name="GENERATOR_OH_START_TIME_DEFAULT"        value="9:00am"></property>
+        <property name="GENERATOR_OH_END_TIME_DEFAULT"        value="9:00pm"></property>
+        <property name="GENERATOR_SUBEJECT_DEFAULT"              value="CSE"></property>
+        <property name="GENERATOR_SYLLABUS_DESCRIPTION_LABEL_TEXT"              value="Description:"></property>
+        <property name="GENERATOR_SYLLABUS_TOPIC_LABEL_TEXT"              value="Topics:"></property>
+        <property name="GENERATOR_SYLLABUS_PERE_LABEL_TEXT"              value="Perequisites:"></property>
+        <property name="GENERATOR_SYLLABUS_OUT_LABEL_TEXT"              value="Outcomes:"></property>
+        <property name="GENERATOR_SYLLABUS_BOOK_LABEL_TEXT"              value="Textbooks:"></property>
+        <property name="GENERATOR_SYLLABUS_GRADE_LABEL_TEXT"              value="Graded Components:"></property>
+        <property name="GENERATOR_SYLLABUS_NOTE_LABEL_TEXT"              value="Grading Note:"></property>
+        <property name="GENERATOR_SYLLABUS_DISHONESTY_LABEL_TEXT"              value="Academic Dishonesty:"></property>
+        <property name="GENERATOR_SYLLABUS_ASIS_LABEL_TEXT"              value="Special Asistance:"></property>
+        <property name="GENERATOR_SCHEDULE_ITEM_EXPAND_LABEL_TEXT"              value="Schedule Items"></property>
+        <property name="GENERATOR_SCHEDULE_TYPE_COMBO_DEAFULT"              value="Holiday"></property>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <!-- CLIPBOARD TOOLBAR TOOLTIPS -->
+        <property name="CUT_BUTTON_TOOLTIP"         value="Cut"></property>
+        <property name="COPY_BUTTON_TOOLTIP"        value="Copy"></property>
+        <property name="PASTE_BUTTON_TOOLTIP"       value="Paste"></property>
+
+        <!-- UNDO TOOLBAR TOOLTIPS -->
+        <property name="UNDO_BUTTON_TOOLTIP"        value="Undo"></property>
+        <property name="REDO_BUTTON_TOOLTIP"        value="Redo"></property>
+
+        <!-- HELP TOOLBAR TOOLTIPS -->
+        <property name="HELP_BUTTON_TOOLTIP"        value="Help"></property>
+        <property name="LANGUAGE_BUTTON_TOOLTIP"    value="Change Langauge"></property>
+        <property name="ABOUT_BUTTON_TOOLTIP"       value="About"></property>
+
+        <!-- NEW FEEDBACK DIALOGS -->	
+        <property name="NEW_SUCCESS_TITLE"      value="New Complete"></property>
+        <property name="NEW_SUCCESS_CONTENT"	value="Work Created but not yet Saved"></property>
+        <property name="NEW_ERROR_TITLE"        value="Warning: Error"></property>
+        <property name="NEW_ERROR_CONTENT"      value="An error occured creating New work."></property>
+
+        <!-- LOAD FEEDBACK DIALOGS -->
+        <property name="LOAD_WORK_TITLE"        value="Load Work"></property>
+        <property name="LOAD_SUCCESS_TITLE"     value="Load Complete"></property>
+        <property name="LOAD_SUCCESS_CONTENT"   value="The File has Loaded Successfully and can now be edited."></property>
+        <property name="LOAD_ERROR_TITLE"       value="Loading Error"></property>        
+        <property name="LOAD_ERROR_CONTENT"     value="Loading has Failed. Likely there is a File Formating problem."></property>
+
+        <!-- SAVE FEEDBACK DIALOGS -->
+        <property name="SAVE_WORK_TITLE"        value="Save Work"></property>
+        <property name="SAVE_SUCCESS_TITLE"     value="Save Complete"></property>
+        <property name="SAVE_SUCCESS_CONTENT"   value="The file is saved."></property>
+        <property name="SAVE_ERROR_TITLE"       value="Save Error"></property>
+        <property name="SAVE_ERROR_CONTENT"     value="Saving has Failed. Likely due to a file access problem."></property>
+        <property name="SAVE_VERIFY_TITLE"	value="Save unsaved work?"></property>
+        <property name="SAVE_VERIFY_CONTENT"	value="Would you like to save your unsaved work first?"></property>
+        <property name="OH_ALL_RADIO_BUTTON_TEXT"                value="All"></property>
+        <property name="OH_GRAD_RADIO_BUTTON_TEXT"               value="Graduate"></property>
+        <property name="OH_UNDERGRAD_RADIO_BUTTON_TEXT"          value="Undergraduate"></property>
+
+        <!-- ABOUT DIALOG -->
+        <property name="ABOUT_TITLE"            value="About OH"></property>
+        <property name="ABOUT_CONTENT"          value="OH, the Office Hours Manager - Debugging Enterprises - © 2018"></property>
+
+
+        <!-- ENGLISH LANGUAGE SETTINGS SPECIFICALLY FOR TDLM CONTROLS -->
+
+        <!-- LANGUAGE-DEPENDENT TEXT FOR OH WORKSPACE CONTROLS -->
+        <property name="OH_TAS_HEADER_LABEL_TEXT"           value="TAs"></property>
+        <property name="OH_NAME_TEXT_FIELD_PROMPT_TEXT"            value="Name"></property>
+        <property name="OH_EMAIL_TEXT_FIELD_PROMPT_TEXT"           value="Email"></property>
+        <property name="OH_ADD_TA_BUTTON_TEXT"              value="Add TA"></property>
+        <property name="OH_OFFICE_HOURS_HEADER_LABEL_TEXT"  value="Office Hours"></property>
+        <property name="OH_NAME_TABLE_COLUMN_TEXT"          value="Name"></property>
+        <property name="OH_EMAIL_TABLE_COLUMN_TEXT"         value="Email"></property>
+        <property name="OH_SLOTS_TABLE_COLUMN_TEXT"         value="Time Slots"></property>
+        <property name="OH_TYPE_TABLE_COLUMN_TEXT"          value="Type"></property>
+        <property name="GENERATOR_SCHEDULE_TYPE_COLUMN_TEXT"          value="Type"></property>
+        <property name="GENERATOR_SCHEDULE_DATE_COLUMN_TEXT"          value="Date"></property>
+        <property name="GENERATOR_SCHEDULE_TITLE_COLUMN_TEXT"          value="Title"></property>
+        <property name="GENERATOR_SCHEDULE_TOPIC_COLUMN_TEXT"          value="Topic"></property>
+        <property name="GENERATOR_SCHEDULE_ADD_LABEL_TEXT"          value="Add/Edit"></property>
+        <property name="GENERATOR_SCHEDULE_TYPE_LABEL_TEXT"          value="Type:"></property>
+        
+        <property name="GENERATOR_SEC_TABLE_COLUMN_TEXT"          value="Section"></property>
+         <property name="GENERATOR_DAY_TABLE_COLUMN_TEXT"          value="Days"></property>
+         <property name="GENERATOR_TIME_TABLE_COLUMN_TEXT"          value="Time"></property>
+         <property name="GENERATOR_MEETING_LAB_LABEL_TEXT"          value="Labs"></property>
+        <property name="GENERATOR_TA1_TABLE_COLUMN1_TEXT"          value="TA1"></property>
+          <property name="GENERATOR_ROOM2_TABLE_COLUMN_TEXT"          value="Room"></property>
+         <property name="GENERATOR_TA2_TABLE_COLUMN1_TEXT"          value="TA2"></property>
+         <property name="GENERATOR_SCHEDULE_CALENDER_HEADER_TEXT"          value="Caledner Boudaries"></property>
+         <property name="GENERATOR_SCHEDULE_STARTING_LABEL_TEXT"          value="Starting Monday:"></property>
+         <property name="GENERATOR_SCHEDULE_STARTING_COMBO_DEFAULT"          value="01/01/2018"></property>
+         
+        <property name="GENERATOR_ROOM_TABLE_COLUMN_TEXT"          value="Room"></property>
+        <property name="GENERATOR_SEC1_TABLE_COLUMN_TEXT"          value="Section"></property>
+        <property name="GENERATOR_MEETING_RECITATION_LABEL_TEXT"          value="Recitations"></property>
+        <property name="GENERATOR_SEC2_TABLE_COLUMN_TEXT"          value="Section"></property>
+        <property name="GENERATOR_DAY2_TABLE_COLUMN_TEXT"          value="Days and Time"></property>
+         <property name="GENERATOR_DAY1_TABLE_COLUMN_TEXT"          value="Days and Time"></property>
+         <property name="GENERATOR_ROOM1_TABLE_COLUMN_TEXT"          value="Room"></property>
+         <property name="GENERATOR_TA1_TABLE_COLUMN_TEXT"          value="TA1"></property>
+         <property name="GENERATOR_TA2_TABLE_COLUMN_TEXT"          value="TA2"></property>
+        <property name="OH_START_TIME_TABLE_COLUMN_TEXT"    value="Start Time"></property>
+        <property name="OH_END_TIME_TABLE_COLUMN_TEXT"      value="End Time"></property>
+        <property name="OH_MONDAY_TABLE_COLUMN_TEXT"        value="Monday"></property>
+        <property name="OH_TUESDAY_TABLE_COLUMN_TEXT"       value="Tuesday"></property>
+        <property name="OH_WEDNESDAY_TABLE_COLUMN_TEXT"     value="Wednesday"></property>
+        <property name="OH_THURSDAY_TABLE_COLUMN_TEXT"      value="Thursday"></property>
+        <property name="OH_FRIDAY_TABLE_COLUMN_TEXT"        value="Friday"></property>
+        <property name="GENERATOR_OH_TAB_TEXT"              value="Officer Hour"></property>
+        <property name="GENERATOR_SITE_TAB_TEXT"              value="Site"></property>
+        <property name="GENERATOR_SYLLABUS_TAB_TEXT"              value="Syllabus"></property>
+        <property name="GENERATOR_MEETING_TAB_TEXT"              value="Meeting Times"></property>
+        <property name="GENERATOR_SCHEDULE_TAB_TEXT"              value="Schedule"></property>
+        <property name="GENERATOR_SITE_SUBJECT_LABEL_TEXT"              value="Subject:"></property>
+        <property name="GENERATOR_SITE_BANNER_HEADER_TEXT"              value="Banner"></property>
+        <property name="GENERATOR_SITE_NUMBER_LABEL_TEXT"              value="Number:"></property>
+        <property name="GENERATOR_SITE_SEMESTER_LABEL_TEXT"              value="Semester:"></property>
+        <property name="GENERATOR_SEMESTER_DEFAULT"              value="Fall"></property>
+        <property name="GENERATOR_NUMBER_DEFAULT"              value="Fall"></property>
+        <property name="GENERATOR_NUMBER_DEFAULT"              value="219"></property>
+        <property name="GENERATOR_SITE_YEAR_LABEL_TEXT"              value="Year:"></property>
+        <property name="GENERATOR_YEAR_DEFAULT"              value="2018"></property>
+        <property name="GENERATOR_SITE_PAGE_HEADER_TEXT"              value="Pages"></property>
+        <property name="GENERATOR_SITE_HOME_CHECKBOX_TEXT"              value="Home"></property>
+        <property name="GENERATOR_SITE_SYLLABUS_CHECKBOX_TEXT"              value="Syllabus"></property>
+        <property name="GENERATOR_SITE_SCHEDULE_CHECKBOX_TEXT"              value="Schedule"></property>
+        <property name="GENERATOR_SITE_HOMEWORK_CHECKBOX_TEXT"              value="HWs"></property>
+        <property name="SITE_FAVICON_BUTTON_TEXT"              value="Favicon:"></property>
+        <property name="SITE_FAVICON_ICON"              value="SITE_FAVICON.png"></property>
+         <property name="SITE_NAVBAR_BUTTON_TEXT"              value="Navbar Image:"></property>
+         <property name="SITE_NAVICON_ICON"              value="SITE_NAVICON_ICON.png"></property>
+         <property name="GENERATOR_SITE_STYLE_HEADER_TEXT"              value="Style"></property>
+         <property name="SITE_LEFT_FOOTER_BUTTON_TEXT"              value="Left Footer Image:"></property>
+         <property name="SITE_LEFT_FOOTERCON_ICON"              value="SITE_LEFT_FOOTERCON_ICON.png"></property>
+         <property name="SITE_RIGHT_FOOTER_BUTTON_TEXT"              value="Right Footer Image:"></property>
+         <property name="SITE_RIGHT_FOOTERCON_ICON"              value="SITE_RIGHT_FOOTERCON_ICON.png"></property>
+         <property name="GENERATOR_SITE_FONTCOLOR_SUBHEADER_TEXT"              value="Fonts and Colors Style Sheet:"></property>
+         <property name="GENERATOR_CSS_DEFAULT"              value="sea_wolf.css"></property>
+         <property name="GENERATOR_SITE_NOTE_SUBHEADER_TEXT"              value="Note: Stylesheets should not be placed inside work/css to be selectable"></property>
+         <property name="GENERATOR_SITE_INSTRUCTOR_HEADER_TEXT"              value="Instructor"></property>
+         <property name="GENERATOR_SITE_NAME_LABEL_TEXT"              value="Name:"></property>
+         <property name="GENERATOR_SITE_EMAIL_LABEL_TEXT"              value="Email:"></property>
+         <property name="GENERATOR_SITE_ROOM_LABEL_TEXT"              value="Room:"></property>
+         <property name="GENERATOR_SITE_HOME_PAGE_LABEL_TEXT"              value="Home Page:"></property>
+         <property name="GENERATOR_SITE_OFFICE_HOURS_LABEL_TEXT"              value="Office Hours"></property>
+         <property name="GENERATOR_MEETING_LECTURE_LABEL_TEXT"              value="Lectures"></property>
+         <property name="GENERATOR_SCHEDULE_ENDING_LABEL_TEXT"              value="Ending Friday:"></property>
+         <property name="GENERATOR_SCHEDULE_ENDING_COMBO_DEFAULT"              value="12/31/2018"></property>
+         <property name="GENERATOR_SCHEDULE_DATE_LABEL_TEXT"              value="Date:"></property>
+         <property name="GENERATOR_SCHEDULE_DATE_COMBO_DEAFULT"              value="01/01/2018"></property>
+         <property name="GENERATOR_SCHEDULE_TITLE_LABEL_TEXT"              value="Title:"></property>
+         <property name="GENERATOR_SCHEDULE_TOPIC_LABEL_TEXT"              value="Topic:"></property>
+         <property name="GENERATOR_SCHEDULE_LINK_LABEL_TEXT"              value="Link:"></property>
+         <property name="GENERATOR_SCHEDULE_ADD_BUTTON_TEXT"              value="Add"></property>
+         <property name="GENERATOR_SCHEDULE_UPDATE_BUTTON_TEXT"              value="Update"></property>
+         <property name="GENERATOR_SCHEDULE_CLEAR_BUTTON_TEXT"              value="Clear"></property>
+         <property name="CHOOSE_AN_IMAGE_TEXT"              value="Choose an image"></property>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                      
+        
+        <!-- ERROR DIALOG -->
+        <property name="OH_NO_TA_SELECTED_TITLE"        value="No TA Selected"></property>
+        <property name="OH_NO_TA_SELECTED_CONTENT"      value="Toggle only possible if TA Selected"></property>
+        
+        <property name="OH_TA_DIALOG_HEADER_LABEL_TEXT" value="Edit Teaching Assistant"></property>
+        <property name="OH_TA_DIALOG_NAME_LABEL_TEXT" value="Name: "></property>
+        <property name="OH_TA_DIALOG_EMAIL_LABEL_TEXT" value="Email: "></property>
+        <property name="OH_TA_DIALOG_TYPE_LABEL_TEXT" value="Type: "></property>
+        <property name="OH_TA_DIALOG_GRAD_RADIO_BUTTON_TEXT" value="Graduate"></property>
+        <property name="OH_TA_DIALOG_UNDERGRAD_RADIO_BUTTON_TEXT" value="Undergraduate"></property>
+        <property name="OH_TA_DIALOG_OK_BUTTON_TEXT" value="Ok"></property>
+        <property name="OH_TA_DIALOG_CANCEL_BUTTON_TEXT" value="Cancel"></property>
+
+        <!-- TO SWITCH BACK TO ANOTHER LANGUAGE -->
+        <property name="LANGUAGE_DIALOG_TITLE"          value="App Language Selection"></property>
+        <property name="LANGUAGE_DIALOG_HEADER_TEXT"    value="Choose a Language"></property>
+        <property name="LANGUAGE_DIALOG_CONTENT_TEXT"   value="Select a Language for the User Interface."></property>
+
+        <property name="WORK_FILE_EXT"          value="*.ta"></property>
+	<property name="WORK_FILE_EXT_DESC"     value="Teaching Assistant Files"></property>
+
+    </property_list>
+    
+    <!-- TDLM COMBO BOX CHOICES -->
+    <property_options_list>
+        
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>English</option>
+            <option>Klingon</option>
+        </property_options>
+        
+         <property_options name="GENERATOR_SUBEJECT_OPTIONS">
+            <option>CSE</option>
+        </property_options>
+        
+         <property_options name="GENERATOR_SEMESTER_OPTIONS">
+            <option>Fall</option>
+            <option>Summer</option>
+            <option>Spring</option>
+            <option>Winter</option>
+        </property_options>
+        
+         <property_options name="GENERATOR_NUMBER_OPTIONS">
+            <option>219</option>
+        </property_options>
+        
+         <property_options name="GENERATOR_YEAR_OPTIONS">
+            <option>2018</option>
+        </property_options>
+        
+         <property_options name="GENERATOR_CSS_OPTIONS">
+            <option>sea_wolf.css</option>
+            <option>generator.css</option>
+        </property_options>
+        
+
+        
+        <property_options name="GENERATOR_SCHEDULE_TYPE_COMBO_OPTION">
+            <option>Holiday</option>
+            <option>Lecture</option>
+            <option>Reference</option>
+            <option>Recitation</option>
+            <option>HW</option>
+        </property_options>
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </property_options_list>
+    
+    
+</properties>
+
+

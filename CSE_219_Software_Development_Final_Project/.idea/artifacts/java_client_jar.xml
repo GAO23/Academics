@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_client_jar</output-path>
+    <root id="archive" name="java_client.jar">
+      <element id="module-output" name="java_client" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/org.json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/javax.json-1.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

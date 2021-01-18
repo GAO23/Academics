@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/debug.h
+stdio.h
+-
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/jobber.h
+sf_readline.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/sf_readline.h
+debug.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/debug.h
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/sf_readline.h
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/tests/hw4_tests.c
+criterion/criterion.h
+-
+criterion/logging.h
+-
+../include/jobber.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/jobber.h
+

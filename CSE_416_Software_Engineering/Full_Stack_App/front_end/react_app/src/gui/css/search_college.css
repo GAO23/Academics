@@ -1,0 +1,82 @@
+/* filters */
+
+/***************************************************************** react fixes ******************************************************/
+#search-filters-dropdown-content td{
+    width: 33%;
+}
+
+
+#search-filters-dropdown-content{
+    padding: 20px 30px 20px 30px;
+    max-width: 90%;
+}
+
+#search-filters-dropdown-content{
+    border-style: groove;
+    position: absolute;
+    z-index: 2;
+    display:flex;
+    flex-direction:column;
+    width: 100%;
+    margin: 0;
+    background-color: white;
+    border-radius: 0px 0px 10px 10px;
+    display: none;
+}
+div.search-result-top > div{display: inline;position: absolute; right: 0;z-index: 1;}
+div.search-result-top > div > button {width: 204px;}
+/***************************************************************** react fixes ********************************************************/
+
+#ranking{width:200px;}
+.range{display: flex;}
+#admission-rate-min, #sat-ebrw-min, #sat-math-min, #act-composite-min{margin-right: 5px;}
+#admission-rate-max, #sat-ebrw-max, #sat-math-max, #act-composite-max{margin-left: 5px;}
+#admission-rate-min, #admission-rate-max, #major1, #major2, #size, #cost-of-attendance, #act-composite-min, #act-composite-max{width: 100px;height: 25px;}
+#sat-ebrw-min, #sat-ebrw-max, #sat-math-min, #sat-math-max{width: 115px;height: 25px;}
+#ranking-val{color: red;font-weight: bold;padding-left: 5px;}
+.slider {
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    cursor: pointer;
+}
+/* filters */
+
+/* result */
+
+.sort-option:hover{background-color: rgb(211, 210, 210);}
+.dropdown-menu{z-index: 1;}
+.sort-option:hover{background-color: rgb(211, 210, 210);}
+.college-name{color: black;width: 80%;cursor: pointer;}
+#college-list button a{min-width: 120px;}
+.item-info td{width: 25%;}
+.item-info td b{font-size: 20px;}
+/* result */
+
+
+#find-similar-applicants-modal > div{
+    left:50%; top:50%;
+    transform:translate(-50%,-50%);
+    width: 500px;height: 615px;
+    position: fixed;
+}
+
+#find-similar-applicants-modal > div > div{
+    height: 100%;
+}
+
+.similar-applicant-list{
+    height: 450px;
+    border-radius: 5px;
+    border: rgb(190, 190, 190) 1px solid;
+    overflow: auto;
+}
+
+.similar-applicant-list > div{
+    border-bottom: rgb(190, 190, 190) 1px solid;
+    width: 100%;
+    height: fit-content;
+}
+
+.similar-applicant-name{text-align: center;}
+.similar-applicant-info > ul{margin: 0;}

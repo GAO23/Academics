@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file provides all the text to be used when the application
+    is to be displayed in English.
+-->
+
+
+
+
+
+
+
+<properties>
+    <property_list>
+
+         
+        <property name="WELCOME_DIALOG_TITLE"               value="majQa' He Daq lIngwI'"></property>
+        <property name="WELCOME_DIALOG_RECENT_WORK_LABEL"   value="recent Qap"></property>
+        <property name="WELCOME_DIALOG_NEW_BUTTON_TEXT"  value="majQa' He Daq lIngwI'"></property>
+
+          
+        <property name="APP_ERROR_TITLE"            value="application Qagh"></property>
+        <property name="APP_ERROR_CONTENT"          value="Qagh occured neH Application"></property>
+
+         
+        <property name="PROPERTIES_ERROR_TITLE"     value="bang teywI' Qagh"></property>
+        <property name="PROPERTIES_ERROR_CONTENT"   value="tu'lu' Qagh Loading bang teywI'"></property>
+
+       
+        <property name="NEW_BUTTON_TOOLTIP"         value="rep mIw'e' chu'"></property>
+        <property name="LOAD_BUTTON_TOOLTIP"        value="load mIw'e' rep"></property>
+        <property name="CLOSE_BUTTON_TOOLTIP"       value="SoQ mIw'e' rep"></property>
+        <property name="SAVE_BUTTON_TOOLTIP"        value="mIw'e' rep toD"></property>
+        <property name="EXPORT_BUTTON_TOOLTIP"      value="export mIw'e' rep"></property>
+        <property name="EXIT_BUTTON_TOOLTIP"        value="mej"></property>
+
+         
+        <property name="CUT_BUTTON_TOOLTIP"         value="chIp"></property>
+        <property name="COPY_BUTTON_TOOLTIP"        value="copy"></property>
+        <property name="PASTE_BUTTON_TOOLTIP"       value="paste"></property>
+
+      
+        <property name="UNDO_BUTTON_TOOLTIP"        value="Ha'"></property>
+        <property name="REDO_BUTTON_TOOLTIP"        value="redo"></property>
+
+     
+        <property name="HELP_BUTTON_TOOLTIP"        value="QaH"></property>
+        <property name="LANGUAGE_BUTTON_TOOLTIP"    value="choH langauge"></property>
+        <property name="ABOUT_BUTTON_TOOLTIP"       value="umqu' ghot"></property>
+
+  	
+        <property name="NEW_SUCCESS_TITLE"      value="chu' naQ"></property>
+        <property name="NEW_SUCCESS_CONTENT"	value="Qap chenmoH 'ach wej toD"></property>
+        <property name="NEW_ERROR_TITLE"        value="ghuHmoH: Qagh"></property>
+        <property name="NEW_ERROR_CONTENT"      value="chenmoH chu' Qap qaS Qagh."></property>
+
+ 
+        <property name="LOAD_WORK_TITLE"        value="Qap load"></property>
+        <property name="LOAD_SUCCESS_TITLE"     value="load naQmoH wanI'mey"></property>
+        <property name="LOAD_SUCCESS_CONTENT"   value="chaq Loaded Successfully 'ej laH DaH edited teywI'."></property>
+        <property name="LOAD_ERROR_TITLE"       value="Qagh loading"></property>        
+        <property name="LOAD_ERROR_CONTENT"     value="luj loading. ghaytan pa' qay' teywI' Formating."></property>
+
+      
+        <property name="SAVE_WORK_TITLE"        value="Qap toD"></property>
+        <property name="SAVE_SUCCESS_TITLE"     value="toD naQmoH wanI'mey"></property>
+        <property name="SAVE_SUCCESS_CONTENT"   value="yemwI' teywI'."></property>
+        <property name="SAVE_ERROR_TITLE"       value="yemwI' teywI'."></property>
+        <property name="SAVE_ERROR_CONTENT"     value="luj saving. ghaytan muHIvtaHbogh teywI' naw' qay''a'."></property>
+        <property name="SAVE_VERIFY_TITLE"	value="toD, unsave vum?"></property>
+        <property name="SAVE_VERIFY_CONTENT"	value="unsave Qu'lIj toD wa'DIch rur SoH?"></property>
+        <property name="GENERATOR_SITE_TAB_TEXT"              value="olol"></property>
+        <property name="GENERATOR_SYLLABUS_TAB_TEXT"              value="xyz-CCC"></property>
+        <property name="GENERATOR_MEETING_TAB_TEXT"              value="livokoko"></property>
+        <property name="GENERATOR_SCHEDULE_TAB_TEXT"              value="kopako"></property>
+        <property name="GENERATOR_OH_START_TIME_LABEL_TEXT"        value="wafa kada:"></property>
+        <property name="GENERATOR_OH_END_TIME_LABEL_TEXT"        value="fata kada:"></property>
+         <property name="GENERATOR_OH_START_TIME_DEFAULT_TEXT"        value="9:00am"></property>
+        <property name="GENERATOR_OH_END_TIME_DEFAULT_TEXT"        value="9:00pm"></property>
+        <property name="SITE_LEFT_FOOTER_BUTTON_TEXT"              value="Lify Fo'ka Imei:"></property>
+        <property name="SITE_RIGHT_FOOTER_BUTTON_TEXT"              value="Ritty Ficky Icky:"></property>
+        <property name="GENERATOR_SITE_FONTCOLOR_SUBHEADER_TEXT"              value="Ficky and Cocky Sticky Shitty"></property>
+        <property name="GENERATOR_CSS_DEFAULT"              value="sea_wolf.css"></property>
+        <property name="SITE_FAVICON_ICON"              value="SITE_FAVICON.png"></property>
+        <property name="SITE_NAVICON_ICON"              value="SITE_NAVICON_ICON.png"></property>
+        <property name="SITE_LEFT_FOOTERCON_ICON"              value="SITE_LEFT_FOOTERCON_ICON.png"></property>
+        <property name="SITE_RIGHT_FOOTERCON_ICON"              value="SITE_RIGHT_FOOTERCON_ICON.png"></property>
+        <property name="GENERATOR_SITE_BANNER_HEADER_TEXT"              value="Bobby"></property>
+        <property name="GENERATOR_SCHEDULE_ITEM_EXPAND_LABEL_TEXT"              value="Scheibit Italia"></property>
+        <property name="GENERATOR_SCHEDULE_TYPE_COLUMN_TEXT"          value="Typo"></property>
+        <property name="GENERATOR_SCHEDULE_DATE_COLUMN_TEXT"          value="Dato"></property>
+        <property name="GENERATOR_SCHEDULE_TITLE_COLUMN_TEXT"          value="Tilly"></property>
+        <property name="GENERATOR_SCHEDULE_TOPIC_COLUMN_TEXT"          value="Tovad"></property>
+        <property name="GENERATOR_SCHEDULE_ADD_LABEL_TEXT"          value="Adden/Edden"></property>
+        <property name="GENERATOR_SCHEDULE_TYPE_LABEL_TEXT"          value="Typo:"></property>
+        <property name="GENERATOR_SCHEDULE_TYPE_COMBO_DEAFULT"              value="Otto"></property>
+        <property name="GENERATOR_TIME_TABLE_COLUMN_TEXT"          value="Timo"></property>
+
+     
+        <property name="ABOUT_TITLE"            value="vIHtaHbogh majQa'"></property>
+        <property name="ABOUT_CONTENT"          value="OH, the Office Hours Manager - Debugging Enterprises - © 2018"></property>
+
+
+   
+        <property name="OH_TAS_HEADER_LABEL_TEXT"           value="PNBs"></property>
+        <property name="OH_NAME_TEXT_FIELD_PROMPT_TEXT"            value="pong"></property>
+        <property name="OH_EMAIL_TEXT_FIELD_PROMPT_TEXT"           value="email"></property>
+        <property name="OH_ADD_TA_BUTTON_TEXT"              value="CHEL TA"></property>
+        <property name="OH_OFFICE_HOURS_HEADER_LABEL_TEXT"  value="mIw'e' rep"></property>
+        <property name="OH_NAME_TABLE_COLUMN_TEXT"          value="pong"></property>
+        <property name="OH_EMAIL_TABLE_COLUMN_TEXT"         value="email"></property>
+        <property name="OH_SLOTS_TABLE_COLUMN_TEXT"         value="poH Slots"></property>
+        <property name="OH_TYPE_TABLE_COLUMN_TEXT"          value="Typo"></property>
+        <property name="GENERATOR_SEC_TABLE_COLUMN_TEXT"          value="Sully"></property>
+        <property name="GENERATOR_DAY_TABLE_COLUMN_TEXT"          value="Daisy"></property>
+        <property name="GENERATOR_SEC1_TABLE_COLUMN_TEXT"          value="Sully"></property>
+        <property name="GENERATOR_ROOM1_TABLE_COLUMN_TEXT"          value="Romo"></property>
+        <property name="GENERATOR_TA1_TABLE_COLUMN_TEXT"          value="TA1"></property>
+        <property name="GENERATOR_TA2_TABLE_COLUMN_TEXT"          value="TA2"></property>
+         <property name="GENERATOR_DAY1_TABLE_COLUMN_TEXT"          value="Daisy n' Tim"></property>
+          <property name="GENERATOR_TIME_TABLE_COLUMN_TEXT"          value="Tim"></property>
+        <property name="OH_START_TIME_TABLE_COLUMN_TEXT"    value="start poH"></property>
+        <property name="OH_END_TIME_TABLE_COLUMN_TEXT"      value="'o'megh poH"></property>
+        <property name="OH_MONDAY_TABLE_COLUMN_TEXT"        value="monday"></property>
+        <property name="OH_TUESDAY_TABLE_COLUMN_TEXT"       value="tuesday"></property>
+        <property name="OH_WEDNESDAY_TABLE_COLUMN_TEXT"     value="wednesday"></property>
+        <property name="OH_THURSDAY_TABLE_COLUMN_TEXT"      value="thursday"></property>
+        <property name="OH_FRIDAY_TABLE_COLUMN_TEXT"        value="friday"></property>
+        <property name="GENERATOR_OH_TAB_TEXT"              value="mIw'e' rep"></property>
+        <property name="OH_ALL_RADIO_BUTTON_TEXT"                value="Ai"></property>
+        <property name="OH_GRAD_RADIO_BUTTON_TEXT"               value="Lilo"></property>
+        <property name="OH_UNDERGRAD_RADIO_BUTTON_TEXT"          value="Kilo"></property>
+        <property name="GENERATOR_SITE_SUBJECT_LABEL_TEXT"              value="Pico:"></property>
+        <property name="GENERATOR_SUBEJECT_DEFAULT"              value="CSE"></property>
+         <property name="GENERATOR_SITE_NUMBER_LABEL_TEXT"              value="Noko:"></property>
+         <property name="GENERATOR_SITE_SEMESTER_LABEL_TEXT"              value="Seshe:"></property>
+         <property name="GENERATOR_SEMESTER_DEFAULT"              value="Fall"></property>
+         <property name="GENERATOR_NUMBER_DEFAULT"              value="219"></property>
+         <property name="GENERATOR_SITE_YEAR_LABEL_TEXT"              value="No'pa:"></property>
+         <property name="GENERATOR_YEAR_DEFAULT"              value="2018"></property>
+         <property name="GENERATOR_SITE_PAGE_HEADER_TEXT"              value="Pasa"></property>
+         <property name="GENERATOR_SITE_HOME_CHECKBOX_TEXT"              value="Har'da"></property>
+         <property name="GENERATOR_SITE_SYLLABUS_CHECKBOX_TEXT"              value="Sapita"></property>
+        <property name="GENERATOR_SITE_SCHEDULE_CHECKBOX_TEXT"              value="Showes"></property>
+        <property name="GENERATOR_SITE_HOMEWORK_CHECKBOX_TEXT"              value="HWs"></property>              
+        <property name="SITE_FAVICON_BUTTON_TEXT"              value="Fesicon:"></property>
+        <property name="SITE_NAVBAR_BUTTON_TEXT"              value="Nos Illya:"></property>
+        <property name="GENERATOR_SITE_STYLE_HEADER_TEXT"              value="Sosasy"></property>
+        <property name="GENERATOR_SITE_NOTE_SUBHEADER_TEXT"              value="Notten: Styen shallen nitten biet placen intten wur/css o' bc slair"></property>
+        <property name="GENERATOR_SITE_INSTRUCTOR_HEADER_TEXT"              value="Inglot"></property>
+        <property name="GENERATOR_SITE_NAME_LABEL_TEXT"              value="Nos:"></property>
+        <property name="GENERATOR_SITE_EMAIL_LABEL_TEXT"              value="Emi:"></property>
+        <property name="GENERATOR_SITE_ROOM_LABEL_TEXT"              value="Rom:"></property>
+         <property name="GENERATOR_ROOM_TABLE_COLUMN_TEXT"          value="Romo"></property>
+         <property name="GENERATOR_MEETING_RECITATION_LABEL_TEXT"          value="Selen"></property>
+         <property name="GENERATOR_DAY2_TABLE_COLUMN_TEXT"          value="Daisy n' Timo"></property>
+         <property name="GENERATOR_MEETING_LAB_LABEL_TEXT"          value="Lidi"></property>
+         <property name="GENERATOR_ROOM2_TABLE_COLUMN_TEXT"          value="Romo"></property>
+         <property name="GENERATOR_TA1_TABLE_COLUMN1_TEXT"          value="TA1"></property>
+         <property name="GENERATOR_TA2_TABLE_COLUMN1_TEXT"          value="TA2"></property>
+         <property name="GENERATOR_SCHEDULE_CALENDER_HEADER_TEXT"          value="Cala Bonda"></property>
+         <property name="GENERATOR_SCHEDULE_STARTING_LABEL_TEXT"          value="Staten Mondon:"></property>
+         <property name="GENERATOR_SCHEDULE_STARTING_COMBO_DEFAULT"          value="01/01/2018"></property>
+          <property name="GENERATOR_SCHEDULE_ENDING_COMBO_DEFAULT"          value="12/31/2018"></property>
+        <property name="GENERATOR_SITE_HOME_PAGE_LABEL_TEXT"              value="Homo Pago:"></property>
+        <property name="GENERATOR_SITE_OFFICE_HOURS_LABEL_TEXT"              value="Offi Hoi"></property>
+        <property name="GENERATOR_SYLLABUS_DESCRIPTION_LABEL_TEXT"              value="Deca:"></property>
+        <property name="GENERATOR_SYLLABUS_TOPIC_LABEL_TEXT"              value="Toga:"></property>
+        <property name="GENERATOR_SYLLABUS_PERE_LABEL_TEXT"              value="Pereapp:"></property>
+        <property name="GENERATOR_SYLLABUS_OUT_LABEL_TEXT"              value="Outta:"></property>
+        <property name="GENERATOR_SYLLABUS_BOOK_LABEL_TEXT"              value="Biko:"></property>
+        <property name="GENERATOR_SYLLABUS_GRADE_LABEL_TEXT"              value="Grada Labba:"></property>
+        <property name="GENERATOR_SYLLABUS_NOTE_LABEL_TEXT"              value="Gradda Notta:"></property>
+        <property name="GENERATOR_SYLLABUS_DISHONESTY_LABEL_TEXT"              value="Acadaba Disnonono:"></property>
+        <property name="GENERATOR_SYLLABUS_ASIS_LABEL_TEXT"              value="Spapa Asasa:"></property>
+        <property name="GENERATOR_MEETING_LECTURE_LABEL_TEXT"              value="Letra"></property>
+        <property name="GENERATOR_SCHEDULE_ENDING_LABEL_TEXT"              value="Eden Fryen:"></property>
+        <property name="GENERATOR_SCHEDULE_DATE_LABEL_TEXT"              value="Datto:"></property>
+        <property name="GENERATOR_SCHEDULE_DATE_COMBO_DEAFULT"              value="01/01/2018"></property>
+        <property name="GENERATOR_SCHEDULE_TITLE_LABEL_TEXT"              value="Tilly:"></property>
+         <property name="GENERATOR_SCHEDULE_TOPIC_LABEL_TEXT"              value="Tofu:"></property>
+         <property name="GENERATOR_SCHEDULE_LINK_LABEL_TEXT"              value="Linky:"></property>
+         <property name="GENERATOR_SCHEDULE_ADD_BUTTON_TEXT"              value="Adden"></property>
+         <property name="GENERATOR_SCHEDULE_UPDATE_BUTTON_TEXT"              value="Uppen"></property>
+         <property name="GENERATOR_SCHEDULE_CLEAR_BUTTON_TEXT"              value="Cesa"></property>
+        <property name="CHOOSE_AN_IMAGE_TEXT"              value="Chosen n' imy"></property>
+       
+        <property name="OH_NO_TA_SELECTED_TITLE"        value="pagh ta wIv"></property>
+        <property name="OH_NO_TA_SELECTED_CONTENT"      value="qIt neH toggle vaj wIv ta"></property>
+
+         
+        <property name="LANGUAGE_DIALOG_TITLE"          value="app Hol Selection"></property>
+        <property name="LANGUAGE_DIALOG_HEADER_TEXT"    value="Hol wutlh"></property>
+        <property name="LANGUAGE_DIALOG_CONTENT_TEXT"   value="[Hol User Interface. ghaHDaq wIv BERNARDO."></property>
+
+        <property name="WORK_FILE_EXT"          value="*.ta"></property>
+	<property name="WORK_FILE_EXT_DESC"     value="ghojmoH boQwI' teywI'"></property>
+
+    </property_list>
+    
+ 
+    <property_options_list>
+        
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>English Hol</option>
+            <option>tlhIngan</option>
+        </property_options>
+        
+        <property_options name="GENERATOR_SUBEJECT_OPTIONS">
+            <option>CSE</option>
+        </property_options>
+        
+        <property_options name="GENERATOR_SEMESTER_OPTIONS">
+            <option>Fall</option>
+        </property_options>
+        
+         <property_options name="GENERATOR_NUMBER_OPTIONS">
+            <option>219</option>
+        </property_options>
+        
+         <property_options name="GENERATOR_CSS_OPTIONS">
+            <option>sea_wolf.css</option>
+        </property_options>
+        
+        <property_options name="GENERATOR_SCHEDULE_TYPE_COMBO_OPTION">
+            <option>Otto</option>
+            <option>Letty</option>
+            <option>Reffy</option>
+            <option>Reti</option>
+            <option>HI</option>
+        </property_options>
+        
+ 
+    </property_options_list>
+    
+    
+</properties>

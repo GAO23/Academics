@@ -1,0 +1,39 @@
+IMPORTANT READ USER AND IMPLEMENTATION GUIDE FIRST
+
+#User and Implementation Guide: Because professor gave us much freedom in implementation, I will take advantage of the liberty to create my own custom rules for my unix shell that differs from the standard bash on Unix/Linux like distros.
+In my opinion, these are what the bash shells should be hehehe....
+
+1) Use cd for changing directory. If cd has no path provided, it will cd into user home dir like the bash.
+
+2) use & for background job or use crl_z when a job is running in the foreground. Note that & must be separated by space so "firefox&" will be invalid but "firefox &" is valid.
+
+3) EXIT STATUS AND INFORMATION FOR NONE BACKGROUND JOBS WILL NOT BE DISPLAY. Only background jobs, either executed through "&" or crl_z will have their exit code mentioned on exit and will display their status when "jobs" commands are run.
+If a background jobs failed to execute then errors will be reported but these will not appear in the job lists when "jobs" command is run. These are done deliberately so please do not take off points.
+Note, if -d, debugging flag is provided then these information will be printed in addition to whatever the default is printed by the smash shell.
+
+4) when "jobs" command is executed, it will display all the jobs that had ran in the background as well as their exit status. These information will remain for the entire sessions.
+Program names are mentioned but their arguments are ommitted. This again is done deliberately.
+
+5) When pressing crl_c, if no job is run in the foreground then the shell will end the session and exit itself. This is again done deliberately, think of it as a shortcut for "exit".
+If a job is running in foreground, crl_c will terminate that job instead and issue a status code if that job had ran as a background job at least once. You can also alternatively, use the regular "exit" command
+to exit out of the shell. Upon exiting, all processes started by the shell are terminated.
+
+6) Built in commands like cd, fg, bg are unable to execute as background jobs. They are built in shell commands that execute essential functionality and are quick so it makes no sense to be forking
+processes or threads for this purpose.
+
+7) If kill does not have the -N as its second option, the shell will use the kill binary found in the /usr/bin/kill instead.
+
+8) when using redirection, the redirect must be characters in front of the file name without any spaces following. e.g. "ls >out" is valid but "ls > out" is not. Leaving spaces will cause your commands to hang!!!
+when redirecting stdin, use "<filename" and when redirecting stdout, use ">filename", when redirecting stderr, use "2>filename".
+
+9) If environment variables are used then each of them will be evaluated before execution. E.g. "echo $PATH $HOME" will have PATH and HOME evaluated and replaced by their values in strings.
+
+10) For none interactive mode, the script path must be absolute or relative. E.g. "smash ./foo.sh" works if foo.sh is in the current directory but "smash foo.sh" won't work. For absolute path, start from the root "/".
+In addition, each script must start with a shebang line. E.g. "#!/bin/sh", "#!/usr/bin/python3", ect.
+If argument "-d" is provided in addition to bash script in none interactive mode, -d must come before the bash file name. Usage is "smash [-d] [bash file]".
+The smash shell will take up to 2 arguments maximum.
+
+11) Note on every background job exited, shell will read in a enter and interpret this an empty command.
+
+#MAKEFILE
+make test will have smash execute the test.sh script.

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g   CMakeFiles/HW3.dir/src/main.c.o CMakeFiles/HW3.dir/src/sfmm.c.o ../lib/sfutil.o  -o HW3 

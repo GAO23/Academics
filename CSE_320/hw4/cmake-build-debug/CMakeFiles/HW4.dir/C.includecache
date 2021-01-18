@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/debug.h
+stdio.h
+-
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/jobber.h
+sf_readline.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/sf_readline.h
+debug.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/debug.h
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/sf_readline.h
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/task.h
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/src/jobs.c
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+stdio.h
+-
+sys/types.h
+-
+signal.h
+-
+fcntl.h
+-
+wait.h
+-
+errno.h
+-
+../include/jobber.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/jobber.h
+../include/task.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw4/include/task.h
+

@@ -1,0 +1,51 @@
+
+{
+    "startingMondayMonth":"1",
+    "startingMondayDay":"10",
+    "endingFridayMonth":"5",
+    "endingFridayDay":"18",
+    "holidays":[
+        {
+            "month":"1",
+            "day":"17",
+            "title":"Holiday ",
+            "link":"https://hackertyper.net/"
+        }
+    ],
+    "lectures":[
+    ],
+    "references":[
+        {
+            "month":"1",
+            "day":"19",
+            "title":"reference",
+            "topic":"weed enlightens the mind",
+            "link":"https://hackertyper.net/"
+        }
+    ],
+    "recitations":[
+        {
+            "month":"1",
+            "day":"20",
+            "title":"recitation",
+            "topic":"break dancing 24/7",
+            "link":"https://hackertyper.net/"
+        },
+        {
+            "month":"4",
+            "day":"12",
+            "title":"Super Recitaion",
+            "topic":"Super super ",
+            "link":"http://www.dhmo.org/"
+        }
+    ],
+    "hws":[
+        {
+            "month":"1",
+            "day":"21",
+            "title":"hw",
+            "topic":"hw is playing video games",
+            "link":"http://www.dhmo.org/"
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "instructor":{
+        "name":"Donald J. Trump",
+        "link":"https://prankcandles.com/",
+        "email":"IamRich@trump.com",
+        "room":"Wendy's restroom",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-6pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-9pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:50pm"
+            }
+        ]
+    },
+    "grad_tas":[
+        {
+            "name":"Sexy GradTA",
+            "email":"sexy@test.com",
+            "type":"Graduate"
+        }
+    ],
+    "undergrad_tas":[
+        {
+            "name":"Ugly UnderGradTA",
+            "email":"ugly@test2.com",
+            "type":"Undergraduate"
+        }
+    ],
+    "officeHours":[
+        {
+            "time":"9_00am",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"9_00am",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"9_30am",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"9_30am",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"10_00am",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"10_00am",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"10_30am",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"10_30am",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"11_00am",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"11_00am",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"11_30am",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"11_30am",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"12_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"12_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"12_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"12_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"1_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"1_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"1_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"1_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"2_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"2_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"2_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"2_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"3_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"3_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"3_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"3_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"4_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"4_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"4_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"4_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"5_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"5_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"5_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"5_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"6_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"6_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"6_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"6_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"7_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"7_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"7_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"7_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"8_00pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"8_00pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        },
+        {
+            "time":"8_30pm",
+            "day":"MONDAY",
+            "name":"Sexy GradTA"
+        },
+        {
+            "time":"8_30pm",
+            "day":"TUESDAY",
+            "name":"Ugly UnderGradTA"
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+
+{
+    "office_hour_tab":{
+        "startHour":"9",
+        "endHour":"20",
+        "oh_start_combo":"9:00am",
+        "oh_end_combo":"8:30pm",
+        "grad_tas":[
+            {
+                "name":"Sexy GradTA",
+                "email":"sexy@test.com",
+                "type":"Graduate"
+            }
+        ],
+        "undergrad_tas":[
+            {
+                "name":"Ugly UnderGradTA",
+                "email":"ugly@test2.com",
+                "type":"Undergraduate"
+            }
+        ],
+        "officeHours":[
+            {
+                "time":"9_00am",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"9_00am",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"9_30am",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"9_30am",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"10_00am",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"10_00am",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"10_30am",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"10_30am",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"11_00am",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"11_00am",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"11_30am",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"11_30am",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"12_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"12_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"12_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"12_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"1_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"1_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"1_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"1_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"2_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"2_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"2_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"2_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"3_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"3_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"3_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"3_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"4_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"4_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"4_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"4_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"5_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"5_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"5_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"5_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"6_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"6_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"6_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"6_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"7_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"7_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"7_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"7_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"8_00pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"8_00pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            },
+            {
+                "time":"8_30pm",
+                "day":"MONDAY",
+                "name":"Sexy GradTA"
+            },
+            {
+                "time":"8_30pm",
+                "day":"TUESDAY",
+                "name":"Ugly UnderGradTA"
+            }
+        ]
+    },
+    "site_tab":{
+        "subject":"Teletubies",
+        "number":"219",
+        "semester":"Fall",
+        "year":"2019",
+        "export_label":"F:\\hackings\\CSE_219_Software_Development_Final_Project\\export\\Teletubies_219_Fall_2019\\CourseSite",
+        "home_checked":"true",
+        "syllabus_checked":"false",
+        "schedule_check":"false",
+        "hw_checked":"true",
+        "favicon":"file:/F:/hackings/CSE_219_Software_Development_Final_Project/release/app_data/images/icons/SITE_FAVICON.png",
+        "navbar":"file:/F:/hackings/CSE_219_Software_Development_Final_Project/release/app_data/images/icons/SITE_NAVICON_ICON.png",
+        "bottom_left":"file:/F:/hackings/CSE_219_Software_Development_Final_Project/release/app_data/images/icons/SITE_LEFT_FOOTERCON_ICON.png",
+        "bottom_right":"file:/F:/hackings/CSE_219_Software_Development_Final_Project/release/app_data/images/icons/SITE_RIGHT_FOOTERCON_ICON.png",
+        "css_deafult":"sea_wolf.css",
+        "name":"Donald J. Trump",
+        "room":"Wendy's restroom",
+        "email":"IamRich@trump.com",
+        "link":"https://prankcandles.com/",
+        "hours":"[\n            { \"day\": \"Tuesday\",     \"time\": \"1:00pm-6pm\"    },\n            { \"day\": \"Wednesday\",   \"time\": \"2pm-9pm\"       },\n            { \"day\": \"Thursday\",      \"time\": \"1:00pm-2:50pm\"    }\n        ]"
+    },
+    "syllabus_tab":{
+        "description":"This course is for teaching you underwater basket weaving. ",
+        "topics":"[\n        \"Learn to dive underwater.\",\n        \"Learn to weave basket.\",\n        \"Learn to do absolutly nothing.\",\n        \"Learn to waste your tution money.\",\n        \"Learn to make stupid mistakes.\",\n        \"Learn to be proud of your mistakes.\",\n        \"Learn that college teaches nothing and is a waste of your life, including:<br /><ul><li>Speaking with mermeids</li><li>Escaping sharks</li><li>Eating Pizzas</li></ul>\"\n    ]",
+        "prerequisites":"You must know complicated tecniques like stretcing your arms and grab long and tiny things.</li></ul>",
+        "outcomes":"[\n        \"Ability to do nothing\",\n        \"Ability to waste time.\",\n        \"Ability to weave baskets.\",\n        \"Ability to become a virgin for life.\"\n    ]",
+        "textbooks":"[\n        {\n            \"title\": \"How to weave basket\",\n            \"link\": \"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596008678\",\n            \"photo\": \"./images/HeadFirstOOAAD.jpg\",\n            \"authors\": [\n                \"Brett McLaughlin\", \"Gary Pollice\", \"David West\"\n            ],\n            \"publisher\": \"Evil Potatoe.\",\n            \"year\": \"Before big bang\"\n        },\n        {\n            \"title\": \"How to dive underwater\",\n            \"link\": \"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596007124\",\n            \"photo\": \"./images/HeadFirstDesignPatterns.gif\",\n            \"authors\": [\n                \"Eric T Freeman\", \"Elisabeth Robson\", \"Bert Bates\", \"Kathy Sierra\"\n            ],\n            \"publisher\": \"Evil Tomato.\",\n            \"year\": \"After big crunch\"\n        }\n    ]",
+        "gradedComponents":" [\n        {\n            \"name\": \"Successfully sign up for this course\",\n            \"description\": \"Students simply need to enroll in this course to earn full credits and obtain A.\",\n            \"weight\": \"100\"\n        }\n    ]",
+        "gradingNote":"<strong>Note CEAS Policy:</strong> The Pass/No Credit (P/NC) option is not available for this course.",
+        "academicDishonesty":"No body cares. Cheat to your hearts content",
+        "specialAssistance":"If you have a physical, psychological, medical or learning disability that may impact on your ability to carry out assigned course work, you WILL be eaten by sharks"
+    },
+    "meeting_tab":{
+        "lectures":[
+            {
+                "section":"KKK",
+                "days":"Good Day",
+                "time":"Dinner Time",
+                "room":"Sushi Buffet Resturant"
+            },
+            {
+                "section":"TTT",
+                "days":"Bad Day",
+                "time":"CSE 219 Debugging Time",
+                "room":"My mother's basement"
+            }
+        ],
+        "recitations":[
+            {
+                "section":"Rainbow",
+                "day_time":"Deathday",
+                "location":"Torture Chamber",
+                "ta_1":"Jesus Christ",
+                "ta_2":"Evil Pizza"
+            },
+            {
+                "section":"Hell",
+                "day_time":"Doomsday",
+                "location":"Space and Time Rift",
+                "ta_1":"Donald J. Trump's pet cat",
+                "ta_2":"Sneaky Ninja"
+            }
+        ],
+        "labs":[
+            {
+                "lab_section":"No Lab",
+                "lab_days_and_time":"No Time",
+                "lab_room":"No Room",
+                "lab_ta1":"No TA",
+                "lab_ta2":"No TA"
+            }
+        ]
+    },
+    "schedule_tab":{
+        "starting_monday":"2018-01-10",
+        "ending_friday":"2018-05-18",
+        "schedule_items":[
+            {
+                "type":"Holiday",
+                "date":"2018-01-17",
+                "title":"Holiday ",
+                "topic":"Purge Day",
+                "link":"https://hackertyper.net/"
+            },
+            {
+                "type":"Reference",
+                "date":"2018-01-19",
+                "title":"reference",
+                "topic":"weed enlightens the mind",
+                "link":"https://hackertyper.net/"
+            },
+            {
+                "type":"Recitation",
+                "date":"2018-01-20",
+                "title":"recitation",
+                "topic":"break dancing 24/7",
+                "link":"https://hackertyper.net/"
+            },
+            {
+                "type":"HW",
+                "date":"2018-01-21",
+                "title":"hw",
+                "topic":"hw is playing video games",
+                "link":"http://www.dhmo.org/"
+            },
+            {
+                "type":"Recitation",
+                "date":"2018-04-12",
+                "title":"Super Recitaion",
+                "topic":"Super super ",
+                "link":"http://www.dhmo.org/"
+            }
+        ],
+        "type_default":"Reference",
+        "date_default":"2018-04-12",
+        "title":"Super Recitaion",
+        "schedule_topic":"Super super ",
+        "link":"http://www.dhmo.org/"
+    }
+}

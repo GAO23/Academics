@@ -1,0 +1,3 @@
+sudo mongoexport --db account --type=csv -c college --out college.csv --fields ranking,name,city,state,institution,admission_rate,size,median_debt,salary,majors,avg_gpa,act_composite_25,avg_act_composite,act_composite_75,sat_math_25,avg_sat_math,sat_math_75,sat_ebrw_25,avg_sat_ebrw,sat_ebrw_75,completion_rate,in_cost,out_cost,ranking
+
+sudo mongoexport --db account --type=csv -c college --out college.json

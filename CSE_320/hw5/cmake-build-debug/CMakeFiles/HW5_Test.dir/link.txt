@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g   CMakeFiles/HW5_Test.dir/tests/bourse_tests.c.o  -o HW5_Test /usr/lib/libcriterion.so ../lib/bourse_debug.a -lpthread 

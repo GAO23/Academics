@@ -1,0 +1,103 @@
+/******************************************************************************* react fixed *********************************************************************************/
+
+table.PageTable {border-spacing:0 15px; border-collapse: separate;}
+
+
+
+/*********************************************************************************** END ************************************************************************************/
+
+.wrap-my-page{
+    margin:auto;
+    width: 1020px;
+    min-width: 1020px;
+    padding-top:50px;
+}
+#profile, #application{
+    width: 500px;
+    height: 650px;
+    max-height: 650px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.flex{display: flex;}
+
+/* profile */
+#profile{float: left;overflow: auto;}
+#profile > *{width: 100%;}
+#save-btn{float: right;margin-top: 5px;}
+
+#profile > div:nth-child(2) > table > tbody > tr input{height: 25px;}
+.wrap-student-icon{width: 140px;}
+.student-icon{width: 80px;}
+.profile-number-input{width: 110px;}
+#profile-college-class{height: 25px; margin-left: 10px;}
+#profile-high-scool-city{width: 70%;float: left;margin-right: 20px;}
+#profile-major1, #profile-major2{width: 100%;}
+#profile-exam-scores{background-color: #b4b6fcf7;}
+/* profile */
+
+/* application */
+#application{float: right;}
+
+/* register */
+#application > div:nth-child(2) {
+    width: 100%;
+    height: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-flex;
+}
+#application > div:nth-child(2) > table{
+    background-color: #b4b6fcf7;
+    float: left;
+    width: 100%;
+    border-radius: 5px;
+}
+#application > div:nth-child(2) > table td:nth-child(1){
+    width: 33%;
+    text-align-last: end;
+    padding-right: 10px;
+}
+#application > div:nth-child(2) > table td:nth-child(2){
+    text-align-last: start;
+    padding-left: 10px;
+}
+#application > div:nth-child(2) > table td:nth-child(3){width: 30%;}
+#college, #status{width: 150px;}
+#register-btn{height: 100%;}
+/* register */
+
+/* list */
+#application > div:nth-child(3){height: 400px;}
+#application > div:nth-child(3) > table{width: 100%;margin-top: 20px;}
+.wrap-admin-check{width: 30px;}
+.admin-check{width: 20px;}
+.status{width: 100px;float: right;text-align: end;}
+/* list */
+/* application */
+
+/* modal*/
+#find-similar-high-schools-modal > div{
+    left:50%; top:50%;
+    transform:translate(-50%,-50%);
+    width: 500px;height: 615px;
+    position: fixed;
+}
+#find-similar-high-schools-modal > div > div{
+    height: 100%;
+}
+.similar-high-school-list{
+    height: 450px;
+    border-radius: 5px;
+    border: rgb(190, 190, 190) 1px solid;
+    overflow: auto;
+}
+.similar-high-school-list > div{
+    border-bottom: rgb(190, 190, 190) 1px solid;
+    width: 100%;
+    height: fit-content;
+}
+.similar-high-school-name{text-align: center;}
+.similar-high-school-info > ul{margin: 0;}
+/* modal*/

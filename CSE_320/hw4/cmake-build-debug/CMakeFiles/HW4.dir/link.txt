@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g   CMakeFiles/HW4.dir/src/jobs.c.o CMakeFiles/HW4.dir/src/main.c.o CMakeFiles/HW4.dir/src/sf_readline.c.o CMakeFiles/HW4.dir/src/task.c.o ../lib/sf_event.o  -o HW4 

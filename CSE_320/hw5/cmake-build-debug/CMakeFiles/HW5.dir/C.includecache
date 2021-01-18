@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/exchange.h
+trader.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/trader.h
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/protocol.h
+netinet/in.h
+-
+arpa/inet.h
+-
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/trader.h
+protocol.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/protocol.h
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/trader_exchage_struct.h
+../include/trader.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/trader.h
+../include/exchange.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/exchange.h
+
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/src/exchange.c
+../include/exchange.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/exchange.h
+../include/trader_exchage_struct.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/trader_exchage_struct.h
+../include/protocol.h
+/home/xgao/Documents/Clion_Projects/CSE_320/hw5/include/protocol.h
+stdlib.h
+-
+pthread.h
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+

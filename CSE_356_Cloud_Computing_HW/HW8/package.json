@@ -1,0 +1,16 @@
+{
+  "name": "hw8",
+  "version": "1.0.0",
+  "description": "hw8",
+  "main": "hw8.js",
+  "scripts": {
+    "test": "node hw8.js"
+  },
+  "author": "GAO",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mc": "^1.0.6",
+    "mysql": "^2.17.1"
+  }
+}
