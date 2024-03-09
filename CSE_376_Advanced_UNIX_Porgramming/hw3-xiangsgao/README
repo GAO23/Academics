@@ -1,7 +1,6 @@
 IMPORTANT READ USER AND IMPLEMENTATION GUIDE FIRST
 
 #User and Implementation Guide: Because professor gave us much freedom in implementation, I will take advantage of the liberty to create my own custom rules for my unix shell that differs from the standard bash on Unix/Linux like distros.
-In my opinion, these are what the bash shells should be hehehe....
 
 1) Use cd for changing directory. If cd has no path provided, it will cd into user home dir like the bash.
 
